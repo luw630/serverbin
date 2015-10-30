@@ -1,0 +1,4 @@
+Condition	RewardType	RewardID	RewardNum	
+Int	String	String	String	
+30.000	2|3|3	0|20001|20011	100|5|2	
+60.000	4|3|3	144|20001|20007	1|5|2	

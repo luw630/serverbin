@@ -1,0 +1,135 @@
+[2015-10-27 13:39:16] [115] connect to loginserver
+角色[gm1051000][]连接[:0]被[gm1051000][192.168.0.124:51492]替换！！！
+角色[gm1051000][]连接[:0]被[gm1051000][192.168.0.124:57380]替换！！！
+[2015-10-27 14:0:23] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:1: module 'SanGuoScript.Activity.ActivityFramework.Activitymodule' not found:
+	no field package.preload['SanGuoScript.Activity.ActivityFramework.Activitymodule']
+	no file '.\SanGuoScript\Activity\ActivityFramework\Activitymodule.lua'
+	no file 'D:\work\ServerBin\ZoneServer\lua\SanGuoScript\Activity\ActivityFramework\Activitymodule.lua'
+	no file 'D:\work\ServerBin\ZoneServer\lua\SanGuoScript\Activity\ActivityFramework\Activitymodule\init.lua'
+	no file 'D:\work\ServerBin\ZoneServer\SanGuoScript\Activity\ActivityFramework\Activitymodule.lua'
+	no file 'D:\work\ServerBin\ZoneServer\SanGuoScript\Activity\ActivityFramework\Activitymodule\init.lua'
+	no file 'C:\Program Files (x86)\Lua\5.1\lua\SanGuoScript\Activity\ActivityFramework\Activitymodule.luac'
+	no file '.\SanGuoScript\Activity\ActivityFramework\Activitymodule.dll'
+	no file 'D:\work\ServerBin\ZoneServer\SanGuoScript\Activity\ActivityFramework\Activitymodule.dll'
+	no file 'D:\work\ServerBin\ZoneServer\loadall.dll'
+	no file '.\SanGuoScript.dll'
+	no file 'D:\work\ServerBin\ZoneServer\SanGuoScript.dll'
+	no file 'D:\work\ServerBin\ZoneServer\loadall.dll'
+
+[2015-10-27 14:18:27] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:1: module 'SanGuoScript.Activity.ActivityFramework' not found:
+	no field package.preload['SanGuoScript.Activity.ActivityFramework']
+	no file '.\SanGuoScript\Activity\ActivityFramework.lua'
+	no file 'D:\work\ServerBin\ZoneServer\lua\SanGuoScript\Activity\ActivityFramework.lua'
+	no file 'D:\work\ServerBin\ZoneServer\lua\SanGuoScript\Activity\ActivityFramework\init.lua'
+	no file 'D:\work\ServerBin\ZoneServer\SanGuoScript\Activity\ActivityFramework.lua'
+	no file 'D:\work\ServerBin\ZoneServer\SanGuoScript\Activity\ActivityFramework\init.lua'
+	no file 'C:\Program Files (x86)\Lua\5.1\lua\SanGuoScript\Activity\ActivityFramework.luac'
+	no file '.\SanGuoScript\Activity\ActivityFramework.dll'
+	no file 'D:\work\ServerBin\ZoneServer\SanGuoScript\Activity\ActivityFramework.dll'
+	no file 'D:\work\ServerBin\ZoneServer\loadall.dll'
+	no file '.\SanGuoScript.dll'
+	no file 'D:\work\ServerBin\ZoneServer\SanGuoScript.dll'
+	no file 'D:\work\ServerBin\ZoneServer\loadall.dll'
+
+[2015-10-27 14:19:36] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\factionManager...."]:897: attempt to index local 'ActivityFramework' (a boolean value)
+
+[string "Script\SanGuoScript\faction\factionManager...."]:900: attempt to index local 'ActivityFramework' (a boolean value)
+
+[string "Script\SanGuoScript\faction\factionManager...."]:895: module 'mymod' not found:
+	no field package.preload['mymod']
+	no file '.\mymod.lua'
+	no file 'D:\work\ServerBin\ZoneServer\lua\mymod.lua'
+	no file 'D:\work\ServerBin\ZoneServer\lua\mymod\init.lua'
+	no file 'D:\work\ServerBin\ZoneServer\mymod.lua'
+	no file 'D:\work\ServerBin\ZoneServer\mymod\init.lua'
+	no file 'C:\Program Files (x86)\Lua\5.1\lua\mymod.luac'
+	no file '.\mymod.dll'
+	no file 'D:\work\ServerBin\ZoneServer\mymod.dll'
+	no file 'D:\work\ServerBin\ZoneServer\loadall.dll'
+
+角色[gm1001000][]连接[:0]被[gm1001000][192.168.0.167:199]替换！！！
+角色[gm1001000][]连接[:0]被[gm1001000][192.168.0.167:18887]替换！！！
+角色[gm58171000][]连接[192.168.0.166:61702]被[gm58171000][192.168.0.166:64774]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:4359]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:8967]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:16391]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:20487]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:22791]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:29703]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:43015]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:50439]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:64007]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:2824]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:8968]替换！！！
+[2015-10-27 12:5:53] [115] connect to loginserver
+.\Script\SanGuoScript\faction\luaplayer.lua:11: attempt to index global 'self' (a nil value)
+
+.\Script\SanGuoScript\faction\luaplayer.lua:11: attempt to index global 'self' (a nil value)
+
+角色[gm1051000][]连接[:0]被[gm1051000][192.168.0.124:30214]替换！！！
+.\Script\SanGuoScript\faction\luaplayer.lua:11: attempt to index global 'self' (a nil value)
+
+竞技场排行开始更新
+竞技场更新TOP50列表
+角色[gm1051000][]连接[:0]被[gm1051000][192.168.0.124:36102]替换！！！
+.\Script\SanGuoScript\faction\luaplayer.lua:11: attempt to index global 'self' (a nil value)
+
+竞技场排行开始更新
+竞技场更新TOP50列表
+[2015-10-27 12:12:34] [115] connect to loginserver
+.\Script\SanGuoScript\faction\luaplayer.lua:11: attempt to index local 'self' (a nil value)
+
+.\Script\SanGuoScript\faction\luaplayer.lua:11: attempt to index local 'self' (a nil value)
+
+角色[gm1051000][]连接[:0]被[gm1051000][192.168.0.124:50182]替换！！！
+.\Script\SanGuoScript\faction\luaplayer.lua:11: attempt to index local 'self' (a nil value)
+
+角色[gm1051000][]连接[:0]被[gm1051000][192.168.0.124:54278]替换！！！
+[string "Script\SanGuoScript\faction\luaplayer.lua"]:11: attempt to index local 'self' (a nil value)
+
+竞技场排行开始更新
+竞技场更新TOP50列表
+角色[gm1051000][]连接[:0]被[gm1051000][192.168.0.124:58118]替换！！！
+[string "Script\SanGuoScript\faction\luaplayer.lua"]:16: attempt to concatenate local 'sid' (a nil value)
+
+竞技场排行开始更新
+竞技场更新TOP50列表
+角色[gm1051000][]连接[:0]被[gm1051000][192.168.0.124:1799]替换！！！
+[2015-10-27 13:28:46] [115] connect to loginserver
+角色[gm1051000][]连接[192.168.0.31:50158]被[gm1051000][192.168.0.124:59411]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:56334]替换！！！
+角色[gm1051000][]连接[192.168.0.124:59411]被[gm1051000][192.168.0.31:57582]替换！！！
+角色[gm1051000][]连接[:0]被[gm1051000][192.168.0.31:62702]替换！！！
+角色[gm4441000][]连接[:0]被[gm4441000][192.168.0.124:35092]替换！！！
+角色[gm4441000][]连接[:0]被[gm4441000][192.168.0.124:39700]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:65038]替换！！！
+角色[gm4441000][]连接[:0]被[gm4441000][192.168.0.124:53012]替换！！！
+角色[gm1051000][]连接[:0]被[gm1051000][192.168.0.31:4591]替换！！！
+角色[gm1051000][]连接[:0]被[gm1051000][192.168.0.31:8687]替换！！！
+角色[gm0301000][]连接[:0]被[gm0301000][192.168.0.129:19668]替换！！！
+角色[gm0301000][]连接[:0]被[gm0301000][192.168.0.129:59093]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:4624]替换！！！
+角色[gm0301000][]连接[:0]被[gm0301000][192.168.0.129:42710]替换！！！
+[string "Script\SanGuoScript\faction\factionscene.lua"]:856: no loop to break near 'end'
+
+角色[gm4441000][]连接[:0]被[gm4441000][192.168.0.124:23577]替换！！！
+角色[gm3331000][]连接[:0]被[gm3331000][192.168.0.124:27417]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:50706]替换！！！
+[string "Script\SanGuoScript\faction\factionscene.lu..."]:788: attempt to compare number with nil
+
+竞技场排行开始更新
+获取军团ID103100224
+竞技场更新TOP50列表
+获取军团ID103100224
+获取军团ID103100224
+获取军团ID103100224
+角色[gm3331000][]连接[:0]被[gm3331000][192.168.0.124:17946]替换！！！
+角色[gm3331000][]连接[:0]被[gm3331000][192.168.0.124:1051]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:61459]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:25623]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:41239]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:47127]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:52247]替换！！！

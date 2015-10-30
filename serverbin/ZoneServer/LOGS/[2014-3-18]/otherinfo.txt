@@ -1,0 +1,407 @@
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[0]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：0，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+-----------------------------
+2014-3-18 10:29:1
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[0]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：0，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[0]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：0，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+-----------------------------
+2014-3-18 11:29:1
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[0]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：0，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[0]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：0，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+-----------------------------
+2014-3-18 12:29:2
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[0]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：0，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[0]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：0，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+-----------------------------
+2014-3-18 13:29:2
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[0]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：0，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[0]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：0，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+-----------------------------
+2014-3-18 14:29:2
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[0]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：0，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[0]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：0，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+-----------------------------
+2014-3-18 15:29:2
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[0]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：0，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[0]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：0，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+[2014-3-18,16:5:35] 注意：发现一个掉线玩家账号 [200338] ，掉线所在位置[1,72,57]
+[2014-3-18,16:6:9] 注意：发现一个掉线玩家账号 [200339] ，掉线所在位置[1,78,90]
+-----------------------------
+2014-3-18 16:29:2
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 2/2
+对象映射数量：源[2]Dnid[4]Name[2]Account[2]
+玩家总数：2
+RID = 001, PlayerNumber = 2
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/2/0/0/0/0
+历史平均ping值：23，当前平均ping值：23
+当前最高ping值：39，当前最低ping值：7
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 2/2
+对象映射数量：源[2]Dnid[4]Name[2]Account[2]
+玩家总数：2
+RID = 001, PlayerNumber = 2
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/2/0/0/0/0
+历史平均ping值：22，当前平均ping值：21
+当前最高ping值：31，当前最低ping值：8
+[2014-3-18,17:5:21] 注意：发现一个掉线玩家账号 [200340] ，掉线所在位置[1,99,56]
+-----------------------------
+2014-3-18 17:29:2
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+[2014-3-18,17:30:3] 注意：发现一个掉线玩家账号 [200340] ，掉线所在位置[1,73,57]
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 1/1
+对象映射数量：源[1]Dnid[5]Name[1]Account[1]
+玩家总数：1
+RID = 001, PlayerNumber = 1
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/1/0/0/0/0
+历史平均ping值：22，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+-----------------------------
+2014-3-18 17:45:21
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+[2014-3-18,17:53:8] 注意：发现一个掉线玩家账号 [200340] ，掉线所在位置[1,118,59]
+[2014-3-18,18:7:43] 注意：发现一个掉线玩家账号 [200340] ，掉线所在位置[1,163,55]
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[2]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：0，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[2]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：0，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+-----------------------------
+2014-3-18 18:45:22
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[2]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：0，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+[2014-3-18,19:31:6] 注意：发现一个掉线玩家账号 [200340] ，掉线所在位置[1,163,55]
+-----------------------------
+2014-3-18 19:43:27
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+-----------------------------
+2014-3-18 20:27:46
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0

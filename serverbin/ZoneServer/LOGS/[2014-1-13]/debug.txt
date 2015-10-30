@@ -1,0 +1,112 @@
+[2014-1-13 10:58:32] [115] connect to loginserver
+角色[20025][姚孱]连接[:0]被[20025][10.0.100.14:42304]替换！！！
+角色[20026][何迎松]连接[:0]被[20026][10.0.100.14:31300]替换！！！
+lAttackPos  x= 3772.865967,y = 1760.784912
+角色[20026][何迎松]连接[:0]被[20026][10.0.100.14:49734]替换！！！
+lAttackPos  x= 3776.001709,y = 1856.000854
+角色[20026][何迎松]连接[:0]被[20026][10.0.100.14:20295]替换！！！
+lAttackPos  x= 3872.002441,y = 1952.001221
+[2014-1-13 11:20:8] [115] connect to loginserver
+角色[20026][周疾]连接[:0]被[20026][10.0.100.14:42315]替换！！！
+角色[20026][周疾]连接[:0]被[20026][10.0.100.14:22113]替换！！！
+lAttackPos  x= 2559.999756,y = 2240.000000
+角色[20026][周疾]连接[:0]被[20026][10.0.100.14:57989]替换！！！
+lAttackPos  x= 2559.999756,y = 2240.000000
+角色[20026][周疾]连接[:0]被[20026][10.0.100.14:3463]替换！！！
+角色[20026][周疾]连接[:0]被[20026][10.0.100.14:56756]替换！！！
+角色[20026][周疾]连接[:0]被[20026][10.0.100.14:6624]替换！！！
+lAttackPos  x= 2559.999756,y = 2240.000000
+角色[20026][周疾]连接[:0]被[20026][10.0.100.14:1348]替换！！！
+角色[20025][东郭青文]连接[:0]被[20025][10.0.100.14:30538]替换！！！
+lAttackPos  x= 3074.557129,y = 2150.951172
+角色[20025][东郭青文]连接[:0]被[20025][10.0.100.14:36175]替换！！！
+lAttackPos  x= 2559.999756,y = 2240.000000
+角色[20025][东郭青文]连接[:0]被[20025][10.0.100.14:5712]替换！！！
+角色[20026][周疾]连接[:0]被[20026][10.0.100.14:52308]替换！！！
+角色[20027][马渊思]连接[:0]被[20027][10.0.100.14:34389]替换！！！
+lAttackPos  x= 3020.627686,y = 2736.378906
+角色[20027][马渊思]连接[:0]被[20027][10.0.100.14:10846]替换！！！
+角色[20027][马渊思]连接[:0]被[20027][10.0.100.14:60004]替换！！！
+角色[20027][马渊思]连接[:0]被[20027][10.0.100.14:52083]替换！！！
+lAttackPos  x= 2880.000000,y = 2240.000000
+角色[20027][马渊思]连接[:0]被[20027][10.0.100.14:15988]替换！！！
+角色[20028][魏弼]连接[:0]被[20028][10.0.100.14:3957]替换！！！
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 869
+SendMove2TargetForAttackMsg distance = 824
+SendMove2TargetForAttackMsg distance = 735
+SendMove2TargetForAttackMsg distance = 710
+SendMove2TargetForAttackMsg distance = 710
+SendMove2TargetForAttackMsg distance = 695
+SendMove2TargetForAttackMsg distance = 616
+SendMove2TargetForAttackMsg distance = 545
+SendMove2TargetForAttackMsg distance = 528
+SendMove2TargetForAttackMsg distance = 458
+SendMove2TargetForAttackMsg distance = 428
+SendMove2TargetForAttackMsg distance = 428
+SendMove2TargetForAttackMsg distance = 391
+SendMove2TargetForAttackMsg distance = 371
+SendMove2TargetForAttackMsg distance = 373
+SendMove2TargetForAttackMsg distance = 332
+SendMove2TargetForAttackMsg distance = 262
+SendMove2TargetForAttackMsg distance = 223
+SendMove2TargetForAttackMsg distance = 223
+SendMove2TargetForAttackMsg distance = 274
+SendMove2TargetForAttackMsg distance = 351
+SendMove2TargetForAttackMsg distance = 416
+SendMove2TargetForAttackMsg distance = 416
+SendMove2TargetForAttackMsg distance = 416
+SendMove2TargetForAttackMsg distance = 416
+SendMove2TargetForAttackMsg distance = 416
+SendMove2TargetForAttackMsg distance = 416
+SendMove2TargetForAttackMsg distance = 371
+SendMove2TargetForAttackMsg distance = 347
+SendMove2TargetForAttackMsg distance = 346
+SendMove2TargetForAttackMsg distance = 367
+SendMove2TargetForAttackMsg distance = 381
+SendMove2TargetForAttackMsg distance = 381
+SendMove2TargetForAttackMsg distance = 381
+SendMove2TargetForAttackMsg distance = 381
+SendMove2TargetForAttackMsg distance = 381
+SendMove2TargetForAttackMsg distance = 381
+SendMove2TargetForAttackMsg distance = 381
+lAttackPos  x= 2559.999756,y = 2240.000000
+角色[20028][魏弼]连接[:0]被[20028][10.0.100.14:886]替换！！！
+角色[20028][魏弼]连接[:0]被[20028][10.0.100.14:39798]替换！！！
+lAttackPos  x= 2559.999756,y = 2240.000000
+角色[20028][魏弼]连接[:0]被[20028][10.0.100.14:33409]替换！！！
+角色[20028][魏弼]连接[:0]被[20028][10.0.100.14:22921]替换！！！
+角色[20028][魏弼]连接[:0]被[20028][10.0.100.14:57228]替换！！！
+lAttackPos  x= 2880.000000,y = 2240.000000
+[2014-1-13 21:4:18] [115] connect to loginserver
+角色[20028][魏弼]连接[:0]被[20028][10.0.100.14:60087]替换！！！
+角色[20028][魏弼]连接[:0]被[20028][10.0.100.14:28344]替换！！！
+角色[20028][魏弼]连接[:0]被[20028][10.0.100.14:5568]替换！！！
+角色[20028][魏弼]连接[:0]被[20028][10.0.100.14:1745]替换！！！
+SendMove2TargetForAttackMsg x = 2765.985352,y = 2176.988770,destX = 2595.041504,destY = 1892.865967
+SendMove2TargetForAttackMsg x = 2595.041504,y = 1892.865967,destX = 2882.991699,destY = 2181.843018
+SendMove2TargetForAttackMsg x = 3038.000000,y = 2594.000000,destX = 2933.426270,destY = 2264.913086
+角色[20028][魏弼]连接[:0]被[20028][10.0.100.14:26336]替换！！！
+角色[20028][魏弼]连接[:0]被[20028][10.0.100.14:59360]替换！！！
+lAttackPos  x= 3118.096191,y = 2728.005615
+角色[20028][魏弼]连接[:0]被[20028][10.0.100.14:25570]替换！！！
+lAttackPos  x= 3133.759277,y = 2763.295166

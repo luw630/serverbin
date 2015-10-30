@@ -1,0 +1,100 @@
+[2015-8-6 13:28:11] [115] connect to loginserver
+[2015-8-6 13:40:9] [115] connect to loginserver
+[2015-8-6 13:44:48] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\factionManager.lua"]:149: '=' expected near 'end'
+
+[2015-8-6 13:58:35] [115] connect to loginserver
+[2015-8-6 14:7:15] [115] connect to loginserver
+[2015-8-6 14:17:32] [115] connect to loginserver
+[2015-8-6 14:25:46] [115] connect to loginserver
+[2015-8-6 14:29:5] [115] connect to loginserver
+[2015-8-6 14:35:3] [115] connect to loginserver
+[2015-8-6 14:41:38] [115] connect to loginserver
+[2015-8-6 14:48:45] [115] connect to loginserver
+[2015-8-6 14:53:52] [115] connect to loginserver
+[2015-8-6 14:54:55] [115] connect to loginserver
+角色[gm012][]连接[:0]被[gm012][192.168.0.166:43283]替换！！！
+角色[gm012][]连接[:0]被[gm012][192.168.0.166:46099]替换！！！
+[2015-8-6 15:39:5] [115] connect to loginserver
+角色[gm012][]连接[:0]被[gm012][192.168.0.166:50708]替换！！！
+角色[gm012][]连接[:0]被[gm012][192.168.0.166:54292]替换！！！
+角色[gm012][]连接[:0]被[gm012][192.168.0.166:56852]替换！！！
+角色[gm012][]连接[:0]被[gm012][192.168.0.166:57620]替换！！！
+角色[gm012][]连接[:0]被[gm012][192.168.0.166:60948]替换！！！
+角色[gm012][]连接[:0]被[gm012][192.168.0.166:61204]替换！！！
+[2015-8-6 15:56:3] [115] connect to loginserver
+[2015-8-6 16:13:42] [115] connect to loginserver
+角色[gm014][]连接[:0]被[gm014][192.168.0.166:62230]替换！！！
+角色[gm014][]连接[:0]被[gm014][192.168.0.166:64278]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:187: attempt to concatenate field 'MasterSid' (a nil value)
+
+角色[gm013][]连接[:0]被[gm013][192.168.0.166:6423]替换！！！
+角色[gm013][]连接[:0]被[gm013][192.168.0.166:51735]替换！！！
+角色[gm013][]连接[:0]被[gm013][192.168.0.166:14616]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.lua"]:301: 'end' expected (to close 'function' at line 166) near '<eof>'
+
+角色[gm017][]连接[:0]被[gm017][192.168.0.166:28440]替换！！！
+[string "Script\SanGuoScript\faction\factionManager...."]:278: attempt to index global 'factionInfo' (a nil value)
+
+角色[gm013][]连接[:0]被[gm013][192.168.0.166:5401]替换！！！
+角色[gm013][]连接[:0]被[gm013][192.168.0.166:10777]替换！！！
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+[2015-8-6 17:21:28] [115] connect to loginserver
+[2015-8-6 17:27:50] [115] connect to loginserver
+[2015-8-6 17:35:34] [115] connect to loginserver
+[2015-8-6 17:38:32] [115] connect to loginserver
+[2015-8-6 17:41:22] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\factionManager...."]:389: attempt to get length of global 'SaveAllFaction' (a function value)
+
+竞技场排行榜未初始化
+刷新数据到内存1---找共享缓存，用掉0毫秒！
+刷新数据到内存2---遍历玩家前，用掉0毫秒！
+刷新数据到内存4---遍历玩家后，用掉0毫秒！
+[2015-8-6 18:4:51] [115] connect to loginserver
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+竞技场排行榜未初始化
+刷新数据到内存1---找共享缓存，用掉0毫秒！
+刷新数据到内存2---遍历玩家前，用掉0毫秒！
+刷新数据到内存4---遍历玩家后，用掉0毫秒！
+[string "Script\SanGuoScript\faction\factionManager...."]:389: attempt to get length of global 'SaveAllFaction' (a function value)
+
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+竞技场排行榜未初始化
+刷新数据到内存1---找共享缓存，用掉0毫秒！
+刷新数据到内存2---遍历玩家前，用掉0毫秒！
+刷新数据到内存4---遍历玩家后，用掉0毫秒！
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+竞技场排行榜未初始化
+刷新数据到内存1---找共享缓存，用掉0毫秒！
+刷新数据到内存2---遍历玩家前，用掉0毫秒！
+刷新数据到内存4---遍历玩家后，用掉0毫秒！
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+[2015-8-6 19:7:57] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:218: attempt to index global 'factionInfo' (a nil value)
+
+竞技场排行榜未初始化
+刷新数据到内存1---找共享缓存，用掉0毫秒！
+刷新数据到内存2---遍历玩家前，用掉0毫秒！
+刷新数据到内存4---遍历玩家后，用掉0毫秒！
+角色[gm013][]连接[:0]被[gm013][192.168.0.166:16413]替换！！！
+角色[gm013][]连接[:0]被[gm013][192.168.0.166:29213]替换！！！
+角色[gm021][]连接[:0]被[gm021][192.168.0.166:60189]替换！！！
+角色[gm021][]连接[:0]被[gm021][192.168.0.166:13086]替换！！！
+角色[gm022][]连接[:0]被[gm022][192.168.0.166:59166]替换！！！
+角色[gm022][]连接[:0]被[gm022][192.168.0.166:3615]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:168: attempt to compare number with nil
+
+竞技场排行榜未初始化
+刷新数据到内存1---找共享缓存，用掉0毫秒！
+刷新数据到内存2---遍历玩家前，用掉0毫秒！
+刷新数据到内存4---遍历玩家后，用掉0毫秒！
+角色[gm022][]连接[:0]被[gm022][192.168.0.166:15903]替换！！！
+角色[gm023][]连接[:0]被[gm023][192.168.0.166:5152]替换！！！
+角色[gm023][]连接[:0]被[gm023][192.168.0.166:7456]替换！！！

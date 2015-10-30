@@ -1,0 +1,50 @@
+1	BAP_MHP			// 生命上限	
+2	"BAP_MMP,"				// 内力上限
+3	"BAP_MTP,"				// 体力上限
+4	"BAP_GONGJI,"				// 攻击
+5	"BAP_FANGYU,"				// 防御
+6	"BAP_BAOJI,"				// 暴击
+7	"BAP_SHANBI,"				// 闪避
+8	"BAP_SPEED,"				// 移动速度
+9	"BAP_HIT,"				//命中
+10	"BAP_ATKSPEED,"			// 攻击速度	
+11	"BAP_SORBDAM,"			// 伤害吸收值	
+12	"BAP_SORBDAM_PER,"		// 伤害吸收百分比		
+13	"BAP_BACK_DAMAGE,"		// 伤害反弹值		
+14	"BAP_BACK_DAMAGE_PER,"	// 伤害反弹百分比			
+15	"BAP_EXTRA_EXP_PER,"		// 额外经验百分比		
+16	"BAP_UNCRIT, //抗暴"				
+17	"BAP_WRECK,//破击"				
+18	"BAP_UNWRECK,"	//抗破			
+19	"BAP_PUNCTURE,"	//穿刺			
+20	"BAP_UNPUNCTURE,"	//抗穿			
+21	"BAP_ATTRI_MAX,"				
+22	"BAP_CHP,"				// 当前生命
+23	"BAP_CMP,"				// 当前内力
+24	"BAP_CTP,"				// 当前体力
+1000	BAP_DIZZY		// 昏迷(不会被打醒)		
+1001	"BAP_LIMIT_SKILL,"		// 封招		
+1002	"BAP_HYPNOTISM,"			// 催眠(目前同昏迷)	
+1003	"BAP_DINGSHENG ,"			// 定身	
+1004	"BAP_WUDI,"				// 无敌
+1005	"BAP_ADDBUFF,"				// 无法附加任何BUFF
+1006	"BAP_JITUI,"				// 被击退
+1007	"BAP_STATE_MAX,"				
+1008	"BAP_RESIST_SUCKHP = 2001,"	// 抗吸血ok			
+1009	"BAP_RESIST_SUCKMP,"			// 抗吸内OK	
+1010	"BAP_RESIST_SUCKTP,"			// 抗吸体力OK	
+1011	"BAP_RESIST_DEDUCTHP,"		// 抗减血OK		
+1012	"BAP_RESIST_DEDECTMP,"		// 抗减内OK		
+1013	"BAP_RESIST_DEDUCTTP,"		// 抗减体力OK		
+1014	"BAP_RESIST_JITUI,"			// 抗击退ok	
+1015	"BAP_RESIST_DINGSHEN,"		// 抗定身ok		
+1016	"BAP_RESIST_DEDUCTSPEED,"		// 抗减速OK		
+1017	"BAP_RESIST_MAX,"				
+1018	"BAP_SP_SUCKHP = 3001,"	// 吸生命			
+1019	"BAP_SP_SUCKMP,"			// 吸内力	
+1020	"BAP_SP_SUCKTP,"			// 吸体力	
+1021	"BAP_SP_DEDUCTHP,"		// 扣生命OK		
+1022	"BAP_SP_DEDUCTMP,"		// 扣内力OK		
+1023	"BAP_SP_DEDUCTTP,"		// 扣体力OK		
+1024	"BAP_SP_MAX,"				
+1025	"BAP_NULL = 0xffff,"		// 什么都不修改		

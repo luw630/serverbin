@@ -1,0 +1,59 @@
+[2015-8-17 13:57:25] [115] connect to loginserver
+[string "Script\SanGuoScript\Friends\Friends.lua"]:526: bad argument #1 to 'insert' (table expected, got nil)
+
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\Friends\Friends.lua"]:410: attempt to concatenate local 'sid' (a nil value)
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\Friends\Friends.lua"]:410: attempt to concatenate local 'sid' (a nil value)
+
+[2015-8-17 14:13:59] [115] connect to loginserver
+[2015-8-17 14:25:51] [115] connect to loginserver
+角色[gmrtt][]连接[:0]被[gmrtt][192.168.0.124:24328]替换！！！
+[2015-8-17 15:15:0] [115] connect to loginserver
+[2015-8-17 15:26:34] [115] connect to loginserver
+角色[gmrtt][]连接[:0]被[gmrtt][192.168.0.124:48394]替换！！！
+[2015-8-17 16:30:39] [115] connect to loginserver
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:102: attempt to index upvalue 'PrayerShopData' (a nil value)
+
+竞技场排行榜未初始化
+[2015-8-17 17:37:44] [115] connect to loginserver
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:159: attempt to index a number value
+
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+[2015-8-17 19:50:3] [115] connect to loginserver
+[2015-8-17 19:51:15] [115] connect to loginserver
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:174: attempt to compare nil with number
+
+竞技场排行榜未初始化
+[2015-8-17 19:56:13] [115] connect to loginserver
+[2015-8-17 20:5:29] [115] connect to loginserver
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:42043]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:45115]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:46651]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:48955]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:61755]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:8252]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:12092]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:13884]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:18492]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:20796]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:23356]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:35644]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:39740]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:51772]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:53053]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:58173]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:62269]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:5950]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:8766]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:10814]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:12350]替换！！！
+角色[gmcc][]连接[:0]被[gmcc][192.168.0.200:25662]替换！！！
+角色[gmcc][]连接[:0]被[gmcc][192.168.0.200:32574]替换！！！
+角色[gmcc][]连接[:0]被[gmcc][192.168.0.200:41278]替换！！！
+角色[gmcc][]连接[:0]被[gmcc][192.168.0.200:43582]替换！！！
+角色[gmnn][]连接[:0]被[gmnn][192.168.0.200:46654]替换！！！

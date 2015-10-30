@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="gb2312"?>
+<BuffConfig>
+	<Buff ID="1" Name="10秒回100生命" Property="0" Object="0">
+		<Level Lv="0" Duration="9" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="2" Interval="1">
+				<Action ActionType="0" AbilityID="1" Amount="10" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="9" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="2" Interval="1">
+				<Action ActionType="0" AbilityID="1" Amount="10" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="9" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="2" Interval="1">
+				<Action ActionType="0" AbilityID="1" Amount="2" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+	<Buff ID="2" Name="10秒回200生命" Property="0" Object="1">
+		<Level Lv="0" Duration="9" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="2" Interval="1">
+				<Action ActionType="0" AbilityID="1" Amount="20" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="9" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="2" Interval="1">
+				<Action ActionType="0" AbilityID="1" Amount="20" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="9" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="2" Interval="1">
+				<Action ActionType="0" AbilityID="1" Amount="20" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>		
+	</Buff>
+  <Buff ID="3" Name="20秒回300生命" Property="0" Object="0">
+		<Level Lv="0" Duration="20" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="2" Interval="2">
+				<Action ActionType="0" AbilityID="1" Amount="30" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="20" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="2" Interval="2">
+				<Action ActionType="0" AbilityID="1" Amount="30" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="20" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="2" Interval="2">
+				<Action ActionType="0" AbilityID="1" Amount="30" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+  <Buff ID="4" Name="20秒回400生命" Property="0" Object="0">
+		<Level Lv="0" Duration="20" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="2" Interval="2">
+				<Action ActionType="0" AbilityID="1" Amount="40" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="20" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="2" Interval="2">
+				<Action ActionType="0" AbilityID="1" Amount="40" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="20" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="2" Interval="2">
+				<Action ActionType="0" AbilityID="1" Amount="40" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+  <Buff ID="5" Name="30秒回600生命" Property="0" Object="0">
+		<Level Lv="0" Duration="30" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="2" Interval="3">
+				<Action ActionType="0" AbilityID="1" Amount="60" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="30" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="2" Interval="3">
+				<Action ActionType="0" AbilityID="1" Amount="60" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="30" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="2" Interval="3">
+				<Action ActionType="0" AbilityID="1" Amount="60" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+  <Buff ID="6" Name="回100生命" Property="0" Object="0">
+		<Level Lv="0" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="100" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="100" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="100" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+  <Buff ID="7" Name="回200生命" Property="0" Object="0">
+		<Level Lv="0" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="200" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="200" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="200" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+  <Buff ID="8" Name="回300生命" Property="0" Object="1">
+		<Level Lv="0" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="300" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="300" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="300" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+  <Buff ID="9" Name="回400生命" Property="0" Object="0">
+		<Level Lv="0" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="400" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="400" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="400" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+  <Buff ID="10" Name="回600生命" Property="0" Object="0">
+		<Level Lv="0" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="600" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="600" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="600" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+  <Buff ID="11" Name="回200内力" Property="0" Object="0">
+		<Level Lv="0" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="2" Amount="200" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="2" Amount="200" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="2" Amount="200" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+  <Buff ID="12" Name="回200真气" Property="0" Object="0">
+		<Level Lv="0" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="3" Amount="200" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="3" Amount="200" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="3" Amount="200" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+  <Buff ID="13" Name="30秒内抵消伤害100" Property="0" Object="1">
+		<Level Lv="0" Duration="30" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="30">
+				<Action ActionType="0" AbilityID="26" Amount="100" ValueQuotiety="1" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="30">
+				<Action ActionType="0" AbilityID="26" Amount="-100" ValueQuotiety="1" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="30" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="30">
+				<Action ActionType="0" AbilityID="26" Amount="100" ValueQuotiety="1" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="30">
+				<Action ActionType="0" AbilityID="26" Amount="-100" ValueQuotiety="1" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="30" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="30">
+				<Action ActionType="0" AbilityID="26" Amount="100" ValueQuotiety="1" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="30">
+				<Action ActionType="0" AbilityID="26" Amount="-100" ValueQuotiety="1" />				
+			</Trigger>
+		</Level>
+	</Buff>       
+  <Buff ID="14" Name="击退，距离4Tile" Property="0" Object="1">
+		<Level Lv="0" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="1">
+				<Action ActionType="0" AbilityID="39" Amount="4" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="1">
+				<Action ActionType="0" AbilityID="39" Amount="4" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="1">
+				<Action ActionType="0" AbilityID="39" Amount="4" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>     
+  <Buff ID="15" Name="瞬间移动距离8Tile" Property="0" Object="1">
+		<Level Lv="0" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="38" Amount="8" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="38" Amount="8" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="38" Amount="8" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>   
+	<Buff ID="16" Name="点穴" Property="0" Object="0">
+			<Level Lv="1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="37" Amount="0" ValueQuotiety="0" />
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="37" Amount="0" ValueQuotiety="0" />
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="37" Amount="0" ValueQuotiety="0" />
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="37" Amount="0" ValueQuotiety="0" />
+			</Trigger>
+		</Level>
+		<Level Lv="0" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="37" Amount="0" ValueQuotiety="0" />
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="37" Amount="0" ValueQuotiety="0" />
+			</Trigger>
+		</Level>
+	</Buff>   
+	<Buff ID="17" Name="不能攻击" Property="0" Object="0">
+		<Level Lv="1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="30" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="30" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="30" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="30" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>  
+	<Buff ID="18" Name="真气按比例减少" Property="0" Object="0">
+		<Level Lv="1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="1" AbilityID="3" Amount="-50" ValueQuotiety="0" />				
+			</Trigger>	
+		</Level>
+	</Buff> 
+	<Buff ID="19" Name="不能使用武器" Property="0" Object="0">
+		<Level Lv="1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="35" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="35" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="35" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="35" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff> 
+	<Buff ID="20" Name="不能使用防具" Property="0" Object="0">
+		<Level Lv="1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="36" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="36" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="36" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="36" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff> 
+	<Buff ID="21" Name="迟缓值" Property="0" Object="0">
+		<Level Lv="1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="20" Amount="-500" ValueQuotiety="0" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="20" Amount="500" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="20" Amount="-500" ValueQuotiety="0" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="20" Amount="500" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff> 
+	<Buff ID="22" Name="迟缓比例" Property="0" Object="0">
+		<Level Lv="1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="1" AbilityID="20" Amount="-800" ValueQuotiety="0" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="1" AbilityID="20" Amount="800" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+	<Buff ID="23" Name="不能跳跃" Property="0" Object="0">
+		<Level Lv="1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="32" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="32" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+	<Buff ID="24" Name="降低身法" Property="0" Object="0">
+		<Level Lv="1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="1" AbilityID="18" Amount="-50" ValueQuotiety="0" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="1" AbilityID="18" Amount="50" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="1" AbilityID="18" Amount="-50" ValueQuotiety="0" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="1" AbilityID="18" Amount="50" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+	<Buff ID="25" Name="降低身法比例" Property="0" Object="0">
+		<Level Lv="1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="1" AbilityID="18" Amount="-50" ValueQuotiety="0" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="1" AbilityID="18" Amount="50" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+	<Buff ID="26" Name="定身" Property="0" Object="0">
+		<Level Lv="1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="28" Amount="0" ValueQuotiety="0" />	
+				<Action ActionType="0" AbilityID="29" Amount="0" ValueQuotiety="0" />	
+				<Action ActionType="0" AbilityID="32" Amount="0" ValueQuotiety="0" />	
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="28" Amount="0" ValueQuotiety="0" />	
+				<Action ActionType="0" AbilityID="29" Amount="0" ValueQuotiety="0" />	
+				<Action ActionType="0" AbilityID="32" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="28" Amount="0" ValueQuotiety="0" />	
+				<Action ActionType="0" AbilityID="29" Amount="0" ValueQuotiety="0" />	
+				<Action ActionType="0" AbilityID="32" Amount="0" ValueQuotiety="0" />	
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="28" Amount="0" ValueQuotiety="0" />	
+				<Action ActionType="0" AbilityID="29" Amount="0" ValueQuotiety="0" />	
+				<Action ActionType="0" AbilityID="32" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+	<Buff ID="27" Name="加外功基础" Property="0" Object="1">
+		<Level Lv="1" Duration="20" DurQuotiety="1" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="10" Amount="10" ValueQuotiety="2.5" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="10" Amount="-10" ValueQuotiety="2.5" />				
+			</Trigger>
+		</Level>
+	</Buff> 
+	<Buff ID="28" Name="加内功基础" Property="0" Object="1">
+		<Level Lv="1" Duration="20" DurQuotiety="1" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="11" Amount="10" ValueQuotiety="2.5" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="11" Amount="-10" ValueQuotiety="2.5" />				
+			</Trigger>
+		</Level>
+	</Buff>
+	<Buff ID="29" Name="内外功转换" Property="0" Object="0">
+		<Level Lv="1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="40" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="40" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+	<Buff ID="30" Name="内外防转换" Property="0" Object="0">
+		<Level Lv="1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="41" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="41" Amount="0" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+		<Buff ID="31" Name="解定身" Property="0" Object="1">
+		<Level Lv="0" Duration="1" DurQuotiety="1.1" RemoveList="定身" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="0" Amount="20" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="1" DurQuotiety="1.1" RemoveList="定身" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="0" Amount="20" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="1" DurQuotiety="1.1" RemoveList="定身" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="0" Amount="2" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+	<Buff ID="32" Name="反弹1点伤害" Property="0" Object="0" DelType="0">
+		<Level Lv="0" Duration="10" DurQuotiety="10" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="1" AbilityID="43" Amount="1" ValueQuotiety="1" />			
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="1" AbilityID="43" Amount="-1" ValueQuotiety="1" />					
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="1" AbilityID="43" Amount="1" ValueQuotiety="1" />		
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="1" AbilityID="43" Amount="-1" ValueQuotiety="1" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="1" AbilityID="43" Amount="1" ValueQuotiety="1" />		
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="1" AbilityID="43" Amount="-1" ValueQuotiety="1" />					
+			</Trigger>
+		</Level>
+	</Buff>  
+	<Buff ID="33" Name="反弹2点伤害" Property="0" Object="0" DelType="0">
+		<Level Lv="0" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="43" Amount="2" ValueQuotiety="0" />			
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="43" Amount="-2" ValueQuotiety="0" />					
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="43" Amount="2" ValueQuotiety="0" />		
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="43" Amount="-2" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="43" Amount="2" ValueQuotiety="0" />		
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="43" Amount="-2" ValueQuotiety="0" />					
+			</Trigger>
+		</Level>
+	</Buff>  
+	<Buff ID="34" Name="反弹3点伤害" Property="0" Object="0" DelType="0">
+		<Level Lv="0" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="43" Amount="3" ValueQuotiety="0" />			
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="43" Amount="-3" ValueQuotiety="0" />					
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="43" Amount="3" ValueQuotiety="0" />		
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="43" Amount="-3" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="10" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="10">
+				<Action ActionType="0" AbilityID="43" Amount="3" ValueQuotiety="0" />		
+			</Trigger>
+			<Trigger TriggerType="1" Interval="10">
+				<Action ActionType="0" AbilityID="43" Amount="-3" ValueQuotiety="0" />					
+			</Trigger>
+		</Level>
+	</Buff>  
+	<Buff ID="35" Name="回50内力" Property="0" Object="0">
+		<Level Lv="0" Duration="0" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="2" Amount="50" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="0" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="2" Amount="50" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="0" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="2" Amount="50" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+	<Buff ID="36" Name="回100内力" Property="0" Object="0">
+		<Level Lv="0" Duration="1" DurQuotiety="1.1" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="2" Amount="100" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="1" DurQuotiety="1.1" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="2" Amount="100" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="1" DurQuotiety="1.1" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="2" Amount="100" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+	<Buff ID="37" Name="回300内力" Property="0" Object="0">
+		<Level Lv="0" Duration="1" DurQuotiety="1.1" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="2" Amount="300" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="1" DurQuotiety="1.1" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="2" Amount="300" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="1" DurQuotiety="1.1" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="2" Amount="300" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+	<Buff ID="38" Name="回400内力" Property="0" Object="0">
+		<Level Lv="0" Duration="1" DurQuotiety="1.1" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="2" Amount="400" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="1" DurQuotiety="1.1" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="2" Amount="400" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="1" DurQuotiety="1.1" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="2" Amount="400" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+	<Buff ID="39" Name="减50生命" Property="0" Object="0">
+		<Level Lv="0" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="-50" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="-50" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+		<Level Lv="-1" Duration="1" DurQuotiety="0" RemoveList="" RejectList="">
+			<Trigger TriggerType="0" Interval="0">
+				<Action ActionType="0" AbilityID="1" Amount="-50" ValueQuotiety="0" />				
+			</Trigger>
+		</Level>
+	</Buff>
+</BuffConfig>

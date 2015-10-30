@@ -1,0 +1,65 @@
+[2015-8-5 13:38:13] [115] connect to loginserver
+[2015-8-5 13:43:11] [115] connect to loginserver
+[2015-8-5 13:43:41] [115] connect to loginserver
+[2015-8-5 13:44:2] [115] connect to loginserver
+[2015-8-5 13:44:44] [115] connect to loginserver
+[2015-8-5 13:45:37] [115] connect to loginserver
+[2015-8-5 13:48:1] [115] connect to loginserver
+[2015-8-5 13:54:23] [115] connect to loginserver
+attempt to index a function value
+
+竞技场排行榜未初始化
+[2015-8-5 13:56:20] [115] connect to loginserver
+attempt to index a function value
+
+[2015-8-5 14:0:32] [115] connect to loginserver
+[2015-8-5 14:6:11] [115] connect to loginserver
+[2015-8-5 14:8:16] [115] connect to loginserver
+[2015-8-5 14:11:4] [115] connect to loginserver
+[2015-8-5 14:30:41] [115] connect to loginserver
+[2015-8-5 14:43:38] [115] connect to loginserver
+[2015-8-5 14:44:39] [115] connect to loginserver
+[2015-8-5 14:50:29] [115] connect to loginserver
+[2015-8-5 14:52:27] [115] connect to loginserver
+[2015-8-5 14:53:16] [115] connect to loginserver
+[2015-8-5 15:0:57] [115] connect to loginserver
+[2015-8-5 16:7:17] [115] connect to loginserver
+[2015-8-5 16:9:35] [115] connect to loginserver
+[2015-8-5 16:18:21] [115] connect to loginserver
+[2015-8-5 16:22:7] [115] connect to loginserver
+[2015-8-5 16:23:49] [115] connect to loginserver
+[2015-8-5 16:26:28] [115] connect to loginserver
+[2015-8-5 16:28:1] [115] connect to loginserver
+[2015-8-5 16:30:55] [115] connect to loginserver
+[2015-8-5 16:33:30] [115] connect to loginserver
+[2015-8-5 16:36:38] [115] connect to loginserver
+[2015-8-5 16:39:14] [115] connect to loginserver
+[2015-8-5 16:57:11] [115] connect to loginserver
+[2015-8-5 17:2:6] [115] connect to loginserver
+[2015-8-5 17:10:18] [115] connect to loginserver
+[2015-8-5 17:12:32] [115] connect to loginserver
+[2015-8-5 17:44:56] [115] connect to loginserver
+[2015-8-5 17:50:3] [115] connect to loginserver
+[2015-8-5 18:16:59] [115] connect to loginserver
+[2015-8-5 18:29:57] [115] connect to loginserver
+[2015-8-5 19:34:27] [115] connect to loginserver
+[2015-8-5 19:37:0] [115] connect to loginserver
+[2015-8-5 19:45:37] [115] connect to loginserver
+角色[gm002][]连接[:0]被[gm002][192.168.0.167:45344]替换！！！
+角色[gm002][]连接[:0]被[gm002][192.168.0.167:46112]替换！！！
+角色[gm002][]连接[:0]被[gm002][192.168.0.167:47648]替换！！！
+角色[gm002][]连接[:0]被[gm002][192.168.0.167:48672]替换！！！
+角色[gm003][]连接[:0]被[gm003][192.168.0.167:55328]替换！！！
+角色[gm003][]连接[:0]被[gm003][192.168.0.167:58912]替换！！！
+角色[gm003][]连接[:0]被[gm003][192.168.0.167:63776]替换！！！
+角色[gm003][]连接[:0]被[gm003][192.168.0.167:8737]替换！！！
+角色[gm003][]连接[:0]被[gm003][192.168.0.167:13857]替换！！！
+角色[gm003][]连接[:0]被[gm003][192.168.0.167:18465]替换！！！
+[2015-8-5 20:45:23] [115] connect to loginserver
+角色[gm004][]连接[:0]被[gm004][192.168.0.167:45345]替换！！！
+角色[gm004][]连接[:0]被[gm004][192.168.0.167:48929]替换！！！
+角色[gm004][]连接[:0]被[gm004][192.168.0.167:50721]替换！！！
+角色[gm004][]连接[:0]被[gm004][192.168.0.167:53025]替换！！！
+角色[gm004][]连接[:0]被[gm004][192.168.0.167:34]替换！！！
+角色[gm004][]连接[:0]被[gm004][192.168.0.167:14882]替换！！！
+角色[gm004][]连接[:0]被[gm004][192.168.0.167:20770]替换！！！

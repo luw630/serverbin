@@ -1,0 +1,44 @@
+[2015-9-7 18:15:1] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.lua"]:34: unexpected symbol near 'true'
+
+[string "Script\SanGuoScript\War\war_conf.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\War\war_func.lua"]:19: attempt to index local 'war_conf' (a nil value)
+
+[2015-9-7 18:17:17] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.lua"]:7: unexpected symbol near 'true'
+
+[string "Script\SanGuoScript\War\war_conf.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\War\war_func.lua"]:19: attempt to index local 'war_conf' (a nil value)
+
+[2015-9-7 18:18:49] [115] connect to loginserver
+[string "Script\SanGuoScript\War\war_conf.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\War\war_func.lua"]:19: attempt to index local 'war_conf' (a nil value)
+
+[2015-9-7 18:19:5] [115] connect to loginserver
+[string "Script\SanGuoScript\War\war_conf.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\War\war_func.lua"]:19: attempt to index local 'war_conf' (a nil value)
+
+[2015-9-7 20:12:59] [115] connect to loginserver
+[string "Script\Core\dbmgr.lua"]:167: attempt to perform arithmetic on a nil value
+
+竞技场排行榜未初始化
+[string "Script\Core\dbmgr.lua"]:167: attempt to perform arithmetic on a nil value
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:83: table index is nil
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:83: table index is nil
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:83: table index is nil
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:78: attempt to concatenate local 'DataName' (a nil value)
+
+竞技场排行榜未初始化
+[2015-9-7 20:21:36] [115] connect to loginserver

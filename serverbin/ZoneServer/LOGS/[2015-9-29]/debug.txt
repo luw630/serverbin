@@ -1,0 +1,6 @@
+[2015-9-29 17:44:43] [115] connect to loginserver
+[2015-9-29 17:45:57] [115] connect to loginserver
+[2015-9-29 20:48:24] [115] connect to loginserver
+[2015-9-29 20:49:7] [115] connect to loginserver
+[2015-9-29 20:54:37] [115] connect to loginserver
+角色[gm4441000][]连接[:0]被[gm4441000][192.168.0.124:59396]替换！！！

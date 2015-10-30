@@ -1,0 +1,20 @@
+[2015-10-19 14:55:11] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.lua"]:1047: 'then' expected near 'end'
+
+[2015-10-19 14:57:38] [115] connect to loginserver
+[2015-10-19 14:57:54] [115] connect to loginserver
+[2015-10-19 15:10:15] [115] connect to loginserver
+[2015-10-19 15:10:28] [115] connect to loginserver
+[2015-10-19 15:11:53] [115] connect to loginserver
+[2015-10-19 15:28:35] [115] connect to loginserver
+[2015-10-19 15:28:51] [115] connect to loginserver
+[2015-10-19 15:39:20] [115] connect to loginserver
+[2015-10-19 15:43:39] [115] connect to loginserver
+[2015-10-19 18:10:36] [115] connect to loginserver
+[2015-10-19 18:17:18] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\factionscene.lua"]:756: <name> or '...' expected near ')'
+
+[string "Script\SanGuoScript\faction\factionscene.lua"]:762: unexpected symbol near ']'
+
+[string "Script\SanGuoScript\faction\factionscene.lua"]:762: unexpected symbol near ']'
+

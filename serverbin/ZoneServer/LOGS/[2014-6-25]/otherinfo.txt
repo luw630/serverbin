@@ -1,0 +1,419 @@
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[4]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 005, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+RID = 111, PlayerNumber = 0
+RID = 113, PlayerNumber = 0
+RID = 114, PlayerNumber = 0
+RID = 115, PlayerNumber = 0
+RID = 116, PlayerNumber = 0
+RID = 117, PlayerNumber = 0
+RID = 118, PlayerNumber = 0
+RID = 119, PlayerNumber = 0
+RID = 120, PlayerNumber = 0
+RID = 121, PlayerNumber = 0
+RID = 122, PlayerNumber = 0
+RID = 1001, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：15，当前平均ping值：15
+当前最高ping值：15，当前最低ping值：15
+-----------------------------
+2014-6-25 10:11:36
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 1/1
+对象映射数量：源[1]Dnid[9]Name[1]Account[1]
+玩家总数：1
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 005, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+RID = 111, PlayerNumber = 0
+RID = 113, PlayerNumber = 0
+RID = 114, PlayerNumber = 0
+RID = 115, PlayerNumber = 0
+RID = 116, PlayerNumber = 0
+RID = 117, PlayerNumber = 0
+RID = 118, PlayerNumber = 0
+RID = 119, PlayerNumber = 0
+RID = 120, PlayerNumber = 0
+RID = 121, PlayerNumber = 0
+RID = 122, PlayerNumber = 0
+RID = 1001, PlayerNumber = 0
+RID = 112, PlayerNumber = 1
+异常/正常/掉线/挂机/自动/DXTC：0/1/0/0/0/0
+历史平均ping值：24，当前平均ping值：29
+当前最高ping值：31，当前最低ping值：27
+wnode to long Lenth = 1604.227539
+wnode to long Lenth = 1660.500610
+wnode to long Lenth = 1393.946167
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[9]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 005, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+RID = 111, PlayerNumber = 0
+RID = 113, PlayerNumber = 0
+RID = 114, PlayerNumber = 0
+RID = 115, PlayerNumber = 0
+RID = 116, PlayerNumber = 0
+RID = 117, PlayerNumber = 0
+RID = 118, PlayerNumber = 0
+RID = 119, PlayerNumber = 0
+RID = 120, PlayerNumber = 0
+RID = 121, PlayerNumber = 0
+RID = 122, PlayerNumber = 0
+RID = 1001, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：23，当前平均ping值：19
+当前最高ping值：19，当前最低ping值：19
+-----------------------------
+2014-6-25 11:11:36
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 1/1
+对象映射数量：源[1]Dnid[12]Name[1]Account[1]
+玩家总数：1
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 005, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+RID = 111, PlayerNumber = 0
+RID = 113, PlayerNumber = 0
+RID = 114, PlayerNumber = 0
+RID = 115, PlayerNumber = 0
+RID = 116, PlayerNumber = 0
+RID = 117, PlayerNumber = 0
+RID = 118, PlayerNumber = 0
+RID = 119, PlayerNumber = 0
+RID = 120, PlayerNumber = 0
+RID = 121, PlayerNumber = 0
+RID = 122, PlayerNumber = 0
+RID = 1001, PlayerNumber = 0
+RID = 112, PlayerNumber = 1
+异常/正常/掉线/挂机/自动/DXTC：0/1/0/0/0/0
+历史平均ping值：24，当前平均ping值：27
+当前最高ping值：47，当前最低ping值：8
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[16]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 005, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+RID = 111, PlayerNumber = 0
+RID = 113, PlayerNumber = 0
+RID = 114, PlayerNumber = 0
+RID = 115, PlayerNumber = 0
+RID = 116, PlayerNumber = 0
+RID = 117, PlayerNumber = 0
+RID = 118, PlayerNumber = 0
+RID = 119, PlayerNumber = 0
+RID = 120, PlayerNumber = 0
+RID = 121, PlayerNumber = 0
+RID = 122, PlayerNumber = 0
+RID = 1001, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：25，当前平均ping值：29
+当前最高ping值：43，当前最低ping值：15
+-----------------------------
+2014-6-25 12:11:36
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[17]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 005, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+RID = 111, PlayerNumber = 0
+RID = 113, PlayerNumber = 0
+RID = 114, PlayerNumber = 0
+RID = 115, PlayerNumber = 0
+RID = 116, PlayerNumber = 0
+RID = 117, PlayerNumber = 0
+RID = 118, PlayerNumber = 0
+RID = 119, PlayerNumber = 0
+RID = 120, PlayerNumber = 0
+RID = 121, PlayerNumber = 0
+RID = 122, PlayerNumber = 0
+RID = 1001, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：25，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+-----------------------------
+2014-6-25 14:42:20
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[5]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 005, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+RID = 111, PlayerNumber = 0
+RID = 113, PlayerNumber = 0
+RID = 114, PlayerNumber = 0
+RID = 115, PlayerNumber = 0
+RID = 116, PlayerNumber = 0
+RID = 117, PlayerNumber = 0
+RID = 118, PlayerNumber = 0
+RID = 119, PlayerNumber = 0
+RID = 120, PlayerNumber = 0
+RID = 121, PlayerNumber = 0
+RID = 122, PlayerNumber = 0
+RID = 1001, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：31，当前平均ping值：31
+当前最高ping值：31，当前最低ping值：31
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 0/0
+对象映射数量：源[0]Dnid[5]Name[0]Account[0]
+玩家总数：0
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 005, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+RID = 111, PlayerNumber = 0
+RID = 113, PlayerNumber = 0
+RID = 114, PlayerNumber = 0
+RID = 115, PlayerNumber = 0
+RID = 116, PlayerNumber = 0
+RID = 117, PlayerNumber = 0
+RID = 118, PlayerNumber = 0
+RID = 119, PlayerNumber = 0
+RID = 120, PlayerNumber = 0
+RID = 121, PlayerNumber = 0
+RID = 122, PlayerNumber = 0
+RID = 1001, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/0/0/0/0/0
+历史平均ping值：31，当前平均ping值：0
+当前最高ping值：0，当前最低ping值：123456789
+-----------------------------
+2014-6-25 15:42:20
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 1/1
+对象映射数量：源[1]Dnid[6]Name[1]Account[1]
+玩家总数：1
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 005, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+RID = 111, PlayerNumber = 0
+RID = 113, PlayerNumber = 0
+RID = 114, PlayerNumber = 0
+RID = 115, PlayerNumber = 0
+RID = 116, PlayerNumber = 0
+RID = 117, PlayerNumber = 0
+RID = 118, PlayerNumber = 0
+RID = 119, PlayerNumber = 0
+RID = 120, PlayerNumber = 0
+RID = 121, PlayerNumber = 0
+RID = 122, PlayerNumber = 0
+RID = 1001, PlayerNumber = 0
+RID = 111, PlayerNumber = 1
+异常/正常/掉线/挂机/自动/DXTC：0/1/0/0/0/0
+历史平均ping值：29，当前平均ping值：27
+当前最高ping值：27，当前最低ping值：27
+-----------------------------
+2014-6-25 16:42:20
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 1/1
+对象映射数量：源[1]Dnid[7]Name[1]Account[1]
+玩家总数：1
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 005, PlayerNumber = 0
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+RID = 111, PlayerNumber = 0
+RID = 113, PlayerNumber = 0
+RID = 114, PlayerNumber = 0
+RID = 115, PlayerNumber = 0
+RID = 116, PlayerNumber = 0
+RID = 117, PlayerNumber = 0
+RID = 118, PlayerNumber = 0
+RID = 119, PlayerNumber = 0
+RID = 120, PlayerNumber = 0
+RID = 121, PlayerNumber = 0
+RID = 122, PlayerNumber = 0
+RID = 1001, PlayerNumber = 0
+RID = 111, PlayerNumber = 1
+异常/正常/掉线/挂机/自动/DXTC：0/1/0/0/0/0
+历史平均ping值：21，当前平均ping值：15
+当前最高ping值：27，当前最低ping值：8
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 1/1
+对象映射数量：源[1]Dnid[7]Name[1]Account[1]
+玩家总数：1
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 005, PlayerNumber = 1
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+RID = 111, PlayerNumber = 0
+RID = 113, PlayerNumber = 0
+RID = 114, PlayerNumber = 0
+RID = 115, PlayerNumber = 0
+RID = 116, PlayerNumber = 0
+RID = 117, PlayerNumber = 0
+RID = 118, PlayerNumber = 0
+RID = 119, PlayerNumber = 0
+RID = 120, PlayerNumber = 0
+RID = 121, PlayerNumber = 0
+RID = 122, PlayerNumber = 0
+RID = 1001, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/1/0/0/0/0
+历史平均ping值：27，当前平均ping值：33
+当前最高ping值：47，当前最低ping值：19
+-----------------------------
+2014-6-25 17:42:20
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0
+当前服务器状态：
+登陆服务器[正常]
+
+当前连接数/底层连接数 ： 1/1
+对象映射数量：源[1]Dnid[7]Name[1]Account[1]
+玩家总数：1
+RID = 001, PlayerNumber = 0
+RID = 002, PlayerNumber = 0
+RID = 003, PlayerNumber = 0
+RID = 004, PlayerNumber = 0
+RID = 005, PlayerNumber = 1
+RID = 100, PlayerNumber = 0
+RID = 101, PlayerNumber = 0
+RID = 103, PlayerNumber = 0
+RID = 111, PlayerNumber = 0
+RID = 113, PlayerNumber = 0
+RID = 114, PlayerNumber = 0
+RID = 115, PlayerNumber = 0
+RID = 116, PlayerNumber = 0
+RID = 117, PlayerNumber = 0
+RID = 118, PlayerNumber = 0
+RID = 119, PlayerNumber = 0
+RID = 120, PlayerNumber = 0
+RID = 121, PlayerNumber = 0
+RID = 122, PlayerNumber = 0
+RID = 1001, PlayerNumber = 0
+异常/正常/掉线/挂机/自动/DXTC：0/1/0/0/0/0
+历史平均ping值：29，当前平均ping值：32
+当前最高ping值：51，当前最低ping值：15
+-----------------------------
+2014-6-25 19:18:19
+地上所拾得钱数: 0
+交易的钱数: 0
+卖给NPC所得钱数: 0
+与NPC买东西所付出的钱数: 0
+从NPC得到的钱数: 0
+被NPC扣去的钱数: 0

@@ -1,0 +1,44 @@
+[2015-7-6 10:24:24] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\ActivityFramew..."]:53: attempt to concatenate field '__tostring' (a function value)
+
+[string "Script\SanGuoScript\Activity\ActivityFramew..."]:53: attempt to concatenate a nil value
+
+[string "Script\SanGuoScript\Activity\ActivityFramework.lua"]:53: ')' expected (to close '(' at line 51) near 'end'
+
+[2015-7-6 12:1:7] [115] connect to loginserver
+[2015-7-6 13:19:4] [115] connect to loginserver
+[string "Script\RankList\RankListOpt.lua"]:200: attempt to concatenate global 'RankListData_Path' (a nil value)
+
+[string "Script\RankList\RankListCfg.lua"]:1: '=' expected near '-'
+
+[string "Script\RankList\RankListCfg.lua"]:1: '=' expected near '-'
+
+[2015-7-6 13:29:27] [115] connect to loginserver
+[2015-7-6 13:30:44] [115] connect to loginserver
+[2015-7-6 13:46:22] [115] connect to loginserver
+[2015-7-6 13:55:53] [115] connect to loginserver
+[2015-7-6 13:57:14] [115] connect to loginserver
+[2015-7-6 14:32:37] [115] connect to loginserver
+[2015-7-6 14:45:15] [115] connect to loginserver
+[string "Script\SanGuoScript\DataCenter\LocalDataSer..."]:48: attempt to call method 'lines' (a nil value)
+
+[string "Script\SanGuoScript\DataCenter\LocalDataSer..."]:48: bad argument #1 to 'lines' (FILE* expected, got no value)
+
+[2015-7-6 14:54:25] [115] connect to loginserver
+[string "Script\SanGuoScript\DataCenter\LocalDataSer..."]:48: bad argument #1 to 'lines' (FILE* expected, got no value)
+
+[string "Script\SanGuoScript\DataCenter\LocalDataSer..."]:49: attempt to call method 'lines' (a nil value)
+
+[string "Script\SanGuoScript\DataCenter\LocalDataSer..."]:49: attempt to call method 'lines' (a nil value)
+
+[string "Script\SanGuoScript\DataCenter\LocalDataSer..."]:49: attempt to call method 'lines' (a nil value)
+
+[string "Script\SanGuoScript\DataCenter\LocalDataSer..."]:49: attempt to call method 'lines' (a nil value)
+
+[string "Script\SanGuoScript\DataCenter\LocalDataSer..."]:49: bad argument #1 to 'lines' (FILE* expected, got no value)
+
+[2015-7-6 16:29:15] [115] connect to loginserver
+[2015-7-6 16:30:14] [115] connect to loginserver
+[2015-7-6 16:37:10] [115] connect to loginserver
+[2015-7-6 16:54:20] [115] connect to loginserver
+[2015-7-6 17:50:8] [115] connect to loginserver

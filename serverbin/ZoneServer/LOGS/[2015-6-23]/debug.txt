@@ -1,0 +1,35 @@
+[2015-6-23 13:27:47] [115] connect to loginserver
+[2015-6-23 13:28:32] [115] connect to loginserver
+[2015-6-23 13:34:41] [115] connect to loginserver
+[2015-6-23 13:54:51] [115] connect to loginserver
+[2015-6-23 13:56:19] [115] connect to loginserver
+[2015-6-23 14:40:25] [115] connect to loginserver
+角色[uij889][]连接[:0]被[uij889][192.168.0.123:28448]替换！！！
+角色[uij889][]连接[:0]被[uij889][192.168.0.123:29984]替换！！！
+竞技场排行开始更新
+竞技场更新TOP50列表
+角色[uij889][]连接[:0]被[uij889][192.168.0.123:32032]替换！！！
+[string "Script\SanGuoScript\Friends\Friends.lua"]:37: 'then' expected near '|'
+
+[string "Script\SanGuoScript\Friends\Friends.lua"]:40: attempt to call global 'printtable' (a nil value)
+
+[2015-6-23 16:59:48] [115] connect to loginserver
+[string "Script\SanGuoScript\Friends\Friends.lua"]:91: 'end' expected (to close 'if' at line 54) near '<eof>'
+
+角色[uij889][]连接[:0]被[uij889][192.168.0.123:5413]替换！！！
+竞技场排行开始更新
+竞技场更新TOP50列表
+[2015-6-23 17:10:1] [115] connect to loginserver
+角色[uij889][]连接[:0]被[uij889][192.168.0.123:35109]替换！！！
+SACheckRebindMsg Send Failed
+竞技场排行开始更新
+竞技场更新TOP50列表
+角色[uij889][]连接[:0]被[uij889][192.168.0.123:38437]替换！！！
+attempt to index a nil value
+
+[2015-6-23 17:20:31] [115] connect to loginserver
+[2015-6-23 17:49:8] [115] connect to loginserver
+[2015-6-23 20:20:12] [115] connect to loginserver
+[string "Script\SanGuoScript\Friends\Friends.lua"]:85: attempt to index global 'deepcopy' (a function value)
+
+[2015-6-23 20:21:38] [115] connect to loginserver

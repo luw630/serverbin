@@ -1,0 +1,10 @@
+[2015-10-8 13:43:42] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:543: attempt to compare number with table
+
+save faction
+竞技场排行榜未初始化
+角色[gm1001000][]连接[:0]被[gm1001000][192.168.0.166:5576]替换！！！
+角色[gm1001000][]连接[:0]被[gm1001000][192.168.0.166:14280]替换！！！
+[2015-10-8 15:51:9] [115] connect to loginserver
+[2015-10-8 15:53:22] [115] connect to loginserver
+角色[gm1234561000][]连接[:0]被[gm1234561000][192.168.0.124:3473]替换！！！

@@ -1,0 +1,102 @@
+2014-4-15 10:54:31	10021	999888	1
+2014-4-15 10:54:42	10021	999888	2
+2014-4-15 10:54:46	10021	999888	2
+2014-4-15 10:54:47	10021	999888	1
+2014-4-15 11:24:14	10021	999888	1
+2014-4-15 11:35:49	10021	999888	2
+MonsterMoveStart GID = 536871974,MoveTime = 1800,MoveNode = 9,Lenth =  399.999146
+MonsterMoveStart GID = 536871975,MoveTime = 1800,MoveNode = 9,Lenth =  399.999146
+MonsterMoveEnd GID = 536871974,MoveTime = 1404,MoveNode = 0
+MonsterMoveStart GID = 536871976,MoveTime = 1800,MoveNode = 9,Lenth =  399.999146
+MonsterMoveEnd GID = 536871975,MoveTime = 1404,MoveNode = 0
+MonsterMoveEnd GID = 536871976,MoveTime = 1404,MoveNode = 0
+MonsterMoveStart GID = 536871977,MoveTime = 400,MoveNode = 2,Lenth =  270.296143
+MonsterMoveEnd GID = 536871977,MoveTime = 0,MoveNode = 0
+MonsterMoveStart GID = 536871977,MoveTime = 400,MoveNode = 2,Lenth =  253.023712
+MonsterMoveStart GID = 536871978,MoveTime = 400,MoveNode = 2,Lenth =  171.026306
+MonsterMoveEnd GID = 536871978,MoveTime = 0,MoveNode = 0
+MonsterMoveEnd GID = 536871977,MoveTime = 999,MoveNode = 0
+MonsterMoveStart GID = 536871977,MoveTime = 400,MoveNode = 2,Lenth =  206.305603
+MonsterMoveStart GID = 536871978,MoveTime = 400,MoveNode = 2,Lenth =  277.461700
+MonsterMoveStart GID = 536871979,MoveTime = 400,MoveNode = 2,Lenth =  135.959549
+MonsterMoveEnd GID = 536871979,MoveTime = 0,MoveNode = 0
+MonsterMoveEnd GID = 536871977,MoveTime = 998,MoveNode = 0
+MonsterMoveEnd GID = 536871978,MoveTime = 796,MoveNode = 0
+MonsterMoveStart GID = 536871979,MoveTime = 400,MoveNode = 2,Lenth =  156.668442
+MonsterMoveStart GID = 536871977,MoveTime = 400,MoveNode = 2,Lenth =  188.788239
+MonsterMoveStart GID = 536871978,MoveTime = 400,MoveNode = 2,Lenth =  267.366791
+MonsterMoveEnd GID = 536871979,MoveTime = 405,MoveNode = 0
+MonsterMoveEnd GID = 536871977,MoveTime = 592,MoveNode = 0
+MonsterMoveStart GID = 536871979,MoveTime = 400,MoveNode = 2,Lenth =  460.488861
+MonsterMoveStart GID = 536871977,MoveTime = 400,MoveNode = 2,Lenth =  329.083588
+MonsterMoveEnd GID = 536871978,MoveTime = 796,MoveNode = 0
+2014-4-15 11:40:14	10021	999888	1
+2014-4-15 13:43:1	10021	999888	2
+2014-4-15 13:43:11	10021	999888	1
+2014-4-15 13:43:12	10021	999888	2
+2014-4-15 14:10:18	10021	999888	2
+2014-4-15 14:10:24	10021	999888	2
+MonsterMoveStart GID = 536872001,MoveTime = 400,MoveNode = 2,Lenth =  128.316010
+MonsterMoveEnd GID = 536872001,MoveTime = 0,MoveNode = 0
+MonsterMoveStart GID = 536872001,MoveTime = 400,MoveNode = 2,Lenth =  188.095718
+MonsterMoveStart GID = 536872002,MoveTime = 800,MoveNode = 4,Lenth =  149.999634
+MonsterMoveEnd GID = 536872002,MoveTime = 422,MoveNode = 0
+MonsterMoveStart GID = 536872003,MoveTime = 800,MoveNode = 4,Lenth =  149.999634
+MonsterMoveEnd GID = 536872003,MoveTime = 546,MoveNode = 0
+MonsterMoveStart GID = 536872004,MoveTime = 400,MoveNode = 2,Lenth =  150.920502
+MonsterMoveEnd GID = 536872004,MoveTime = 0,MoveNode = 0
+MonsterMoveStart GID = 536872004,MoveTime = 400,MoveNode = 2,Lenth =  156.540726
+MonsterMoveEnd GID = 536872004,MoveTime = 608,MoveNode = 0
+MonsterMoveStart GID = 536872004,MoveTime = 400,MoveNode = 2,Lenth =  200.609070
+MonsterMoveStart GID = 536872005,MoveTime = 400,MoveNode = 2,Lenth =  161.941345
+MonsterMoveEnd GID = 536872005,MoveTime = 0,MoveNode = 0
+MonsterMoveEnd GID = 536872004,MoveTime = 796,MoveNode = 0
+MonsterMoveStart GID = 536872006,MoveTime = 400,MoveNode = 2,Lenth =  221.056549
+MonsterMoveEnd GID = 536872006,MoveTime = 0,MoveNode = 0
+MonsterMoveStart GID = 536872004,MoveTime = 400,MoveNode = 2,Lenth =  261.841553
+2014-4-15 15:40:48	10021	999888	1
+2014-4-15 15:40:52	10021	999888	2
+2014-4-15 15:41:3	10021	999888	2
+2014-4-15 15:41:4	10021	999888	2
+2014-4-15 16:11:35	10021	999888	2
+2014-4-15 16:27:32	10021	999888	2
+MonsterMoveStart GID = 536872040,MoveTime = 400,MoveNode = 2,Lenth =  184.629364
+MonsterMoveEnd GID = 536872040,MoveTime = 0,MoveNode = 0
+MonsterMoveStart GID = 536872040,MoveTime = 400,MoveNode = 2,Lenth =  82.292160
+MonsterMoveEnd GID = 536872040,MoveTime = 202,MoveNode = 0
+MonsterMoveStart GID = 536872040,MoveTime = 400,MoveNode = 2,Lenth =  382.969971
+MonsterMoveStart GID = 536872041,MoveTime = 400,MoveNode = 2,Lenth =  163.193130
+MonsterMoveEnd GID = 536872041,MoveTime = 0,MoveNode = 0
+MonsterMoveStart GID = 536872041,MoveTime = 400,MoveNode = 2,Lenth =  125.924583
+MonsterMoveEnd GID = 536872041,MoveTime = 202,MoveNode = 0
+MonsterMoveStart GID = 536872041,MoveTime = 400,MoveNode = 2,Lenth =  298.439270
+MonsterMoveStart GID = 536872042,MoveTime = 400,MoveNode = 2,Lenth =  181.033142
+MonsterMoveEnd GID = 536872042,MoveTime = 0,MoveNode = 0
+MonsterMoveEnd GID = 536872041,MoveTime = 1202,MoveNode = 0
+MonsterMoveStart GID = 536872041,MoveTime = 400,MoveNode = 2,Lenth =  264.577026
+MonsterMoveEnd GID = 536872041,MoveTime = 796,MoveNode = 0
+2014-4-15 17:4:27	10021	999888	1
+2014-4-15 17:4:32	10021	999888	2
+2014-4-15 17:4:33	10021	999888	2
+2014-4-15 17:24:47	10021	999888	1
+2014-4-15 17:24:53	10021	999888	2
+2014-4-15 17:24:53	10021	999888	1
+MonsterMoveStart GID = 536871967,MoveTime = 600,MoveNode = 3,Lenth =  100.000351
+MonsterMoveEnd GID = 536871967,MoveTime = 203,MoveNode = 0
+MonsterMoveStart GID = 536871968,MoveTime = 400,MoveNode = 2,Lenth =  172.244019
+MonsterMoveEnd GID = 536871968,MoveTime = 0,MoveNode = 0
+MonsterMoveStart GID = 536871968,MoveTime = 400,MoveNode = 2,Lenth =  36.345562
+MonsterMoveEnd GID = 536871968,MoveTime = 0,MoveNode = 0
+MonsterMoveStart GID = 536871968,MoveTime = 400,MoveNode = 2,Lenth =  147.139389
+MonsterMoveEnd GID = 536871968,MoveTime = 405,MoveNode = 0
+MonsterMoveStart GID = 536871968,MoveTime = 400,MoveNode = 2,Lenth =  229.124420
+MonsterMoveStart GID = 536871969,MoveTime = 400,MoveNode = 2,Lenth =  151.380310
+MonsterMoveEnd GID = 536871969,MoveTime = 0,MoveNode = 0
+MonsterMoveStart GID = 536871969,MoveTime = 400,MoveNode = 2,Lenth =  229.532135
+MonsterMoveEnd GID = 536871968,MoveTime = 998,MoveNode = 0
+2014-4-15 17:54:7	10021	999888	2
+2014-4-15 17:54:8	10021	999888	2
+2014-4-15 17:54:20	10021	999888	1
+2014-4-15 17:56:59	10021	999888	1
+2014-4-15 18:59:4	10021	999888	2
+2014-4-15 18:59:14	10021	999888	2

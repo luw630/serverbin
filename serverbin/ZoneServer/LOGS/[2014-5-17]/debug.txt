@@ -1,0 +1,496 @@
+[2014-5-17 15:48:59] [115] connect to loginserver
+[2014-5-17 15:52:28] [115] connect to loginserver
+角色[200375][闵随阴]连接[:0]被[200375][10.0.100.15:49167]替换！！！
+角色[200375][闵随阴]连接[:0]被[200375][10.0.100.15:55055]替换！！！
+[2014-5-17 16:20:49] [115] connect to loginserver
+[2014-5-17 16:38:4] [115] connect to loginserver
+check : pMsg->dwResult == false!!!
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+[string "Script\XYD3Script\EventRegion\StaticScene.l..."]:533: attempt to index global 'Aimonsterlist' (a nil value)
+
+角色[200375][闵随阴]连接[:0]被[200375][10.0.100.15:10516]替换！！！
+[2014-5-17 18:21:21] [115] connect to loginserver
+[2014-5-17 18:22:15] [115] connect to loginserver
+[2014-5-17 18:22:19] [115] connect to loginserver
+[2014-5-17 19:17:17] [115] connect to loginserver
+[2014-5-17 19:29:59] [115] connect to loginserver
+[2014-5-17 19:34:22] [115] connect to loginserver
+[2014-5-17 19:48:15] [115] connect to loginserver
+[2014-5-17 21:24:57] [115] connect to loginserver

@@ -1,0 +1,13 @@
+gmbr45 Œ‰…Òœƒ√∑
+
+
+luacall ShowSceneEquipment 1000100211
+
+luacall ShowRequestRank 1000100201
+
+luacall RequestSceneEquipment 1000100201 2 1
+luacall ShowRequestRank 1000100201 0
+
+luacall OnChallengeFinish 1000100191 1141921
+
+luacall OnChallengeSceneMap 1000100191 920000 2

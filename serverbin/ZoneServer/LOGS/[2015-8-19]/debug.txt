@@ -1,0 +1,10 @@
+[2015-8-19 11:53:1] [115] connect to loginserver
+[2015-8-19 15:6:42] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\Activity_Praye..."]:9: attempt to call global 'InitRankPrayerList' (a nil value)
+
+[string "Script\SanGuoScript\faction\factionsceneconfig.lua"]:6: '}' expected (to close '{' at line 4) near '='
+
+[string "Script\SanGuoScript\faction\factionsceneconfig.lua"]:6: '}' expected (to close '{' at line 4) near '='
+
+[string "Script\SanGuoScript\faction\factionsceneconfig.lua"]:5: '}' expected (to close '{' at line 3) near '='
+

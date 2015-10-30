@@ -1,0 +1,47 @@
+//////////////////////////////// 
+//双斜杠后的内容仅用作提示，不需要翻译
+//首列英文字符都不能修改，如果修改后将会造成服务器无法读取翻译内容
+////////////////////////////////
+//arena  hints	 竞技场提示
+RIVAL_NOT_FOUND	未查询到对手
+RIVAL_RANK_HAS_CHANGED	对手排名已改变
+RIVAL_RANK_OUT_OF_RANGE	对手排名超出范围
+RIVAL_IN_BATTLE	对手在战斗中
+CHALLENG_CD 挑战处于CD中
+NO_CHALLENGE_CHANES	挑战次数已经用完
+ARENABSET_EMAIL_TITLE	练武场最高排名奖励
+ARENAROUTINE_EMAIL_TITLE	练武场每日排名奖励
+EMAIL_SIGNATURE 邮件署名（可以是运营商名字）
+//common hints 通用提示
+OUT_OF_MONEY 金钱不足
+NOT_ENOUGH_HERO_POINT 将魂不足
+NOT_ENOUGH_SKILL_POINT 技能点不足
+WRONG_SKILL_ID 技能ID错误
+NOT_ENOUGH_SKILL_POINT_AND_MONEY 技能点或金钱不足
+SKILL_LEVEL_HIGHER_THAN_HERO_LEVEL 技能等级超过武将等级
+HERO_NOT_FOUND 找不到武将
+EQUIPMENT_NOT_FOUND 找不到装备
+ITEM_ALREADY_EQUIPPED 物品已装备
+REQUIRE_HIGHER_LEVEL 需要更高等级
+//reserved %d as parameters 保留%d作为参赛
+MIN_LEVEL_REQUIRED 最低等级需要%d级
+ARENABEST_EMAIL_CONTENT 主公,现在您的最高排名是%d名，比之前提高了%d名哦，要继续加油哈。
+ARENAROUTINE_EMAIL_CONTENT	主公，到今天24:00为止，您在练武场的排名是%d,要继续努力哟。
+//icon name 
+ICON_ZHOUYV zyu_01
+THIEF_TIP 奖励通过驿站发放
+THIEF_TITLE 飞天神偷奖励
+THIEF_CONTENT 您通过攻击飞天神偷带来的幻象获得以下奖励
+THIEF_SENDERNAME 天乐
+//军团奖励邮件
+MAIL_SENDER 炫游
+MAIL_FACTION_TITLE 军团副本通关奖励
+MAIL_FACTION_CONTENT 军团副本通关奖励道具
+MAIL_PRAYER_TITLE 神将祈福排名奖励
+MAIL_PRAYER_CONTENT 第一名：庞统将魂*80、刘备将魂*80、马良将魂*80；第二、三名：庞统将魂*80、马良将魂*80；第四至十名：庞统将魂*80。
+//军团日志相关
+FACTION_ADDMEMBER 【系统】%s加入了军团。
+FACTION_KICKMEMBER 【系统】%s被踢出军团。?
+MAIL_FACTIONEQUIPT_SENDER 军团军需官	
+MAIL_FACTIONEQUIPT_TITLE 军团物资分配
+MAIL_FACTIONEQUIPT_CONTENT 亲爱的主公，您在军团中申请的装备已经发配到您的手中。请查收！	

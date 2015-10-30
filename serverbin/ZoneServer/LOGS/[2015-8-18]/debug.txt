@@ -1,0 +1,151 @@
+[2015-8-18 14:24:11] [115] connect to loginserver
+角色[gmooo][]连接[:0]被[gmooo][192.168.0.200:42530]替换！！！
+角色[gmppp][]连接[:0]被[gmppp][192.168.0.200:46370]替换！！！
+角色[gmppp][]连接[:0]被[gmppp][192.168.0.200:47906]替换！！！
+角色[gmppp][]连接[:0]被[gmppp][192.168.0.200:50722]替换！！！
+角色[gmnn][]连接[:0]被[gmnn][192.168.0.200:53794]替换！！！
+角色[gmuu][]连接[:0]被[gmuu][192.168.0.200:35]替换！！！
+角色[gmuu][]连接[:0]被[gmuu][192.168.0.200:5923]替换！！！
+角色[gmuu][]连接[:0]被[gmuu][192.168.0.200:12835]替换！！！
+角色[gmuu][]连接[:0]被[gmuu][192.168.0.200:33059]替换！！！
+角色[gmny5][]连接[:0]被[gmny5][192.168.0.124:64775]替换！！！
+角色[gmuu][]连接[:0]被[gmuu][192.168.0.200:39715]替换！！！
+角色[gmrt667][]连接[:0]被[gmrt667][192.168.0.124:13576]替换！！！
+[string "Script\SanGuoScript\Prayer\Prayer_ShopConfig.lua"]:4: unexpected symbol near '{'
+
+角色[gmjdk][]连接[:0]被[gmjdk][192.168.0.200:17700]替换！！！
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:111: attempt to index upvalue 'PrayerShopData' (a number value)
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:108: attempt to index upvalue 'PrayerShopData' (a number value)
+
+角色[gmrt669][]连接[:0]被[gmrt669][192.168.0.124:64008]替换！！！
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:108: attempt to index upvalue 'PrayerShopData' (a number value)
+
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:108: attempt to index upvalue 'PrayerShopData' (a number value)
+
+角色[gmrt669][]连接[:0]被[gmrt669][192.168.0.124:26121]替换！！！
+角色[gmrt672][]连接[:0]被[gmrt672][192.168.0.124:52745]替换！！！
+角色[gmmmy][]连接[:0]被[gmmmy][192.168.0.200:28965]替换！！！
+角色[gmmmy][]连接[:0]被[gmmmy][192.168.0.200:34085]替换！！！
+角色[gmuiu][]连接[:0]被[gmuiu][192.168.0.200:55077]替换！！！
+[string "Script\XYD3Script\PlayerRewardfunction.lua"]:158: stack overflow
+
+角色[gmyyu][]连接[:0]被[gmyyu][192.168.0.200:8998]替换！！！
+角色[gmyyu][]连接[:0]被[gmyyu][192.168.0.200:11558]替换！！！
+角色[gmyyu][]连接[:0]被[gmyyu][192.168.0.200:15142]替换！！！
+角色[gm111][]连接[:0]被[gm111][192.168.0.73:31228]替换！！！
+角色[gmyyu][]连接[:0]被[gmyyu][192.168.0.200:17190]替换！！！
+角色[gm111][]连接[:0]被[gm111][192.168.0.73:37372]替换！！！
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+角色[gmyyu][]连接[:0]被[gmyyu][192.168.0.200:20518]替换！！！
+角色[gmyyu][]连接[:0]被[gmyyu][192.168.0.200:56102]替换！！！
+角色[gmtt][]连接[:0]被[gmtt][192.168.0.200:62502]替换！！！
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:209: attempt to concatenate local 'itemnum' (a nil value)
+
+DecGoods_SG 去向 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:209: attempt to concatenate local 'itemnum' (a nil value)
+
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:212: attempt to concatenate local 'itemnum' (a nil value)
+
+竞技场排行开始更新
+竞技场更新TOP50列表
+竞技场排行开始更新
+竞技场更新TOP50列表
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:212: attempt to concatenate local 'itemnum' (a nil value)
+
+角色[gmrr][]连接[:0]被[gmrr][192.168.0.200:13096]替换！！！
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+角色[gmrr][]连接[:0]被[gmrr][192.168.0.200:13352]替换！！！
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+竞技场排行开始更新
+竞技场更新TOP50列表
+角色[gmrr][]连接[:0]被[gmrr][192.168.0.200:14120]替换！！！
+角色[gmkkkk][]连接[:0]被[gmkkkk][192.168.0.200:25384]替换！！！
+角色[gm111][]连接[:0]被[gm111][192.168.0.73:20931]替换！！！
+[string "Script\SanGuoScript\Prayer\Prayer.lua"]:219: bad argument #1 to 'insert' (table expected, got nil)
+
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+角色[gmdfg][]连接[:0]被[gmdfg][192.168.0.200:37928]替换！！！
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+角色[gmdfg][]连接[:0]被[gmdfg][192.168.0.200:55336]替换！！！
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+角色[gmoioio][]连接[:0]被[gmoioio][192.168.0.200:60712]替换！！！
+角色[gmrt672][]连接[:0]被[gmrt672][192.168.0.124:37900]替换！！！
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+竞技场排行开始更新
+竞技场更新TOP50列表
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+竞技场排行开始更新
+竞技场更新TOP50列表
+角色[gmoioio][]连接[:0]被[gmoioio][192.168.0.200:7465]替换！！！
+角色[gm111][]连接[:0]被[gm111][192.168.0.73:13765]替换！！！
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+[string "Script\SanGuoScript\Prayer\Prayer.lua"]:220: bad argument #1 to 'insert' (table expected, got nil)
+
+[string "Script\SanGuoScript\Prayer\Prayer.lua"]:220: bad argument #1 to 'insert' (table expected, got nil)
+
+[string "Script\SanGuoScript\Prayer\Prayer.lua"]:218: attempt to concatenate local 'x' (a nil value)
+
+竞技场排行开始更新
+竞技场更新TOP50列表
+角色[gmert][]连接[:0]被[gmert][192.168.0.200:48937]替换！！！
+角色[gmert][]连接[:0]被[gmert][192.168.0.200:25898]替换！！！
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:202: attempt to compare nil with number
+
+获取军团ID0
+获取军团ID0
+竞技场排行开始更新
+竞技场更新TOP50列表
+角色[gm111][]连接[:0]被[gm111][192.168.0.73:14281]替换！！！
+角色[gmrt672][]连接[:0]被[gmrt672][192.168.0.124:65037]替换！！！
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:191: attempt to concatenate local 'PricePoint' (a nil value)
+
+获取军团ID0
+获取军团ID0
+竞技场排行开始更新
+竞技场更新TOP50列表
+DecGoods_SG 去向 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+角色[gmrt672][]连接[:0]被[gmrt672][192.168.0.124:3854]替换！！！
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:191: attempt to concatenate local 'PricePoint' (a nil value)
+
+获取军团ID0
+获取军团ID0
+角色[gmrt673][]连接[:0]被[gmrt673][192.168.0.124:8718]替换！！！
+角色[gmrt673][]连接[:0]被[gmrt673][192.168.0.124:30478]替换！！！
+角色[gmert][]连接[:0]被[gmert][192.168.0.200:30763]替换！！！
+角色[gmert][]连接[:0]被[gmert][192.168.0.200:36651]替换！！！
+角色[gm111][]连接[:0]被[gm111][192.168.0.73:63435]替换！！！
+角色[gmert][]连接[:0]被[gmert][192.168.0.200:20780]替换！！！
+角色[gmert][]连接[:0]被[gmert][192.168.0.200:26668]替换！！！
+角色[gmrt673][]连接[:0]被[gmrt673][192.168.0.124:27151]替换！！！
+[2015-8-18 19:4:38] [115] connect to loginserver
+角色[gmqwe][]连接[:0]被[gmqwe][192.168.0.200:62771]替换！！！
+角色[gm111][]连接[:0]被[gm111][192.168.0.73:25554]替换！！！
+角色[gmqwe][]连接[:0]被[gmqwe][192.168.0.200:5940]替换！！！
+角色[gm111][]连接[:0]被[gm111][192.168.0.73:39378]替换！！！
+角色[gm111][]连接[:0]被[gm111][192.168.0.73:11222]替换！！！
+角色[gm111][]连接[:0]被[gm111][192.168.0.73:32727]替换！！！
+角色[gm111][]连接[:0]被[gm111][192.168.0.73:61143]替换！！！
+角色[gm111][]连接[:0]被[gm111][192.168.0.73:62935]替换！！！
+角色[gm111][]连接[:0]被[gm111][192.168.0.73:13784]替换！！！
+角色[gmryd][]连接[:0]被[gmryd][192.168.0.200:9270]替换！！！
+角色[gm222][]连接[:0]被[gm222][192.168.0.73:11997]替换！！！
+角色[gm222][]连接[:0]被[gm222][192.168.0.73:16861]替换！！！
+角色[gm222][]连接[:0]被[gm222][192.168.0.73:29661]替换！！！
+角色[gm222][]连接[:0]被[gm222][192.168.0.73:50397]替换！！！
+角色[gm222][]连接[:0]被[gm222][192.168.0.73:478]替换！！！
+角色[gm222][]连接[:0]被[gm222][192.168.0.73:26846]替换！！！

@@ -1,0 +1,17 @@
+[2015-10-9 15:18:21] [115] connect to loginserver
+[2015-10-9 15:19:40] [115] connect to loginserver
+[2015-10-9 15:19:59] [115] connect to loginserver
+[2015-10-9 15:53:17] [115] connect to loginserver
+角色[gmr44441000][]连接[:0]被[gmr44441000][192.168.0.124:65076]替换！！！
+[2015-10-9 16:8:45] [115] connect to loginserver
+[2015-10-9 16:58:18] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:106: attempt to index global 'FactionInfo' (a nil value)
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:106: attempt to index global 'v' (a nil value)
+
+[2015-10-9 17:11:46] [115] connect to loginserver
+[2015-10-9 17:44:37] [115] connect to loginserver
+[2015-10-9 19:52:17] [115] connect to loginserver
+[2015-10-9 20:0:46] [115] connect to loginserver
+[2015-10-9 20:0:55] [115] connect to loginserver
+[2015-10-9 20:0:58] [115] connect to loginserver

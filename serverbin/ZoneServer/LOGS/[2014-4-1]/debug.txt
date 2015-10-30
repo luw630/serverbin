@@ -1,0 +1,23 @@
+[2014-4-1 9:41:30] [115] connect to loginserver
+[2014-4-1 9:51:51] [115] connect to loginserver
+[2014-4-1 10:18:0] [115] connect to loginserver
+[2014-4-1 10:20:38] [115] connect to loginserver
+[2014-4-1 10:22:23] [115] connect to loginserver
+[2014-4-1 10:45:46] [115] connect to loginserver
+[2014-4-1 10:47:59] [115] connect to loginserver
+[2014-4-1 10:50:43] [115] connect to loginserver
+[2014-4-1 11:31:14] [115] connect to loginserver
+[2014-4-1 11:32:52] [115] connect to loginserver
+[2014-4-1 11:33:3] [115] connect to loginserver
+[2014-4-1 11:34:0] [115] connect to loginserver
+[2014-4-1 14:59:43] [115] connect to loginserver
+[2014-4-1 15:7:24] [115] connect to loginserver
+[2014-4-1 15:8:27] [115] connect to loginserver
+½ÇÉ«[200354][ãÌÇð½£·â]Á¬½Ó[:0]±»[200354][10.0.100.14:53540]Ìæ»»£¡£¡£¡
+[2014-4-1 15:26:40] [115] connect to loginserver
+½ÇÉ«[200354][ãÌÇð½£·â]Á¬½Ó[:0]±»[200354][10.0.100.14:35109]Ìæ»»£¡£¡£¡
+½ÇÉ«[200354][ãÌÇð½£·â]Á¬½Ó[:0]±»[200354][10.0.100.14:15657]Ìæ»»£¡£¡£¡
+[2014-4-1 20:42:25] [115] connect to loginserver
+½ÇÉ«[200354][ãÌÇð½£·â]Á¬½Ó[:0]±»[200354][10.0.100.14:1614]Ìæ»»£¡£¡£¡
+[2014-4-1 20:49:57] [115] connect to loginserver
+[2014-4-1 20:56:33] [115] connect to loginserver

@@ -1,0 +1,18 @@
+[2015-10-12 14:5:6] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\factionscene.lu..."]:654: attempt to call global 'osdate' (a nil value)
+
+Script\SanGuoScript\Activity\Activity_exchange.lua
+
+[string "Script\SanGuoScript\faction\playerfaction.lua"]:482: '=' expected near 'OnUpdateFactionPlayer'
+
+Script\SanGuoScript\Activity\Activity_exchange.lua
+
+Script\SanGuoScript\Activity\Activity_exchange.lua
+
+Script\SanGuoScript\Activity\Activity_exchange.lua
+
+Script\SanGuoScript\Activity\Activity_exchange.lua
+
+[2015-10-12 18:1:25] [115] connect to loginserver
+Script\SanGuoScript\Activity\Activity_exchange.lua
+

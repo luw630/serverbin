@@ -1,0 +1,12 @@
+[2013-12-2 16:43:45] [115] connect to loginserver
+[string "Script\XYD3Script\EveryDay_Login.lua"]:27: bad argument #1 to 'maxn' (table expected, got nil)
+
+角色[20004][苻万怨]连接[:0]被[20004][10.0.100.14:28186]替换！！！
+[string "Script\XYD3Script\EveryDay_Login.lua"]:27: bad argument #1 to 'maxn' (table expected, got nil)
+
+[string "Script\XYD3Script\EveryDay_Login.lua"]:27: bad argument #1 to 'maxn' (table expected, got nil)
+
+[string "Script\XYD3Script\EveryDay_Login.lua"]:27: bad argument #1 to 'maxn' (table expected, got nil)
+
+[string "Script\XYD3Script\EveryDay_Login.lua"]:27: bad argument #1 to 'maxn' (table expected, got nil)
+

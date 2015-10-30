@@ -1,0 +1,8 @@
+[2014-5-12 11:51:4] [115] connect to loginserver
+[2014-5-12 12:5:3] [115] connect to loginserver
+[2014-5-12 12:31:12] [115] connect to loginserver
+角色[200374][孙千筹]连接[:0]被[200374][10.0.100.15:26132]替换！！！
+[2014-5-12 13:31:49] [115] connect to loginserver
+[2014-5-12 15:16:2] [115] connect to loginserver
+[2014-5-12 19:25:12] [115] connect to loginserver
+[2014-5-12 19:44:55] [115] connect to loginserver

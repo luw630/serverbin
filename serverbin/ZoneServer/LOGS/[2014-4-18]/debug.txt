@@ -1,0 +1,32 @@
+[2014-4-18 10:26:12] [115] connect to loginserver
+[string "Script\XYD3Script\Task\TaskUtility.lua"]:953: attempt to call global 'GetTableValueIsRepeat' (a nil value)
+
+[string "Script\XYD3Script\Task\TaskUtility.lua"]:953: attempt to call global 'GetTableValueIsRepeat' (a nil value)
+
+[string "Script\XYD3Script\Task\TaskUtility.lua"]:953: attempt to call global 'GetTableValueIsRepeat' (a nil value)
+
+角色[200357][方健柏]连接[:0]被[200357][10.0.100.14:62571]替换！！！
+[string "Script\XYD3Script\Task\TaskUtility.lua"]:953: attempt to call global 'GetTableValueIsRepeat' (a nil value)
+
+[string "Script\XYD3Script\Task\TaskUtility.lua"]:953: attempt to call global 'GetTableValueIsRepeat' (a nil value)
+
+角色[200357][方健柏]连接[:0]被[200357][10.0.100.14:9847]替换！！！
+[string "Script\XYD3Script\Task\TaskUtility.lua"]:953: attempt to call global 'GetTableValueIsRepeat' (a nil value)
+
+[string "Script\XYD3Script\Task\TaskUtility.lua"]:953: attempt to call global 'GetTableValueIsRepeat' (a nil value)
+
+[string "Script\XYD3Script\Task\TaskUtility.lua"]:953: attempt to call global 'GetTableValueIsRepeat' (a nil value)
+
+[string "Script\XYD3Script\Task\TaskUtility.lua"]:953: attempt to call global 'GetTableValueIsRepeat' (a nil value)
+
+角色[200357][方健柏]连接[:0]被[200357][10.0.100.14:33981]替换！！！
+[string "Script\XYD3Script\Task\TaskUtility.lua"]:953: attempt to call global 'GetTableValueIsRepeat' (a nil value)
+
+[string "Script\XYD3Script\Task\TaskUtility.lua"]:953: attempt to call global 'GetTableValueIsRepeat' (a nil value)
+
+[string "Script\XYD3Script\Task\TaskUtility.lua"]:953: attempt to call global 'GetTableValueIsRepeat' (a nil value)
+
+[string "Script\XYD3Script\Task\TaskUtility.lua"]:953: attempt to call global 'GetTableValueIsRepeat' (a nil value)
+
+[string "Script\XYD3Script\Task\TaskUtility.lua"]:953: attempt to call global 'GetTableValueIsRepeat' (a nil value)
+

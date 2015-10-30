@@ -1,0 +1,30 @@
+[2013-12-4 9:26:0] [115] connect to loginserver
+[2013-12-4 9:29:37] [115] connect to loginserver
+[2013-12-4 9:30:47] [115] connect to loginserver
+[2013-12-4 9:39:41] [115] connect to loginserver
+[2013-12-4 9:40:11] [115] connect to loginserver
+[2013-12-4 9:40:41] [115] connect to loginserver
+[2013-12-4 9:41:2] [115] connect to loginserver
+[2013-12-4 9:47:22] [115] connect to loginserver
+[2013-12-4 9:47:43] [115] connect to loginserver
+[2013-12-4 9:48:27] [115] connect to loginserver
+[2013-12-4 9:51:12] [115] connect to loginserver
+[2013-12-4 9:53:31] [115] connect to loginserver
+[2013-12-4 9:55:34] [115] connect to loginserver
+[2013-12-4 9:57:44] [115] connect to loginserver
+[2013-12-4 9:58:29] [115] connect to loginserver
+[2013-12-4 13:43:1] [115] connect to loginserver
+[2013-12-4 14:37:54] [115] connect to loginserver
+角色[20004][苻万怨]连接[:0]被[20004][10.0.100.14:37145]替换！！！
+[2013-12-4 14:44:7] [115] connect to loginserver
+角色[20004][苻万怨]连接[:0]被[20004][10.0.100.14:40228]替换！！！
+角色[20004][苻万怨]连接[:0]被[20004][10.0.100.14:19751]替换！！！
+[2013-12-4 17:25:46] [115] connect to loginserver
+角色[20004][苻万怨]连接[:0]被[20004][10.0.100.14:35623]替换！！！
+[2013-12-4 18:17:32] [115] connect to loginserver
+角色[20004][苻万怨]连接[:0]被[20004][10.0.100.14:24337]替换！！！
+角色[20004][苻万怨]连接[:0]被[20004][10.0.100.14:27665]替换！！！
+角色[20004][苻万怨]连接[:0]被[20004][10.0.100.14:30993]替换！！！
+[2013-12-4 20:31:28] [115] connect to loginserver
+角色[20004][苻万怨]连接[:0]被[20004][10.0.100.14:7186]替换！！！
+[2013-12-4 21:27:20] [115] connect to loginserver

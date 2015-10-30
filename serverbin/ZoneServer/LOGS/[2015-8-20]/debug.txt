@@ -1,0 +1,8 @@
+[2015-8-20 18:23:24] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\factionsceneconfig.lua"]:254: '}' expected near '|'
+
+[string "Script\SanGuoScript\faction\factionsceneconfig.lua"]:303: '}' expected near '|'
+
+[string "Script\SanGuoScript\faction\factionsceneconfig.lua"]:352: '}' expected near '|'
+
+[2015-8-20 18:33:47] [115] connect to loginserver

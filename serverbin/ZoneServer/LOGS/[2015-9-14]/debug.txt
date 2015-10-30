@@ -1,0 +1,30 @@
+[2015-9-14 15:46:11] [115] connect to loginserver
+[2015-9-14 16:38:33] [115] connect to loginserver
+[2015-9-14 16:40:51] [115] connect to loginserver
+[string "Script\SanGuoScript\Friends\Friends.lua"]:634: attempt to index field '?' (a nil value)
+
+[2015-9-14 17:26:29] [115] connect to loginserver
+角色[gmi][]连接[:0]被[gmi][192.168.0.200:52032]替换！！！
+角色[gmi][]连接[:0]被[gmi][192.168.0.200:60224]替换！！！
+角色[gmi][]连接[:0]被[gmi][192.168.0.200:8513]替换！！！
+角色[gmi][]连接[:0]被[gmi][192.168.0.200:16961]替换！！！
+角色[gm34sdd][]连接[:0]被[gm34sdd][192.168.0.124:47888]替换！！！
+MAIL_PRAYER_TITLE 字符串没有找到
+MAIL_PRAYER_CONTENT 字符串没有找到
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:87: attempt to call method 'OnActivityClosed' (a nil value)
+
+[2015-9-14 19:45:26] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:87: attempt to call method 'OnActivityClosed' (a nil value)
+
+[2015-9-14 20:34:28] [115] connect to loginserver
+[2015-9-14 21:10:52] [115] connect to loginserver
+[2015-9-14 22:16:23] [115] connect to loginserver
+[2015-9-14 22:17:58] [115] connect to loginserver
+[2015-9-14 22:20:53] [115] connect to loginserver
+[2015-9-14 22:21:42] [115] connect to loginserver
+[2015-9-14 22:21:52] [115] connect to loginserver
+[2015-9-14 22:22:30] [115] connect to loginserver
+[2015-9-14 22:22:38] [115] connect to loginserver
+[2015-9-14 22:30:45] [115] connect to loginserver
+角色[gm34sdd][]连接[:0]被[gm34sdd][192.168.0.124:52772]替换！！！

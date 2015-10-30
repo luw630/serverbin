@@ -1,0 +1,26 @@
+[2015-10-21 15:7:3] [115] connect to loginserver
+[string "Script\SanGuoScript\DataCenter\LocalDataSer..."]:105: bad argument #1 to 'pairs' (table expected, got string)
+
+竞技场排行开始更新
+竞技场更新TOP50列表
+[2015-10-21 15:59:30] [115] connect to loginserver
+[2015-10-21 16:9:31] [115] connect to loginserver
+[2015-10-21 16:16:26] [115] connect to loginserver
+[2015-10-21 16:31:47] [115] connect to loginserver
+[2015-10-21 16:38:2] [115] connect to loginserver
+[2015-10-21 16:39:44] [115] connect to loginserver
+[2015-10-21 17:1:40] [115] connect to loginserver
+[string "Script\SanGuoScript\DataCenter\LocalDataService.lua"]:111: unexpected symbol near 'else'
+
+角色[gm0301000][]连接[:0]被[gm0301000][192.168.0.129:17622]替换！！！
+角色[gm0301000][]连接[:0]被[gm0301000][192.168.0.129:39382]替换！！！
+角色[gm1001000][]连接[:0]被[gm1001000][192.168.0.169:10698]替换！！！
+角色[gm1001000][]连接[:0]被[gm1001000][192.168.0.169:19146]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:37159]替换！！！
+[string "Script\SanGuoScript\Activity\ActivityGiftKe..."]:135: attempt to concatenate global 'g_giftInitLoad' (a boolean value)
+
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:63783]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:19240]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:31016]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:38952]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:44072]替换！！！

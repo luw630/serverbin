@@ -1,0 +1,8 @@
+[2014-6-12 9:27:45] [115] connect to loginserver
+[2014-6-12 10:57:17] [115] connect to loginserver
+[2014-6-12 14:21:28] [115] connect to loginserver
+[2014-6-12 15:37:30] [115] connect to loginserver
+[2014-6-12 16:25:0] [115] connect to loginserver
+[2014-6-12 16:27:44] [115] connect to loginserver
+[2014-6-12 16:29:45] [115] connect to loginserver
+[2014-6-12 16:32:4] [115] connect to loginserver

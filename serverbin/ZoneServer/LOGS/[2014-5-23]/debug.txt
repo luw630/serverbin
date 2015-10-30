@@ -1,0 +1,8 @@
+[2014-5-23 10:27:58] [115] connect to loginserver
+[string "Script\XYD3Script\Task\TaskUtility.lua"]:610: attempt to index field '?' (a nil value)
+
+[2014-5-23 10:49:48] [115] connect to loginserver
+[2014-5-23 16:55:15] [115] connect to loginserver
+[2014-5-23 17:12:11] [115] connect to loginserver
+[2014-5-23 17:38:26] [115] connect to loginserver
+[2014-5-23 18:56:16] [115] connect to loginserver

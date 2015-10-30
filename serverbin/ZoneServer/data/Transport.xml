@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Copyright (c), DreamWork
+	 author  Isoft 
+	 version 1.0
+	 data    July 16, 2010 
+-->
+<MAPLIST>	
+	<MAPCHANGELIST>
+		<MAPCHANGE SerialID="1" mapSrcID="1" mapSrcPosX="19622" mapSrcPosY="20397" mapSrcPosZ="990"  mapSrcRange="400" mapDesID="2" mapDesPosX="106" mapDesPosY="485" mapDesPosZ="159" /> 
+		<MAPCHANGE SerialID="2" mapSrcID="2" mapSrcPosX="2918" mapSrcPosY="15692" mapSrcPosZ="5024"  mapSrcRange="400" mapDesID="1" mapDesPosX="585" mapDesPosY="650" mapDesPosZ="32"  />  
+	</MAPCHANGELIST>
+</MAPLIST>
+
+
+
+

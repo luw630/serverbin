@@ -1,0 +1,22 @@
+[2014-11-10 15:3:50] [115] connect to loginserver
+[2014-11-10 15:14:21] [115] connect to loginserver
+[2014-11-10 15:22:57] [115] connect to loginserver
+check : pMsg->dwResult == false!!!
+[2014-11-10 15:45:42] [115] connect to loginserver
+check : pMsg->dwResult == false!!!
+[2014-11-10 15:56:31] [115] connect to loginserver
+check : pMsg->dwResult == false!!!
+[2014-11-10 22:19:29] [115] connect to loginserver
+[2014-11-10 22:51:11] [115] connect to loginserver
+角色[01010101010][]连接[:0]被[01010101010][127.0.0.1:11108]替换！！！
+check : !pPlayer->m_bInit in CreateNewPlayer
+角色[01010101010][]连接[:0]被[01010101010][127.0.0.1:33380]替换！！！
+check : !pPlayer->m_bInit in CreateNewPlayer
+角色[01010101010][]连接[:0]被[01010101010][127.0.0.1:65124]替换！！！
+check : !pPlayer->m_bInit in CreateNewPlayer
+角色[01010101010][]连接[:0]被[01010101010][127.0.0.1:23909]替换！！！
+check : !pPlayer->m_bInit in CreateNewPlayer
+[2014-11-10 23:2:35] [115] connect to loginserver
+[2014-11-10 23:2:39] [115] connect to loginserver
+check : pMsg->dwResult == false!!!
+[2014-11-10 23:4:34] [115] connect to loginserver

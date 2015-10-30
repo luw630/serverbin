@@ -1,0 +1,12 @@
+[2013-12-13 9:47:11] [115] connect to loginserver
+Script\Scene\sceneevent.lua
+
+角色[20004][苻万怨]连接[:0]被[20004][10.0.100.14:29478]替换！！！
+角色[20004][苻万怨]连接[:0]被[20004][10.0.100.14:54326]替换！！！
+[2013-12-13 10:20:40] [115] connect to loginserver
+Script\Scene\sceneevent.lua
+
+[2013-12-13 15:29:8] [115] connect to loginserver
+Script\Scene\sceneevent.lua
+
+[2013-12-13 17:51:4] [115] connect to loginserver

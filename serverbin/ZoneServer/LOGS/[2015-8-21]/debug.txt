@@ -1,0 +1,119 @@
+[2015-8-21 14:38:35] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\factionscene.lua"]:113: '}' expected (to close '{' at line 111) near 'scenemapindex'
+
+[string "Script\SanGuoScript\faction\factionscene.lu..."]:68: attempt to call global 'SendFactionSceneList' (a nil value)
+
+[2015-8-21 14:46:50] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\factionManager...."]:251: bad argument #1 to 'ipairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\faction\factionManager...."]:251: bad argument #1 to 'ipairs' (table expected, got nil)
+
+角色[gmyu77][]连接[:0]被[gmyu77][192.168.0.124:7440]替换！！！
+[string "Script\SanGuoScript\faction\factionManager...."]:251: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:14: attempt to get length of field 'MemberList' (a nil value)
+
+竞技场排行榜未初始化
+刷新数据到内存1---找共享缓存，用掉0毫秒！
+刷新数据到内存2---遍历玩家前，用掉0毫秒！
+刷新数据到内存4---遍历玩家后，用掉0毫秒！
+[string "Script\SanGuoScript\faction\factionManager...."]:487: bad argument #1 to 'ipairs' (table expected, got nil)
+
+竞技场排行榜未初始化
+刷新数据到内存1---找共享缓存，用掉0毫秒！
+刷新数据到内存2---遍历玩家前，用掉0毫秒！
+刷新数据到内存4---遍历玩家后，用掉0毫秒！
+[2015-8-21 15:0:18] [115] connect to loginserver
+角色[gmyu877][]连接[:0]被[gmyu877][192.168.0.124:50704]替换！！！
+[string "Script\SanGuoScript\faction\factionscene.lu..."]:123: attempt to concatenate field 'ChallengeCount' (a nil value)
+
+竞技场排行榜未初始化
+刷新数据到内存1---找共享缓存，用掉0毫秒！
+刷新数据到内存2---遍历玩家前，用掉0毫秒！
+刷新数据到内存4---遍历玩家后，用掉0毫秒！
+[2015-8-21 15:13:45] [115] connect to loginserver
+角色[gmyu880][]连接[:0]被[gmyu880][192.168.0.124:25617]替换！！！
+角色[gmd][]连接[:0]被[gmd][192.168.0.76:26379]替换！！！
+角色[gmd][]连接[:0]被[gmd][192.168.0.76:9740]替换！！！
+[2015-8-21 15:54:11] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\factionManager...."]:251: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\faction\factionManager...."]:251: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:14: attempt to get length of field 'MemberList' (a nil value)
+
+角色[gmmd][]连接[:0]被[gmmd][192.168.0.76:1039]替换！！！
+角色[gmmd][]连接[:0]被[gmmd][192.168.0.76:12303]替换！！！
+角色[gmmd][]连接[:0]被[gmmd][192.168.0.76:26896]替换！！！
+角色[gmmd][]连接[:0]被[gmmd][192.168.0.76:30224]替换！！！
+[string "Script\SanGuoScript\faction\factionManager...."]:253: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\faction\factionManager...."]:253: bad argument #1 to 'pairs' (table expected, got nil)
+
+角色[gmmd][]连接[:0]被[gmmd][192.168.0.76:19985]替换！！！
+[2015-8-21 16:17:34] [115] connect to loginserver
+check : pMsg->dwResult == false!!!
+[string "Script\SanGuoScript\faction\factionManager...."]:253: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\faction\factionManager...."]:253: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\faction\factionManager...."]:253: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\faction\factionManager...."]:253: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:14: attempt to get length of field 'MemberList' (a nil value)
+
+角色[gmmzz][]连接[:0]被[gmmzz][192.168.0.76:44817]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:14: attempt to get length of field 'MemberList' (a nil value)
+
+角色[gmyu880][]连接[:0]被[gmyu880][192.168.0.124:38164]替换！！！
+[string "Script\SanGuoScript\faction\factionManager...."]:253: bad argument #1 to 'pairs' (table expected, got nil)
+
+角色[gmzddz][]连接[:0]被[gmzddz][192.168.0.76:16914]替换！！！
+角色[gmzddz][]连接[:0]被[gmzddz][192.168.0.76:24850]替换！！！
+角色[gmyu880][]连接[:0]被[gmyu880][192.168.0.124:61204]替换！！！
+[string "Script\SanGuoScript\faction\factionManager...."]:253: bad argument #1 to 'pairs' (table expected, got nil)
+
+角色[gmzddz][]连接[:0]被[gmzddz][192.168.0.76:44051]替换！！！
+角色[gmyu880][]连接[:0]被[gmyu880][192.168.0.124:4373]替换！！！
+[string "Script\SanGuoScript\faction\factionManager...."]:253: bad argument #1 to 'pairs' (table expected, got nil)
+
+角色[gmzddz][]连接[:0]被[gmzddz][192.168.0.76:14357]替换！！！
+角色[gmyu880][]连接[:0]被[gmyu880][192.168.0.124:11285]替换！！！
+[string "Script\SanGuoScript\faction\factionManager...."]:253: bad argument #1 to 'pairs' (table expected, got nil)
+
+角色[gmzddz][]连接[:0]被[gmzddz][192.168.0.76:29973]替换！！！
+角色[gmyu880][]连接[:0]被[gmyu880][192.168.0.124:16405]替换！！！
+[string "Script\SanGuoScript\faction\factionManager...."]:253: bad argument #1 to 'pairs' (table expected, got nil)
+
+角色[gmyu880][]连接[:0]被[gmyu880][192.168.0.124:18197]替换！！！
+[string "Script\SanGuoScript\faction\factionManager...."]:253: bad argument #1 to 'pairs' (table expected, got nil)
+
+角色[gmzddz][]连接[:0]被[gmzddz][192.168.0.76:16150]替换！！！
+[2015-8-21 16:53:24] [115] connect to loginserver
+角色[gmyu880][]连接[:0]被[gmyu880][192.168.0.124:59669]替换！！！
+角色[gmnewd][]连接[:0]被[gmnewd][192.168.0.76:51992]替换！！！
+角色[gmnewd][]连接[:0]被[gmnewd][192.168.0.76:60696]替换！！！
+角色[gmnewd][]连接[:0]被[gmnewd][192.168.0.76:9753]替换！！！
+角色[gmdzczc][]连接[:0]被[gmdzczc][192.168.0.76:63514]替换！！！
+角色[gmdzczc][]连接[:0]被[gmdzczc][192.168.0.76:51739]替换！！！
+角色[gmdzczc][]连接[:0]被[gmdzczc][192.168.0.76:28]替换！！！
+角色[gmdzczc][]连接[:0]被[gmdzczc][192.168.0.76:18972]替换！！！
+角色[gmdzczc][]连接[:0]被[gmdzczc][192.168.0.76:51484]替换！！！
+角色[gmdzczc][]连接[:0]被[gmdzczc][192.168.0.76:38174]替换！！！
+[2015-8-21 18:30:50] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\factionManager...."]:252: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\faction\factionManager...."]:252: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:14: attempt to get length of field 'MemberList' (a nil value)
+
+竞技场排行榜未初始化
+刷新数据到内存1---找共享缓存，用掉0毫秒！
+刷新数据到内存2---遍历玩家前，用掉15毫秒！
+刷新数据到内存4---遍历玩家后，用掉15毫秒！
+[2015-8-21 18:48:49] [115] connect to loginserver
+角色[gmdzczc][]连接[:0]被[gmdzczc][192.168.0.76:22821]替换！！！
+角色[gmdzczc][]连接[:0]被[gmdzczc][192.168.0.76:26661]替换！！！
+角色[gmdzczc][]连接[:0]被[gmdzczc][192.168.0.76:806]替换！！！
+角色[gmdzczc][]连接[:0]被[gmdzczc][192.168.0.76:3622]替换！！！

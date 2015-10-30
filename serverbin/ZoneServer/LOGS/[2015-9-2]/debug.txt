@@ -1,0 +1,19 @@
+[2015-9-2 16:3:40] [115] connect to loginserver
+[2015-9-2 16:4:56] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:40: attempt to perform arithmetic on field 'FactionMoney' (a nil value)
+
+竞技场排行榜未初始化
+[2015-9-2 17:21:53] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\factionscene.lu..."]:687: attempt to concatenate local 'IsGotSalary' (a nil value)
+
+竞技场排行榜未初始化
+角色[gmnhy][]连接[:0]被[gmnhy][192.168.0.124:56582]替换！！！
+[string "Script\SanGuoScript\faction\factionscene.lu..."]:689: attempt to concatenate local 'IsGotSalary' (a nil value)
+
+角色[gmnh888][]连接[:0]被[gmnh888][192.168.0.124:60422]替换！！！
+[string "Script\SanGuoScript\faction\factionscene.lu..."]:690: attempt to concatenate local 'IsGotSalary' (a nil value)
+
+角色[gmnh888][]连接[:0]被[gmnh888][192.168.0.124:64006]替换！！！
+角色[gmnh888][]连接[:0]被[gmnh888][192.168.0.124:4615]替换！！！
+角色[gmxx][]连接[:0]被[gmxx][192.168.0.76:18712]替换！！！
+角色[gmwoxc][]连接[:0]被[gmwoxc][192.168.0.76:31256]替换！！！

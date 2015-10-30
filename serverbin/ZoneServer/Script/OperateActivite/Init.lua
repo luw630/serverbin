@@ -1,0 +1,8 @@
+dofile("OperateActivite\\CurDayOnlineAct.lua")
+dofile("OperateActivite\\CurDayOnlineActCfg.lua")
+dofile("OperateActivite\\AddUpLoginAct.lua")
+dofile("OperateActivite\\AddUpLoginActCfg.lua")
+dofile("OperateActivite\\LevelRaceCfg.lua")
+dofile("OperateActivite\\LevelRace.lua")
+dofile("OperateActivite\\FerrisWheelCfg.lua")
+dofile("OperateActivite\\FerrisWheel.lua")

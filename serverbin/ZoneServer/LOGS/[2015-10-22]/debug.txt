@@ -1,0 +1,113 @@
+[2015-10-22 13:18:0] [115] connect to loginserver
+[string "Script\SanGuoScript\common\MissionActivenes..."]:72: attempt to call global 'CI_SynMissionActivenessData' (a nil value)
+
+[string "Script\SanGuoScript\common\MissionActivenes..."]:72: attempt to call global 'CI_SynMissionActivenessData' (a nil value)
+
+[string "Script\SanGuoScript\common\MissionActivenes..."]:72: attempt to call global 'CI_SynMissionActivenessData' (a nil value)
+
+[string "Script\SanGuoScript\common\MissionActivenes..."]:72: attempt to call global 'CI_SynMissionActivenessData' (a nil value)
+
+角色[gm0301000][]连接[:0]被[gm0301000][192.168.0.129:59072]替换！！！
+[string "Script\SanGuoScript\common\MissionActivenes..."]:72: attempt to call global 'CI_SynMissionActivenessData' (a nil value)
+
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100220
+获取军团ID103100220
+获取军团ID103100220
+角色[gm1001000][]连接[:0]被[gm1001000][192.168.0.129:5569]替换！！！
+[string "Script\SanGuoScript\common\MissionActivenes..."]:72: attempt to call global 'CI_SynMissionActivenessData' (a nil value)
+
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100220
+获取军团ID103100220
+获取军团ID103100220
+角色[gm1001000][]连接[:0]被[gm1001000][192.168.0.129:9921]替换！！！
+[string "Script\SanGuoScript\common\MissionActivenes..."]:72: attempt to call global 'CI_SynMissionActivenessData' (a nil value)
+
+角色[gm2001000][]连接[:0]被[gm2001000][192.168.0.129:12737]替换！！！
+[string "Script\SanGuoScript\common\MissionActivenes..."]:72: attempt to call global 'CI_SynMissionActivenessData' (a nil value)
+
+获取军团ID103100220
+获取军团ID103100220
+获取军团ID103100220
+角色[gm0301000][]连接[:0]被[gm0301000][192.168.0.129:19905]替换！！！
+[string "Script\SanGuoScript\common\MissionActivenes..."]:72: attempt to call global 'CI_SynMissionActivenessData' (a nil value)
+
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+获取军团ID103100218
+竞技场排行开始更新
+获取军团ID103100218
+竞技场更新TOP50列表
+获取军团ID103100218
+[string "Script\SanGuoScript\common\MissionActivenes..."]:72: attempt to call global 'CI_SynMissionActivenessData' (a nil value)
+
+[2015-10-22 14:27:50] [115] connect to loginserver
+角色[gm0301000][]连接[:0]被[gm0301000][192.168.0.129:38085]替换！！！
+角色[gm1001000][]连接[:0]被[gm1001000][192.168.0.129:41925]替换！！！
+角色[gm1001000][]连接[:0]被[gm1001000][192.168.0.129:49349]替换！！！
+角色[gm0301000][]连接[:0]被[gm0301000][192.168.0.129:53189]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:35423]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:42847]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:53599]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:61535]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:7008]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:13152]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:19296]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:23648]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:28512]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:57184]替换！！！
+角色[gm0301000][]连接[:0]被[gm0301000][192.168.0.129:970]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:64608]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:9313]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:5474]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:18018]替换！！！
+[string "Script\SanGuoScript\faction\factionscene.lu..."]:784: attempt to get length of field '?' (a nil value)
+
+获取军团ID103100219
+获取军团ID103100219
+获取军团ID103100219
+[string "Script\SanGuoScript\faction\factionscene.lu..."]:784: attempt to get length of field '?' (a nil value)
+
+竞技场排行开始更新
+竞技场更新TOP50列表
+[string "Script\SanGuoScript\faction\factionscene.lu..."]:784: attempt to get length of field '?' (a nil value)
+
+竞技场排行开始更新
+竞技场更新TOP50列表
+获取军团ID103100219
+获取军团ID103100219
+获取军团ID103100219
+[string "Script\SanGuoScript\faction\factionscene.lu..."]:784: attempt to get length of field '?' (a nil value)
+
+获取军团ID103100219
+获取军团ID103100219
+获取军团ID103100219
+[string "Script\SanGuoScript\faction\factionscene.lu..."]:784: attempt to get length of field '?' (a nil value)
+
+[string "Script\SanGuoScript\faction\factionscene.lu..."]:784: attempt to get length of field '?' (a nil value)
+
+竞技场排行开始更新
+竞技场更新TOP50列表
+[2015-10-22 16:29:41] [115] connect to loginserver
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:34150]替换！！！
+角色[gm58171000][]连接[:0]被[gm58171000][192.168.0.166:56682]替换！！！

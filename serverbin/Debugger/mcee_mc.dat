@@ -1,0 +1,93 @@
+; -------------------------------------
+; auto-expansion rules for the managed EE [mcee.dll]
+; -------------------------------------
+; grammar meta symbols:
+; -------------------------------------
+; -> : derivation direction
+; | : union 
+; -------------------------------------
+; grammar symbols:
+; -------------------------------------
+; = : separation between <type-expr> and value-term
+; < : open angle bracket that delimits either type-expr or identifier-expr
+; > : close angle bracket that delimits either type-expr or identifier-expr
+; alphanumeric: valid variable name
+; punctuator: valid operator/punctuator except < and >
+; -------------------------------------
+; The grammar for auto-expansion rules:
+; -------------------------------------
+; <type-expr> = value-term
+; value-term = literal
+; value-term = literal <identifier-expr>
+; value-term = value-term value-term
+; <type-expr> = literal <identifier-expr>
+; 
+; type-expr -> alphanumeric
+; type-expr -> alphanumeric.type-expr
+; type-expr -> type-expr, type-modifier
+;
+; type-modifier -> + | -
+;
+; literal -> alphnumeric | punctuator
+;
+; punctuators -> = | { +, -, *, /, .... }
+;
+; identifier-expr -> alphanumeric
+; identifier-expr -> identifier-expr, identifier-modifier
+;
+; identifier-modifier -> d | o | h
+; -------------------------------------
+;
+; type-expr : the name of type that is considered intrinsic to the language [CSharp/managed C++]
+; type-modifier + : allow manual expansion of children
+; type-modifier - : disallow manual expansion of children
+;
+; literal : the literal string to be concatenated with <identifier-expr> and 
+			to be displayed on value-field of the debugger window
+; identifier-expr : the name of child of a variable of type: <type-expr>
+;
+; identifier-modifier d : request decimal value representation
+; identifier-modifier o : request octal value representation
+; identifier-modifier h : request hexadecimal value representation
+; -------------------------------------
+; some real world examples:
+;
+; // declared class
+; class CRect {
+;	int m_x;
+;	int m_y;
+;	int m_width;
+;	int m_height;
+; };
+;
+; // runtime values: {m_x = 1, m_y = 2, m_width = 10, m_height = 20}
+;
+; <CRect>=m_x=<m_x>
+;	auto-expansion: {m_x=1}
+;
+; <CRect> = m_x <m_x>
+;	auto-expansion: {m_x=1}
+;
+; <CRect>=m_x<m_x> m_y<m_y>
+;	auto-expansion: {m_x=1 m_y=2}
+;
+; <CRect,->=m_x<m_x> m_y<m_y>
+;	auto-expansion: {m_x=1 m_y=2} // same as above, however, manual expansion is disallowed
+;
+; <CRect,+>=m_x<m_x, h> m_y<m_y, o>
+;	auto-expansion: {m_x=0x1 m_y=02}
+
+; Managed C++ Language Intrinsics
+<System.DateTime>=<Day>/<Month>/<Year> <Hour>:<Minute>:<Second> System.DateTime
+
+; URT framework
+<System.Drawing.Point>=X=<x> Y=<y>
+<System.Drawing.Size>=Width=<width> Height=<height>
+<System.Drawing.Rectangle>=X=<x> Y=<y> Width=<width> Height=<height>
+<System.ComponentModel.MemberDescriptor>=Name=<name>
+<System.ComponentModel.PropertyDescriptor>=Name=<name>
+<System.Drawing.Font>=Name=<entry.name> Size=<entry.size>
+<System.Drawing.Color>=RGB=<value,h>
+<System.WinForms.Control>=X=<x> Y=<y> Width=<width> Height=<height> Handle=<handle>
+
+

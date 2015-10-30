@@ -1,0 +1,2 @@
+[ACTOR]
+MoveSpeedFactor=1.3

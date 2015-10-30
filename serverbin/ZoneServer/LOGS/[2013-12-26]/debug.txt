@@ -1,0 +1,18 @@
+[2013-12-26 11:2:29] [115] connect to loginserver
+[2013-12-26 11:10:6] [115] connect to loginserver
+角色[20007][章戎]连接[:0]被[20007][10.0.100.14:12870]替换！！！
+[2013-12-26 11:30:19] [115] connect to loginserver
+[2013-12-26 11:42:0] [115] connect to loginserver
+[2013-12-26 11:46:3] [115] connect to loginserver
+[2013-12-26 15:39:21] [115] connect to loginserver
+[2013-12-26 16:51:4] [115] connect to loginserver
+角色[20007][章戎]连接[:0]被[20007][10.0.100.14:17669]替换！！！
+SendDamageMessageBySkillAttack_Normal 2
+普通自动攻击 x = 2088.135254,y = 2111.438232
+[2013-12-26 17:47:26] [115] connect to loginserver
+[2013-12-26 17:50:53] [115] connect to loginserver
+[2013-12-26 20:51:10] [115] connect to loginserver
+[2013-12-26 20:53:23] [115] connect to loginserver
+[2013-12-26 20:58:18] [115] connect to loginserver
+[2013-12-26 21:36:17] [115] connect to loginserver
+角色[20007][章戎]连接[:0]被[20007][10.0.100.14:37046]替换！！！

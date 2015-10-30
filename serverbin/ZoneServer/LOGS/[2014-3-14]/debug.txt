@@ -1,0 +1,41 @@
+[2014-3-14 9:11:16] [115] connect to loginserver
+角色[200321][韶不斜]连接[:0]被[200321][10.0.100.14:29196]替换！！！
+角色[200321][韶不斜]连接[:0]被[200321][10.0.100.14:29708]替换！！！
+[2014-3-14 10:2:37] [115] connect to loginserver
+[2014-3-14 10:14:8] [115] connect to loginserver
+[2014-3-14 10:15:7] [115] connect to loginserver
+角色[200322][朱剑通]连接[:0]被[200322][:0]替换！！！
+角色[200322][朱剑通]连接[:0]被[200322][10.0.100.14:57101]替换！！！
+[2014-3-14 10:17:29] [115] connect to loginserver
+角色[200322][朱剑通]连接[:0]被[200322][10.0.100.14:6670]替换！！！
+[2014-3-14 10:38:48] [115] connect to loginserver
+[2014-3-14 10:42:50] [115] connect to loginserver
+角色[200322][朱剑通]连接[:0]被[200322][10.0.100.14:45327]替换！！！
+[2014-3-14 10:48:53] [115] connect to loginserver
+[2014-3-14 10:56:52] [115] connect to loginserver
+[2014-3-14 11:2:40] [115] connect to loginserver
+[2014-3-14 11:8:20] [115] connect to loginserver
+[string "Script\Scene\scenedata.lua"]:35: attempt to call global 'LoadTable' (a nil value)
+
+[2014-3-14 11:11:58] [115] connect to loginserver
+[string "Script\Scene\scenedata.lua"]:35: attempt to call global 'LoadTable' (a nil value)
+
+[2014-3-14 11:17:57] [115] connect to loginserver
+[2014-3-14 11:30:35] [115] connect to loginserver
+[2014-3-14 11:57:25] [115] connect to loginserver
+[2014-3-14 13:59:37] [115] connect to loginserver
+角色[200322][朱剑通]连接[:0]被[200322][10.0.100.14:23332]替换！！！
+[2014-3-14 15:2:39] [115] connect to loginserver
+角色[54321432445][全问旋]连接[:0]被[54321432445][10.0.100.120:63008]替换！！！
+onGetSceneMsg   get a invalid lua stack position!  tname = boolean  
+
+角色[200324][窦南风]连接[:0]被[200324][10.0.100.14:20784]替换！！！
+角色[200324][窦南风]连接[:0]被[200324][10.0.100.14:37169]替换！！！
+角色[200324][窦南风]连接[:0]被[200324][10.0.100.14:24370]替换！！！
+[2014-3-14 18:2:12] [115] connect to loginserver
+[2014-3-14 18:21:35] [115] connect to loginserver
+[2014-3-14 20:2:45] [115] connect to loginserver
+角色[200326][管半山]连接[:0]被[200326][10.0.100.14:4123]替换！！！
+角色[200326][管半山]连接[:0]被[200326][10.0.100.14:35100]替换！！！
+角色[200326][管半山]连接[:0]被[200326][10.0.100.14:56863]替换！！！
+角色[200327][姜箴]连接[:0]被[200327][10.0.100.14:55089]替换！！！

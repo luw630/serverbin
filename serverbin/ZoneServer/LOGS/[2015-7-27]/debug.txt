@@ -1,0 +1,13 @@
+[2015-7-27 13:32:8] [115] connect to loginserver
+[2015-7-27 13:34:16] [115] connect to loginserver
+[2015-7-27 13:49:37] [115] connect to loginserver
+[2015-7-27 14:30:31] [115] connect to loginserver
+[2015-7-27 14:44:35] [115] connect to loginserver
+[2015-7-27 14:49:44] [115] connect to loginserver
+角色[lua10001][]连接[:0]被[lua10001][127.0.0.1:7439]替换！！！
+[string "Script\SanGuoScript\Friends\Friends.lua"]:430: attempt to concatenate local 'onlineplayer' (a table value)
+
+角色[lua10001][]连接[:0]被[lua10001][127.0.0.1:20751]替换！！！
+角色[lua10001][]连接[:0]被[lua10001][127.0.0.1:30991]替换！！！
+角色[nb5r5][]连接[:0]被[nb5r5][127.0.0.1:60943]替换！！！
+角色[lua10001][]连接[:0]被[lua10001][127.0.0.1:64015]替换！！！

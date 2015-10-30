@@ -1,0 +1,5 @@
+dofile("SanGuoScript\\Prayer\\PrayerConfig.lua")
+dofile("SanGuoScript\\Prayer\\Prayer.lua")
+dofile("SanGuoScript\\Prayer\\Prayer_ShopConfig.lua")
+dofile("SanGuoScript\\Prayer\\Prayer_Shop.lua")
+dofile("SanGuoScript\\Prayer\\ShopItemList.lua")

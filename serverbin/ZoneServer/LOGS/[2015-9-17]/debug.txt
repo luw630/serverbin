@@ -1,0 +1,4 @@
+[2015-9-17 16:39:15] [115] connect to loginserver
+角色[gm56h][]连接[:0]被[gm56h][192.168.0.124:45348]替换！！！
+[2015-9-17 18:40:1] [115] connect to loginserver
+[2015-9-17 18:45:0] [115] connect to loginserver

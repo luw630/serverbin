@@ -1,0 +1,77 @@
+[2015-8-3 11:20:45] [115] connect to loginserver
+[2015-8-3 11:28:34] [115] connect to loginserver
+[2015-8-3 11:38:54] [115] connect to loginserver
+attempt to index a number value
+
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+[2015-8-3 11:43:45] [115] connect to loginserver
+attempt to index a number value
+
+竞技场排行榜未初始化
+[2015-8-3 11:45:52] [115] connect to loginserver
+attempt to index a number value
+
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+[2015-8-3 11:48:52] [115] connect to loginserver
+[2015-8-3 11:53:25] [115] connect to loginserver
+[2015-8-3 13:38:45] [115] connect to loginserver
+[2015-8-3 13:40:27] [115] connect to loginserver
+[2015-8-3 16:3:36] [115] connect to loginserver
+[2015-8-3 16:5:43] [115] connect to loginserver
+[2015-8-3 16:20:9] [115] connect to loginserver
+[2015-8-3 16:36:3] [115] connect to loginserver
+[2015-8-3 16:37:44] [115] connect to loginserver
+[2015-8-3 16:38:19] [115] connect to loginserver
+attempt to index a nil value
+
+竞技场排行榜未初始化
+[2015-8-3 16:40:31] [115] connect to loginserver
+attempt to index a nil value
+
+[2015-8-3 17:21:22] [115] connect to loginserver
+attempt to index a nil value
+
+竞技场排行榜未初始化
+[2015-8-3 17:23:21] [115] connect to loginserver
+[2015-8-3 17:25:58] [115] connect to loginserver
+[2015-8-3 17:28:33] [115] connect to loginserver
+[2015-8-3 17:29:5] [115] connect to loginserver
+[2015-8-3 17:31:16] [115] connect to loginserver
+[2015-8-3 17:35:45] [115] connect to loginserver
+[2015-8-3 17:36:57] [115] connect to loginserver
+attempt to index a number value
+
+竞技场排行榜未初始化
+attempt to index a nil value
+
+[2015-8-3 17:43:21] [115] connect to loginserver
+[2015-8-3 17:48:25] [115] connect to loginserver
+attempt to index a nil value
+
+竞技场排行榜未初始化
+[2015-8-3 17:51:0] [115] connect to loginserver
+[2015-8-3 17:53:53] [115] connect to loginserver
+attempt to index a nil value
+
+attempt to index a nil value
+
+竞技场排行榜未初始化
+attempt to index a nil value
+
+竞技场排行榜未初始化
+[2015-8-3 18:1:3] [115] connect to loginserver
+attempt to index a nil value
+
+竞技场排行榜未初始化
+[2015-8-3 18:9:50] [115] connect to loginserver
+[2015-8-3 18:10:17] [115] connect to loginserver
+[2015-8-3 19:41:23] [115] connect to loginserver
+[2015-8-3 19:41:43] [115] connect to loginserver
+[2015-8-3 19:41:45] [115] connect to loginserver
+[2015-8-3 19:41:46] [115] connect to loginserver
+[2015-8-3 19:43:39] [115] connect to loginserver
+[2015-8-3 19:49:11] [115] connect to loginserver
+[2015-8-3 19:56:24] [115] connect to loginserver

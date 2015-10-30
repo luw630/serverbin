@@ -1,0 +1,10 @@
+[2014-5-6 9:54:53] [115] connect to loginserver
+角色[200372][干冥]连接[:0]被[200372][10.0.100.15:53000]替换！！！
+[2014-5-6 10:42:49] [115] connect to loginserver
+[2014-5-6 10:42:57] [115] connect to loginserver
+[2014-5-6 10:43:13] [115] connect to loginserver
+[2014-5-6 11:0:46] [115] connect to loginserver
+[2014-5-6 11:18:24] [115] connect to loginserver
+角色[200372][干冥]连接[:0]被[200372][10.0.100.15:33812]替换！！！
+[2014-5-6 15:44:51] [115] connect to loginserver
+[2014-5-6 17:43:1] [115] connect to loginserver

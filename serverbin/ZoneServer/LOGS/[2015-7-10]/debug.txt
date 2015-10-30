@@ -1,0 +1,20 @@
+[2015-7-10 11:9:14] [115] connect to loginserver
+[2015-7-10 11:19:50] [115] connect to loginserver
+角色[gm01000][]连接[:0]被[gm01000][192.168.0.167:49162]替换！！！
+角色[gm01000][]连接[:0]被[gm01000][192.168.0.167:51466]替换！！！
+角色[gm01000][]连接[:0]被[gm01000][192.168.0.167:55306]替换！！！
+角色[gm01000][]连接[:0]被[gm01000][192.168.0.167:7179]替换！！！
+角色[gm01000][]连接[:0]被[gm01000][192.168.0.167:12299]替换！！！
+[2015-7-10 13:23:30] [115] connect to loginserver
+角色[gm01000][]连接[:0]被[gm01000][192.168.0.167:8721]替换！！！
+角色[gm01000][]连接[:0]被[gm01000][192.168.0.167:14609]替换！！！
+角色[gm01000][]连接[:0]被[gm01000][192.168.0.167:22033]替换！！！
+角色[gm010004][]连接[:0]被[gm010004][192.168.0.167:3346]替换！！！
+[2015-7-10 14:9:59] [115] connect to loginserver
+[string "Script\SanGuoScript\HeroExtendsGamePlay\Her..."]:134: attempt to call global 'CI_SynHeroExtendsData' (a nil value)
+
+[string "Script\SanGuoScript\HeroExtendsGamePlay\Her..."]:134: attempt to call global 'CI_SynHeroExtendsData' (a nil value)
+
+角色[gm001][]连接[:0]被[gm001][192.168.0.167:62994]替换！！！
+[string "Script\SanGuoScript\HeroExtendsGamePlay\Her..."]:134: attempt to call global 'CI_SynHeroExtendsData' (a nil value)
+

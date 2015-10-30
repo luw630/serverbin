@@ -1,0 +1,9 @@
+[2015-9-8 15:14:0] [115] connect to loginserver
+[2015-9-8 16:9:41] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\ActivityGiftKe..."]:153: attempt to compare number with nil
+
+竞技场排行榜未初始化
+角色[gm5rt5uu][]连接[:0]被[gm5rt5uu][192.168.0.124:58888]替换！！！
+[2015-9-8 16:37:38] [115] connect to loginserver
+[2015-9-8 16:39:20] [115] connect to loginserver
+[2015-9-8 16:42:57] [115] connect to loginserver

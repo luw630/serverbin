@@ -1,0 +1,60 @@
+[2015-7-31 19:57:27] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\init.lua"]:1: attempt to call global '锘縟ofile' (a nil value)
+
+[string "Script\SanGuoScript\faction\factionManager.lua"]:1: '=' expected near 'QUESTFACTIONMAX'
+
+[2015-7-31 20:5:14] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\factionManager...."]:43: attempt to perform arithmetic on a nil value
+
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+[2015-7-31 20:14:15] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\factionManager...."]:10: attempt to compare number with nil
+
+竞技场排行榜未初始化
+[2015-7-31 20:24:14] [115] connect to loginserver
+[2015-7-31 20:30:27] [115] connect to loginserver
+[2015-7-31 20:32:34] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\factionManager...."]:10: attempt to compare number with nil
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\faction\factionManager...."]:10: attempt to compare number with nil
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\faction\factionManager...."]:10: attempt to compare number with nil
+
+角色[ger4g][]连接[:0]被[ger4g][127.0.0.1:34068]替换！！！
+角色[sdf223][]连接[:0]被[sdf223][127.0.0.1:37908]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:66: attempt to compare nil with number
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:67: attempt to compare nil with number
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:77: attempt to compare nil with number
+
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:77: attempt to compare nil with number
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:78: attempt to compare nil with number
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:78: attempt to compare nil with number
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:78: attempt to compare nil with number
+
+save faction
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:76: attempt to compare nil with number
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:76: attempt to compare nil with number
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:76: attempt to compare nil with number
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:94: attempt to compare nil with number
+
+[2015-7-31 21:8:27] [115] connect to loginserver
+[2015-7-31 21:13:57] [115] connect to loginserver
+角色[gm001][]连接[:0]被[gm001][192.168.0.166:36125]替换！！！

@@ -1,0 +1,22 @@
+[2015-10-13 13:55:35] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:908: attempt to call global 'SetPlayerDataSG' (a nil value)
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:791: attempt to call global 'CI_SetPlayerData' (a nil value)
+
+竞技场排行榜未初始化
+[2015-10-13 14:25:45] [115] connect to loginserver
+[2015-10-13 14:27:48] [115] connect to loginserver
+角色[gm1071000][]连接[:0]被[gm1071000][192.168.0.166:31180]替换！！！
+角色[gm1071000][]连接[:0]被[gm1071000][192.168.0.166:41932]替换！！！
+角色[gm1071000][]连接[:0]被[gm1071000][192.168.0.166:47052]替换！！！
+[string "Script\SanGuoScript\faction\factionManager.lua"]:45: unexpected symbol near ')'
+
+角色[gm1071000][]连接[:0]被[gm1071000][192.168.0.166:53196]替换！！！
+角色[gmbvb31000][]连接[:0]被[gmbvb31000][192.168.0.124:61196]替换！！！
+角色[gmbvb31000][]连接[:0]被[gmbvb31000][192.168.0.124:2573]替换！！！
+[2015-10-13 15:12:48] [115] connect to loginserver
+角色[gm1071000][]连接[:0]被[gm1071000][192.168.0.166:718]替换！！！
+角色[gm1071000][]连接[:0]被[gm1071000][192.168.0.166:9678]替换！！！
+[2015-10-13 17:7:26] [115] connect to loginserver
+角色[gm1081000][]连接[:0]被[gm1081000][192.168.0.166:40656]替换！！！
+[2015-10-13 19:29:8] [115] connect to loginserver

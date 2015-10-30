@@ -1,0 +1,2580 @@
+[2014-5-4 9:35:18] [115] connect to loginserver
+[2014-5-4 10:27:22] [115] connect to loginserver
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:403: attempt to call global 'ResetDailyByTime' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:403: attempt to call global 'ResetDailyByTime' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:403: attempt to call global 'ResetDailyByTime' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:403: attempt to call global 'ResetDailyByTime' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:403: attempt to call global 'ResetDailyByTime' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:403: attempt to call global 'ResetDailyByTime' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:403: attempt to call global 'ResetDailyByTime' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:403: attempt to call global 'ResetDailyByTime' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:403: attempt to call global 'ResetDailyByTime' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:403: attempt to call global 'ResetDailyByTime' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+SASynPathMsg | GID:1000 | Path Count:2 | EndPoint:[3114.000000][672.000000]
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+SASynPathMsg | GID:1000 | Path Count:2 | EndPoint:[3161.684326][672.000000]
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+SASynPathMsg | GID:1000 | Path Count:2 | EndPoint:[3125.640137][1634.000000]
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+SASynPathMsg | GID:1000 | Path Count:2 | EndPoint:[3107.717285][1854.586548]
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+SASynPathMsg | GID:1000 | Path Count:2 | EndPoint:[3273.438232][2230.095459]
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+SASynPathMsg | GID:1000 | Path Count:2 | EndPoint:[3407.288086][2633.039551]
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+SASynPathMsg | GID:1000 | Path Count:2 | EndPoint:[3372.985352][3081.917480]
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+SASynPathMsg | GID:1000 | Path Count:2 | EndPoint:[4045.102295][3823.247559]
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+SASynPathMsg | GID:1000 | Path Count:2 | EndPoint:[3949.830566][4258.927734]
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+SASynPathMsg | GID:1000 | Path Count:2 | EndPoint:[3977.500488][4712.005371]
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+SASynPathMsg | GID:1000 | Path Count:2 | EndPoint:[4165.295898][6110.409180]
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+SASynPathMsg | GID:1000 | Path Count:2 | EndPoint:[3828.223877][5811.237793]
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+SASynPathMsg | GID:1000 | Path Count:2 | EndPoint:[3771.192627][5475.325195]
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+SASynPathMsg | GID:1000 | Path Count:2 | EndPoint:[3813.364502][5433.153320]
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+SASynPathMsg | GID:1000 | Path Count:2 | EndPoint:[3403.474854][5555.317871]
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[string "Script\XYD3Script\Item\ExtendPackage.lua"]:290: attempt to perform arithmetic on local 'WillActiveNum' (a nil value)
+
+[2014-5-4 11:13:55] [115] connect to loginserver
+角色[200370][席卿]连接[:0]被[200370][10.0.100.15:35089]替换！！！
+角色[200370][席卿]连接[:0]被[200370][10.0.100.15:39186]替换！！！
+角色[200370][席卿]连接[:0]被[200370][10.0.100.15:43794]替换！！！
+角色[200370][席卿]连接[:0]被[200370][10.0.100.15:6932]替换！！！
+角色[200370][席卿]连接[:0]被[200370][10.0.100.15:41492]替换！！！
+[2014-5-4 14:11:33] [115] connect to loginserver
+OnDailyObjectDead   get a invalid lua stack position!  num = 1610620911  
+
+[2014-5-4 15:1:18] [115] connect to loginserver
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[2014-5-4 15:12:59] [115] connect to loginserver
+角色[200370][席卿]连接[:0]被[200370][10.0.100.15:56616]替换！！！
+角色[200370][席卿]连接[:0]被[200370][10.0.100.15:57640]替换！！！
+角色[200370][席卿]连接[:0]被[200370][10.0.100.15:58408]替换！！！
+角色[200370][席卿]连接[:0]被[200370][10.0.100.15:60456]替换！！！
+角色[200370][席卿]连接[:0]被[200370][10.0.100.15:9769]替换！！！
+角色[200370][席卿]连接[:0]被[200370][10.0.100.15:11817]替换！！！
+角色[200370][席卿]连接[:0]被[200370][10.0.100.15:16937]替换！！！
+角色[200370][席卿]连接[:0]被[200370][10.0.100.15:17705]替换！！！
+[2014-5-4 15:17:18] [115] connect to loginserver
+[2014-5-4 15:18:4] [115] connect to loginserver
+OnDailyObjectDead   get a invalid lua stack position!  num = 1610620911  
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+SASynPathMsg | GID:536871956 | Path Count:2 | EndPoint:[4227.000000][3630.000000]
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+SASynPathMsg | GID:536871956 | Path Count:4 | EndPoint:[4563.000000][3200.000000]
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+角色[200370][席卿]连接[:0]被[200370][10.0.100.15:11570]替换！！！
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+SASynPathMsg | GID:1014 | Path Count:2 | EndPoint:[5448.799316][4282.035645]
+SASynPathMsg | GID:1014 | Path Count:2 | EndPoint:[4816.967773][3478.343262]
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+SASynPathMsg | GID:1014 | Path Count:2 | EndPoint:[4879.958496][3327.709229]
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+SASynPathMsg | GID:1014 | Path Count:2 | EndPoint:[4828.260254][3235.632324]
+SASynPathMsg | GID:1014 | Path Count:2 | EndPoint:[4897.636719][3198.756104]
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+SASynPathMsg | GID:1014 | Path Count:2 | EndPoint:[4781.424805][3173.278076]
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+SASynPathMsg | GID:1014 | Path Count:2 | EndPoint:[4792.170898][3176.440918]
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+SASynPathMsg | GID:1014 | Path Count:2 | EndPoint:[4412.920410][3314.543945]
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+SASynPathMsg | GID:1014 | Path Count:2 | EndPoint:[4369.470215][3280.944824]
+SASynPathMsg | GID:1014 | Path Count:2 | EndPoint:[4347.074707][3223.588867]
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+SASynPathMsg | GID:536871956 | Path Count:2 | EndPoint:[4541.000000][3766.000000]
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+OnDailyObjectDead   get a invalid lua stack position!  num = 1610623986  
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+SASynPathMsg | GID:1014 | Path Count:2 | EndPoint:[3982.860840][9161.240234]
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+SASynPathMsg | GID:1014 | Path Count:2 | EndPoint:[3839.590088][9229.727539]
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+SASynPathMsg | GID:1014 | Path Count:2 | EndPoint:[3842.758301][9214.873047]
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+SASynPathMsg | GID:1014 | Path Count:2 | EndPoint:[4296.250000][9241.870117]
+SASynPathMsg | GID:1014 | Path Count:2 | EndPoint:[4181.374512][9201.198242]
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+SASynPathMsg | GID:1014 | Path Count:2 | EndPoint:[3833.750977][9210.490234]
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[string "Script\DailyRoutine\DynamicDailyArea.lua"]:405: attempt to index local 'playerDaily' (a nil value)
+
+[2014-5-4 17:37:39] [115] connect to loginserver
+[2014-5-4 18:8:52] [115] connect to loginserver
+[2014-5-4 19:38:28] [115] connect to loginserver
+[2014-5-4 19:49:56] [115] connect to loginserver

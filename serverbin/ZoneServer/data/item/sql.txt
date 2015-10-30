@@ -1,0 +1,29 @@
+select convert(varchar(32),staticid),uniqueif,itemindex,itembuffer from New_playerPackageItem where itemindex > 9508 and uniqueif not in ( select uniqueif from playerdata..New_playerPackageItem where itemIndex >= 9509 union
+select uniqueif from playerdata..new_playerequipment where itemIndex >= 9509 union
+select uniqueif from playerdata..new_aplayerwarehousei where itemIndex >= 9509 union
+select uniqueif from playerdata..new_aplayerwarehouseii where itemIndex >= 9509 union
+select uniqueif from playerdata..new_aplayerwarehouseiii where itemIndex >= 9509 ) union
+
+select convert(varchar(32),staticid),uniqueif,itemindex,itembuffer from new_playerequipment where itemindex > 9508 and uniqueif not in ( select uniqueif from playerdata..New_playerPackageItem where itemIndex >= 9509 union
+select uniqueif from playerdata..new_playerequipment where itemIndex >= 9509 union
+select uniqueif from playerdata..new_aplayerwarehousei where itemIndex >= 9509 union
+select uniqueif from playerdata..new_aplayerwarehouseii where itemIndex >= 9509 union
+select uniqueif from playerdata..new_aplayerwarehouseiii where itemIndex >= 9509 )union
+
+select account,uniqueif,itemindex,itembuffer from new_aplayerwarehousei where itemindex > 9508 and uniqueif not in ( select uniqueif from playerdata..New_playerPackageItem where itemIndex >= 9509 union
+select uniqueif from playerdata..new_playerequipment where itemIndex >= 9509 union
+select uniqueif from playerdata..new_aplayerwarehousei where itemIndex >= 9509 union
+select uniqueif from playerdata..new_aplayerwarehouseii where itemIndex >= 9509 union
+select uniqueif from playerdata..new_aplayerwarehouseiii where itemIndex >= 9509 )union
+
+select account,uniqueif,itemindex,itembuffer from new_aplayerwarehouseii where itemindex > 9508 and uniqueif not in ( select uniqueif from playerdata..New_playerPackageItem where itemIndex >= 9509 union
+select uniqueif from playerdata..new_playerequipment where itemIndex >= 9509 union
+select uniqueif from playerdata..new_aplayerwarehousei where itemIndex >= 9509 union
+select uniqueif from playerdata..new_aplayerwarehouseii where itemIndex >= 9509 union
+select uniqueif from playerdata..new_aplayerwarehouseiii where itemIndex >= 9509 ) union
+
+select account,uniqueif,itemindex,itembuffer from new_aplayerwarehouseiii where itemindex > 9508 and uniqueif not in ( select uniqueif from playerdata..New_playerPackageItem where itemIndex >= 9509 union
+select uniqueif from playerdata..new_playerequipment where itemIndex >= 9509 union
+select uniqueif from playerdata..new_aplayerwarehousei where itemIndex >= 9509 union
+select uniqueif from playerdata..new_aplayerwarehouseii where itemIndex >= 9509 union
+select uniqueif from playerdata..new_aplayerwarehouseiii where itemIndex >= 9509 )

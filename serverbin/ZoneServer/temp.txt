@@ -1,0 +1,17 @@
+ 驱动器 D 中的卷是 软件
+ 卷的序列号是 000E-ED98
+
+ D:\work\ServerBin\ZoneServer\Script\Global 的目录
+
+2015/07/06  13:56    <DIR>          .
+2015/07/06  13:56    <DIR>          ..
+2015/06/08  13:43                23 FerrisWheelData.ldb
+2015/06/08  13:43                18 LevelRaceData.ldb
+2015/07/06  13:56             2,225 RankListData.ldb
+2015/06/08  13:43               429 SceneData.ldb
+               4 个文件          2,695 字节
+               2 个目录 703,881,932,800 可用字节
+
+
+luacall OnChallengeSceneMap 1000100164 920000 1
+luacall OnChallengeFinish 1000100164 1141921

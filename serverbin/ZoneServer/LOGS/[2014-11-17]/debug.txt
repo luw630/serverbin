@@ -1,0 +1,13 @@
+[2014-11-17 9:24:11] [115] connect to loginserver
+[2014-11-17 10:23:26] [115] connect to loginserver
+[2014-11-17 13:31:10] [115] connect to loginserver
+[2014-11-17 13:38:3] [115] connect to loginserver
+[2014-11-17 13:38:34] [115] connect to loginserver
+[2014-11-17 13:45:17] [115] connect to loginserver
+[2014-11-17 13:52:8] [115] connect to loginserver
+[2014-11-17 14:5:45] [115] connect to loginserver
+check : pMsg->dwResult == false!!!
+check : pMsg->dwResult == false!!!
+check : pMsg->dwResult == false!!!
+check : pMsg->dwResult == false!!!
+[2014-11-17 14:58:58] [115] connect to loginserver

@@ -1,0 +1,46 @@
+0	"EEA_MAXHP,"					// 生命上限		
+1	"EEA_MAXMP,"					// 精力上限		
+2	"EEA_GONGJI,"					"// 攻击,伤害"		
+3	"EEA_FANGYU,"					// 防御		
+4	"EEA_HIT,"							//命中
+5	"EEA_SHANBI,"					// 闪避		
+6	"EEA_BAOJI,"					// 暴击		
+7	"EEA_UNCRIT, //抗暴"							
+8	"EEA_WRECK,//破击"							
+9	"EEA_UNWRECK,"	//抗破						
+10	"EEA_PUNCTURE,"	//穿刺						
+11	"EEA_UNPUNCTURE,"	//抗穿						
+12	"EEA_ICEATK,"	//冰伤						
+13	"EEA_ICEDEF,"	//冰抗						
+14	"EEA_FIREATK,"	//火伤						
+15	"EEA_FIREDEF,"		//火抗					
+16	"EEA_DARKATK,"		//暗伤					
+17	"EEA_DARKDEF,"		//暗抗					
+18	"EEA_HOLYATK,"		//神圣伤					
+19	"EEA_HOLYDEF,"		//神圣抗					
+20	"EEA_HPPERCENT,"	//血量百分比加成						
+21	"EEA_MPPERCENT,"	//精力百分比加成						
+22	"EEA_ATKPERCENT,"	//伤害百分比加成						
+23	"EEA_DEFPERCENT,"	//防御百分比加成						
+24	"EEA_CRITPERCENT,"	//暴击百分比加成						
+25	"EEA_WEAKPERCENT,"		//破击百分比加成					
+26	"EEA_HITPERCENT,"		//命中百分比加成					
+								
+								
+								
+装备位置定义:								
+								
+101	EQUIP_T_WEAPON		// 武器1					
+102	"EQUIP_T_HAT,"			//  头部装备				
+103	"EQUIP_T_WRIST,"			// 护腕	//手镯	
+104	"EQUIP_T_PAT,"			// 裤子	//腰带			
+105	"EQUIP_T_WAIST,"			// 肩膀				
+106	"EQUIP_T_SHOSE,"			// 鞋子				
+107	"EQUIP_T_CLOTH,"			// 衣服				
+108	"EQUIP_T_MANTLE,"			//  备用1 宝物				
+109	"EQUIP_T_PENDANTS,"		// 备用2 法器					
+110	"EQUIP_T_PROTECTION,"		// 项链					
+111	"EQUIP_T_RING,"			// 戒指				
+112	"EQUIP_T_PRECIOUS,"		// 武器2					
+113	"EQUIP_T_SHIZHUANG_HAT,"	//  武器3						
+114	"EQUIP_T_SHIZHUANG_CLOTH,"							

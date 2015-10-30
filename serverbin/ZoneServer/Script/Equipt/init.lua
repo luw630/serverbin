@@ -1,0 +1,11 @@
+dofile("Equipt\\Equiptconfig.lua")
+dofile("Equipt\\EquiptIntensify.lua")
+dofile("Equipt\\EquiptQuality.lua")
+dofile("Equipt\\EquiptQualityconfig.lua")
+dofile("Equipt\\EquipRefineStar.lua")
+dofile("Equipt\\EquiptKeYingconfig.lua")
+dofile("Equipt\\EquiptKeYingProperty.lua")
+dofile("Equipt\\EquiptJDingconfig.lua")
+dofile("Equipt\\EquiptSuitconfig.lua")
+dofile("Equipt\\Equipt.lua")
+

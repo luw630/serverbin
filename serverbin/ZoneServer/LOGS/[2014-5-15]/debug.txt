@@ -1,0 +1,36 @@
+[2014-5-15 11:33:49] [115] connect to loginserver
+角色[200375][闵随阴]连接[:0]被[200375][10.0.100.15:37903]替换！！！
+check : pMsg->dwResult == false!!!
+check : pMsg->dwResult == false!!!
+check : pMsg->dwResult == false!!!
+[2014-5-15 14:39:27] [115] connect to loginserver
+check : pMsg->dwResult == false!!!
+角色[200375][闵随阴]连接[:0]被[200375][10.0.100.15:61988]替换！！！
+[2014-5-15 15:25:17] [115] connect to loginserver
+[2014-5-15 15:25:34] [115] connect to loginserver
+角色[200375][闵随阴]连接[:0]被[200375][10.0.100.15:49445]替换！！！
+角色[200375][闵随阴]连接[:0]被[200375][10.0.100.15:3878]替换！！！
+check : pMsg->dwResult == false!!!
+角色[200375][闵随阴]连接[:0]被[200375][10.0.100.15:41767]替换！！！
+角色[200375][闵随阴]连接[:0]被[200375][10.0.100.15:57127]替换！！！
+check : pMsg->dwResult == false!!!
+[string "Script\Shop\ShopOpt.lua"]:20: attempt to perform arithmetic on field '?' (a table value)
+
+[string "Script\Shop\ShopOpt.lua"]:20: attempt to perform arithmetic on field '?' (a table value)
+
+[string "Script\Shop\ShopOpt.lua"]:20: attempt to perform arithmetic on field '?' (a table value)
+
+[string "Script\Shop\ShopOpt.lua"]:20: attempt to perform arithmetic on field '?' (a table value)
+
+[string "Script\Shop\ShopOpt.lua"]:20: attempt to perform arithmetic on field '?' (a table value)
+
+[string "Script\Shop\ShopOpt.lua"]:20: attempt to perform arithmetic on field '?' (a table value)
+
+[string "Script\Shop\ShopOpt.lua"]:20: attempt to perform arithmetic on field '?' (a table value)
+
+[string "Script\Shop\ShopOpt.lua"]:20: attempt to perform arithmetic on field '?' (a table value)
+
+[string "Script\Shop\ShopOpt.lua"]:20: attempt to perform arithmetic on field '?' (a table value)
+
+[string "Script\Shop\ShopOpt.lua"]:20: attempt to perform arithmetic on field '?' (a table value)
+

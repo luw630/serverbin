@@ -1,0 +1,16 @@
+[2013-12-6 10:1:17] [115] connect to loginserver
+[2013-12-6 10:1:34] [115] connect to loginserver
+[2013-12-6 10:1:36] [115] connect to loginserver
+[2013-12-6 10:6:17] [115] connect to loginserver
+[2013-12-6 10:32:54] [115] connect to loginserver
+[2013-12-6 10:40:35] [115] connect to loginserver
+[2013-12-6 10:42:0] [115] connect to loginserver
+[2013-12-6 11:29:47] [115] connect to loginserver
+[2013-12-6 11:33:10] [115] connect to loginserver
+[2013-12-6 16:1:18] [115] connect to loginserver
+[string "Script\XYD3Script\Task\ß±»ê1-10¼¶Task.lua"]:520: unexpected symbol near '0.'
+
+[string "Script\XYD3Script\Task\ß±»ê1-10¼¶Task.lua"]:520: unexpected symbol near '0.'
+
+[string "Script\XYD3Script\Task\ß±»ê1-10¼¶Task.lua"]:521: unexpected symbol near '.'
+

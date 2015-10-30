@@ -1,0 +1,35 @@
+gEveryDaySignInAward = 30        --每日签到的奖励数
+gEveryDaySignInResetTime = 0  --每日签到重置时间0-24 * 60 * 60
+
+EveryDaySignConfig = {}
+--每日签到ID，奖励的真气，奖励的金币数、奖励的银币数、奖励的经验数、奖励的道具ID，奖励的道具数量，玩家VIP等级，可领取的倍数，
+EveryDaySignConfig[1] = {1, 0,0, 5443, 0, 999888, 5443, 0, 1}
+EveryDaySignConfig[2] = {2, 2257, 0, 0, 0, 999886, 2257, 0, 1}
+EveryDaySignConfig[3] = {3, 0, 0, 10887, 0, 999888, 10887, 0, 1}
+EveryDaySignConfig[4] = {4, 4515, 0, 0, 0, 999886, 4515, 0, 1}
+EveryDaySignConfig[5] = {5, 0, 40, 0, 0, 999997, 40, 2, 2}
+EveryDaySignConfig[6] = {6, 0,0 , 16330, 0, 999888, 16330, 0, 1}
+EveryDaySignConfig[7] = {7, 6772, 0, 0, 0, 999886, 6772, 0, 1}
+EveryDaySignConfig[8] = {8, 0, 0, 21773, 0, 999888, 21773, 0, 1}
+EveryDaySignConfig[9] = {9, 9030, 0, 0, 0, 999886, 9030, 0, 1}
+EveryDaySignConfig[10] = {10, 0, 80, 0, 0, 999997, 80, 3, 2}
+EveryDaySignConfig[11] = {11, 0,0 , 27217, 0, 999888, 27217, 0, 1}
+EveryDaySignConfig[12] = {12, 11287, 0, 0, 0, 999886, 11287, 0, 1}
+EveryDaySignConfig[13] = {13, 0,0 , 32660, 0, 999888, 32660, 0, 1}
+EveryDaySignConfig[14] = {14, 13545, 0, 0, 0, 999886, 13545, 0, 1}
+EveryDaySignConfig[15] = {15, 0, 120, 0, 0, 999997, 120, 4, 2}
+EveryDaySignConfig[16] = {16, 0,0 , 38103, 0, 999888, 38103, 0, 1}
+EveryDaySignConfig[17] = {17, 15802, 0, 0, 0, 999886, 15802, 0, 1}
+EveryDaySignConfig[18] = {18, 0, 0, 43547, 0, 999888, 43547, 0, 1}
+EveryDaySignConfig[19] = {19, 18059, 0, 0, 0, 999886, 18059, 0, 1}
+EveryDaySignConfig[20] = {20, 0, 160, 0, 0, 999997, 160, 5, 2}
+EveryDaySignConfig[21] = {21, 0,0 , 48990, 0, 999888, 48990, 0, 1}
+EveryDaySignConfig[22] = {22, 20317, 0, 0, 0, 999886, 20317, 0, 1}
+EveryDaySignConfig[23] = {23, 0,0 , 54433, 0, 999888, 54433, 0, 1}
+EveryDaySignConfig[24] = {24, 22574, 0, 0, 0, 999886, 22574, 0, 1}
+EveryDaySignConfig[25] = {25, 0, 200, 0, 0, 999997, 200, 6, 2}
+EveryDaySignConfig[26] = {26, 0, 0, 59877, 0, 999888, 59877, 0, 1}
+EveryDaySignConfig[27] = {27, 24832, 0, 0, 0, 999886, 24832, 0, 1}
+EveryDaySignConfig[28] = {28, 0, 0, 65320, 0, 999888, 65320, 0, 1}
+EveryDaySignConfig[29] = {29, 27089, 0, 0, 0, 999886, 27089, 0, 1}
+EveryDaySignConfig[30] = {30, 0, 240, 0, 0, 999997, 240, 7, 2}

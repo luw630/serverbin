@@ -1,0 +1,121 @@
+[2015-9-23 15:51:51] [115] connect to loginserver
+[2015-9-23 15:55:57] [115] connect to loginserver
+角色[gmfgh551000][]连接[:0]被[gmfgh551000][192.168.0.124:49929]替换！！！
+角色[gmfgh551000][]连接[:0]被[gmfgh551000][192.168.0.124:52489]替换！！！
+[2015-9-23 16:0:23] [115] connect to loginserver
+角色[gmfgh551000][]连接[:0]被[gmfgh551000][192.168.0.124:1034]替换！！！
+角色[gmfgh551000][]连接[:0]被[gmfgh551000][192.168.0.124:3594]替换！！！
+[2015-9-23 16:2:23] [115] connect to loginserver
+角色[gmfgh551000][]连接[:0]被[gmfgh551000][192.168.0.124:16394]替换！！！
+[2015-9-23 16:5:20] [115] connect to loginserver
+[string "Script\SanGuoScript\DataCenter\OfflinePlaye..."]:33: bad argument #1 to 'pairs' (table expected, got nil)
+
+竞技场排行榜未初始化
+角色[gm8881000][]连接[:0]被[gm8881000][192.168.0.124:60940]替换！！！
+[string "Script\SanGuoScript\DataCenter\OfflinePlaye..."]:33: bad argument #1 to 'pairs' (table expected, got nil)
+
+获取军团ID100100008
+[string "Script\SanGuoScript\DataCenter\OfflinePlaye..."]:33: bad argument #1 to 'pairs' (table expected, got nil)
+
+获取军团ID100100009
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\DataCenter\OfflinePlaye..."]:33: bad argument #1 to 'pairs' (table expected, got nil)
+
+获取军团ID100100010
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\DataCenter\OfflinePlaye..."]:33: bad argument #1 to 'pairs' (table expected, got nil)
+
+获取军团ID0
+[2015-9-23 17:14:52] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:642: attempt to call method 'GetData' (a nil value)
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:642: attempt to call method 'GetData' (a nil value)
+
+角色[gm9991000][]连接[:0]被[gm9991000][192.168.0.124:28430]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:646: attempt to call method 'GetData' (a nil value)
+
+角色[gm9991000][]连接[:0]被[gm9991000][192.168.0.124:30478]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:646: attempt to call method 'GetData' (a nil value)
+
+角色[gm9991000][]连接[:0]被[gm9991000][192.168.0.124:35342]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:646: attempt to call method 'GetData' (a nil value)
+
+[2015-9-23 17:27:19] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\factionManager...."]:322: attempt to index local 'PlayerQFactionList' (a number value)
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:646: attempt to call method 'GetData' (a nil value)
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:646: attempt to call method 'GetData' (a nil value)
+
+角色[gm9991000][]连接[:0]被[gm9991000][192.168.0.124:11535]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:647: attempt to call method 'GetData' (a nil value)
+
+角色[gm9991000][]连接[:0]被[gm9991000][192.168.0.124:24847]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:649: attempt to call method 'GetData' (a nil value)
+
+[2015-9-23 17:56:52] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:649: attempt to call method 'GetData' (a nil value)
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:649: attempt to call method 'GetData' (a nil value)
+
+角色[gm9991000][]连接[:0]被[gm9991000][192.168.0.124:34576]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:660: attempt to call method 'GetData' (a nil value)
+
+[2015-9-23 18:8:40] [115] connect to loginserver
+角色[gm1111000][]连接[:0]被[gm1111000][192.168.0.124:6673]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:407: attempt to call method 'GetData' (a nil value)
+
+竞技场排行榜未初始化
+[2015-9-23 20:6:11] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:675: attempt to call method 'GetData' (a nil value)
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:675: attempt to call method 'GetData' (a nil value)
+
+[string "Script\XYD3Script\PlayerRewardfunction.lua"]:161: stack overflow
+
+获取军团ID100100008
+[2015-9-23 20:8:25] [115] connect to loginserver
+[2015-9-23 20:8:31] [115] connect to loginserver
+[2015-9-23 20:8:32] [115] connect to loginserver
+[2015-9-23 20:9:27] [115] connect to loginserver
+[string "Script\XYD3Script\PlayerRewardfunction.lua"]:161: stack overflow
+
+获取军团ID100100008
+[string "Script\XYD3Script\PlayerRewardfunction.lua"]:161: stack overflow
+
+获取军团ID100100009
+[string "Script\XYD3Script\PlayerRewardfunction.lua"]:161: stack overflow
+
+[string "Script\XYD3Script\PlayerRewardfunction.lua"]:161: stack overflow
+
+获取军团ID0
+[2015-9-23 20:16:46] [115] connect to loginserver
+角色[gm3331000][]连接[:0]被[gm3331000][192.168.0.124:28211]替换！！！
+角色[gm2221000][]连接[:0]被[gm2221000][192.168.0.124:35635]替换！！！
+角色[gm1111000][]连接[:0]被[gm1111000][192.168.0.124:53555]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:677: attempt to call method 'GetData' (a nil value)
+
+[2015-9-23 20:34:36] [115] connect to loginserver
+[2015-9-23 20:35:59] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:677: attempt to call method 'GetData' (a nil value)
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:677: attempt to call method 'GetData' (a nil value)
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:677: attempt to call method 'GetData' (a nil value)
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:677: attempt to call method 'GetData' (a nil value)
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:677: attempt to call method 'GetData' (a nil value)
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:677: attempt to call method 'GetData' (a nil value)
+
+[2015-9-23 20:44:48] [115] connect to loginserver
+[2015-9-23 20:50:55] [115] connect to loginserver
+[2015-9-23 20:52:44] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:676: attempt to call method 'GetData' (a nil value)
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:676: attempt to call method 'GetData' (a nil value)
+
+角色[gm1111000][]连接[:0]被[gm1111000][192.168.0.124:23861]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:676: attempt to call method 'GetData' (a nil value)
+

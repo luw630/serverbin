@@ -1,0 +1,8 @@
+[2013-12-9 20:12:5] [115] connect to loginserver
+[2013-12-9 21:54:52] [115] connect to loginserver
+[2013-12-9 21:54:55] [115] connect to loginserver
+Script\Scene\sceneevent.lua
+
+[2013-12-9 21:55:40] [115] connect to loginserver
+Script\Scene\sceneevent.lua
+

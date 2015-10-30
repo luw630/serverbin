@@ -1,0 +1,69 @@
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 5  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 2  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  num = 2520  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 4  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 5  num = 1000100193  
+
+DecGoods_SG 去向 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 5  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 2  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  num = 2520  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 4  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 5  num = 1000100193  
+
+DecGoods_SG 去向 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 5  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 2  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  num = 2520  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 4  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 5  num = 1000100193  
+
+DecGoods_SG 去向 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+AddGoods_SG 来源 detailType 未填写,请注意修正!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

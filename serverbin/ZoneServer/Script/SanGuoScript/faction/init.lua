@@ -1,0 +1,8 @@
+dofile ("SanGuoScript\\faction\\factionsceneconfig.lua")
+dofile ("SanGuoScript\\faction\\factionsalaryconfig.lua")
+dofile ("SanGuoScript\\faction\\factionequiptconfig.lua")
+dofile ("SanGuoScript\\faction\\factionscene.lua")
+dofile ("SanGuoScript\\faction\\playerfaction.lua")
+dofile ("SanGuoScript\\faction\\factionManager.lua")
+dofile ("SanGuoScript\\faction\\luaplayer.lua")
+dofile ("SanGuoScript\\faction\\luaplayermanager.lua")

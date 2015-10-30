@@ -1,0 +1,25 @@
+[2015-6-25 9:57:27] [115] connect to loginserver
+[2015-6-25 9:57:59] [115] connect to loginserver
+[2015-6-25 10:12:22] [115] connect to loginserver
+[2015-6-25 10:12:46] [115] connect to loginserver
+[2015-6-25 10:15:0] [115] connect to loginserver
+[string "Script\SanGuoScript\Friends\Friends.lua"]:156: attempt to index field '?' (a nil value)
+
+[string "Script\SanGuoScript\Friends\Friends.lua"]:156: attempt to index field '?' (a nil value)
+
+[2015-6-25 10:23:39] [115] connect to loginserver
+[string "Script\SanGuoScript\Friends\Friends.lua"]:156: attempt to index field '?' (a nil value)
+
+[2015-6-25 10:24:53] [115] connect to loginserver
+[string "Script\SanGuoScript\Friends\Friends.lua"]:156: attempt to index field '?' (a nil value)
+
+[2015-6-25 10:28:6] [115] connect to loginserver
+[2015-6-25 10:35:9] [115] connect to loginserver
+[2015-6-25 14:1:27] [115] connect to loginserver
+[2015-6-25 14:1:41] [115] connect to loginserver
+[2015-6-25 14:4:40] [115] connect to loginserver
+[2015-6-25 14:6:32] [115] connect to loginserver
+[2015-6-25 14:8:2] [115] connect to loginserver
+[2015-6-25 14:9:14] [115] connect to loginserver
+[string "Script\SanGuoScript\Friends\Friends.lua"]:142: bad argument #2 to 'remove' (number expected, got string)
+

@@ -1,0 +1,16 @@
+[2015-8-29 15:35:7] [115] connect to loginserver
+[2015-8-29 15:36:28] [115] connect to loginserver
+[2015-8-29 16:38:29] [115] connect to loginserver
+[2015-8-29 17:19:34] [115] connect to loginserver
+attempt to index a number value
+
+获取军团ID100100001
+attempt to index a number value
+
+[2015-8-29 17:26:26] [115] connect to loginserver
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:29974]替换！！！
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:38166]替换！！！
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:46103]替换！！！
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:54295]替换！！！
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:59927]替换！！！
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:2072]替换！！！

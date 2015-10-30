@@ -1,0 +1,210 @@
+[2014-4-16 9:47:21] 当前服务器玩家数量0,[2014-4-16,9:47:21]
+[2014-4-16 9:57:21] 当前服务器玩家数量0,[2014-4-16,9:57:21]
+[2014-4-16 10:7:21] 当前服务器玩家数量0,[2014-4-16,10:7:21]
+[2014-4-16 10:17:21] 当前服务器玩家数量0,[2014-4-16,10:17:21]
+[2014-4-16 10:27:21] 当前服务器玩家数量0,[2014-4-16,10:27:21]
+[2014-4-16 10:37:22] 当前服务器玩家数量0,[2014-4-16,10:37:22]
+[2014-4-16 10:47:22] 当前服务器玩家数量0,[2014-4-16,10:47:22]
+[2014-4-16 10:57:22] 当前服务器玩家数量0,[2014-4-16,10:57:22]
+[2014-4-16 11:7:22] 当前服务器玩家数量0,[2014-4-16,11:7:22]
+[2014-4-16 11:17:22] 当前服务器玩家数量0,[2014-4-16,11:17:22]
+[2014-4-16 11:27:22] 当前服务器玩家数量0,[2014-4-16,11:27:22]
+[2014-4-16 11:37:23] 当前服务器玩家数量0,[2014-4-16,11:37:23]
+[2014-4-16 11:47:23] 当前服务器玩家数量0,[2014-4-16,11:47:23]
+[2014-4-16 11:57:23] 当前服务器玩家数量0,[2014-4-16,11:57:23]
+[2014-4-16 12:7:23] 当前服务器玩家数量1,[2014-4-16,12:7:23]
+[2014-4-16 12:17:23] 当前服务器玩家数量1,[2014-4-16,12:17:23]
+[2014-4-16 12:27:23] 当前服务器玩家数量1,[2014-4-16,12:27:23]
+[2014-4-16 12:37:24] 当前服务器玩家数量1,[2014-4-16,12:37:24]
+[2014-4-16 12:47:24] 当前服务器玩家数量1,[2014-4-16,12:47:24]
+[2014-4-16 12:57:24] 当前服务器玩家数量1,[2014-4-16,12:57:24]
+[2014-4-16 13:7:24] 当前服务器玩家数量1,[2014-4-16,13:7:24]
+[2014-4-16 13:17:24] 当前服务器玩家数量1,[2014-4-16,13:17:24]
+[2014-4-16 13:27:24] 当前服务器玩家数量1,[2014-4-16,13:27:24]
+[2014-4-16 13:37:24] 当前服务器玩家数量1,[2014-4-16,13:37:24]
+[2014-4-16 13:47:25] 当前服务器玩家数量0,[2014-4-16,13:47:25]
+[2014-4-16 13:57:25] 当前服务器玩家数量0,[2014-4-16,13:57:25]
+[2014-4-16 14:7:25] 当前服务器玩家数量1,[2014-4-16,14:7:25]
+[2014-4-16 14:7:31] skillDistance = 50,distance = 35.950527
+[2014-4-16 14:7:31] MonsterMoveStart GID = 536871973,MoveTime = 1800,MoveNode = 10,Lenth =  435.951172
+[2014-4-16 14:7:31] skillDistance = 50,distance = 3.130567
+[2014-4-16 14:7:31] MonsterMoveStart GID = 536871972,MoveTime = 2000,MoveNode = 11,Lenth =  453.129852
+[2014-4-16 14:7:31] skillDistance = 50,distance = 32.016865
+[2014-4-16 14:7:31] MonsterMoveStart GID = 536871971,MoveTime = 1400,MoveNode = 8,Lenth =  332.016846
+[2014-4-16 14:7:32] skillDistance = 50,distance = 4.507148
+[2014-4-16 14:7:32] MonsterMoveStart GID = 536871973,MoveTime = 1000,MoveNode = 6,Lenth =  204.506546
+[2014-4-16 14:7:32] MonsterMoveEnd GID = 536871973,MoveTime = 0,MoveNode = 0
+[2014-4-16 14:7:33] skillDistance = 50,distance = 15.594474
+[2014-4-16 14:7:33] MonsterMoveStart GID = 536871971,MoveTime = 1400,MoveNode = 8,Lenth =  315.594147
+[2014-4-16 14:7:33] MonsterMoveEnd GID = 536871971,MoveTime = 0,MoveNode = 0
+[2014-4-16 14:7:33] skillDistance = 50,distance = 2.512577
+[2014-4-16 14:7:33] MonsterMoveStart GID = 536871972,MoveTime = 1600,MoveNode = 9,Lenth =  352.512878
+[2014-4-16 14:7:33] MonsterMoveEnd GID = 536871972,MoveTime = 0,MoveNode = 0
+[2014-4-16 14:7:33] skillDistance = 50,distance = 8.775607
+[2014-4-16 14:7:33] MonsterMoveStart GID = 536871973,MoveTime = 800,MoveNode = 5,Lenth =  158.775681
+[2014-4-16 14:7:33] MonsterMoveEnd GID = 536871973,MoveTime = 0,MoveNode = 0
+[2014-4-16 14:7:34] MonsterMoveEnd GID = 536871971,MoveTime = 1404,MoveNode = 0
+[2014-4-16 14:7:34] MonsterMoveEnd GID = 536871973,MoveTime = 811,MoveNode = 0
+[2014-4-16 14:7:35] MonsterMoveEnd GID = 536871972,MoveTime = 1591,MoveNode = 0
+[2014-4-16 14:17:25] 当前服务器玩家数量1,[2014-4-16,14:17:25]
+[2014-4-16 14:27:25] 当前服务器玩家数量1,[2014-4-16,14:27:25]
+[2014-4-16 14:27:26] MonsterMoveEnd GID = 536871984,MoveTime = 465163,MoveNode = 0
+[2014-4-16 14:27:26] MonsterMoveEnd GID = 536871985,MoveTime = 469797,MoveNode = 0
+[2014-4-16 14:27:26] MonsterMoveEnd GID = 536871983,MoveTime = 469797,MoveNode = 0
+[2014-4-16 14:27:26] MonsterMoveEnd GID = 536871985,MoveTime = 470203,MoveNode = 0
+[2014-4-16 14:27:26] MonsterMoveEnd GID = 536871984,MoveTime = 465959,MoveNode = 0
+[2014-4-16 14:27:27] MonsterMoveEnd GID = 536871983,MoveTime = 470593,MoveNode = 0
+[2014-4-16 14:27:27] MonsterMoveEnd GID = 536871985,MoveTime = 471201,MoveNode = 0
+[2014-4-16 14:27:27] MonsterMoveEnd GID = 536871983,MoveTime = 471185,MoveNode = 0
+[2014-4-16 14:27:27] MonsterMoveEnd GID = 536871984,MoveTime = 466957,MoveNode = 0
+[2014-4-16 14:27:28] MonsterMoveEnd GID = 536871984,MoveTime = 467363,MoveNode = 0
+[2014-4-16 14:27:28] MonsterMoveEnd GID = 536871983,MoveTime = 471794,MoveNode = 0
+[2014-4-16 14:27:28] MonsterMoveEnd GID = 536871985,MoveTime = 471997,MoveNode = 0
+[2014-4-16 14:27:28] MonsterMoveEnd GID = 536871984,MoveTime = 467971,MoveNode = 0
+[2014-4-16 14:27:29] MonsterMoveEnd GID = 536871983,MoveTime = 472387,MoveNode = 0
+[2014-4-16 14:27:29] MonsterMoveEnd GID = 536871985,MoveTime = 472995,MoveNode = 0
+[2014-4-16 14:27:30] MonsterMoveEnd GID = 536871983,MoveTime = 473385,MoveNode = 0
+[2014-4-16 14:27:30] MonsterMoveEnd GID = 536871984,MoveTime = 469157,MoveNode = 0
+[2014-4-16 14:27:30] MonsterMoveEnd GID = 536871985,MoveTime = 473994,MoveNode = 0
+[2014-4-16 14:27:30] MonsterMoveEnd GID = 536871984,MoveTime = 469968,MoveNode = 0
+[2014-4-16 14:27:31] MonsterMoveEnd GID = 536871983,MoveTime = 474399,MoveNode = 0
+[2014-4-16 14:27:31] MonsterMoveEnd GID = 536871985,MoveTime = 474992,MoveNode = 0
+[2014-4-16 14:27:31] MonsterMoveEnd GID = 536871983,MoveTime = 474992,MoveNode = 0
+[2014-4-16 14:27:31] MonsterMoveEnd GID = 536871984,MoveTime = 470764,MoveNode = 0
+[2014-4-16 14:27:32] MonsterMoveEnd GID = 536871983,MoveTime = 475397,MoveNode = 0
+[2014-4-16 14:27:32] MonsterMoveEnd GID = 536871985,MoveTime = 475600,MoveNode = 0
+[2014-4-16 14:27:32] MonsterMoveEnd GID = 536871984,MoveTime = 471965,MoveNode = 0
+[2014-4-16 14:27:32] MonsterMoveEnd GID = 536871985,MoveTime = 476396,MoveNode = 0
+[2014-4-16 14:27:33] MonsterMoveEnd GID = 536871983,MoveTime = 476599,MoveNode = 0
+[2014-4-16 14:27:33] MonsterMoveEnd GID = 536871984,MoveTime = 472371,MoveNode = 0
+[2014-4-16 14:27:33] MonsterMoveEnd GID = 536871985,MoveTime = 477192,MoveNode = 0
+[2014-4-16 14:27:33] MonsterMoveEnd GID = 536871984,MoveTime = 472963,MoveNode = 0
+[2014-4-16 14:27:34] MonsterMoveEnd GID = 536871985,MoveTime = 477800,MoveNode = 0
+[2014-4-16 14:27:34] MonsterMoveEnd GID = 536871983,MoveTime = 477800,MoveNode = 0
+[2014-4-16 14:27:34] MonsterMoveEnd GID = 536871984,MoveTime = 473759,MoveNode = 0
+[2014-4-16 14:27:34] MonsterMoveEnd GID = 536871985,MoveTime = 478393,MoveNode = 0
+[2014-4-16 14:27:35] MonsterMoveEnd GID = 536871984,MoveTime = 474367,MoveNode = 0
+[2014-4-16 14:27:35] MonsterMoveEnd GID = 536871983,MoveTime = 478985,MoveNode = 0
+[2014-4-16 14:27:35] MonsterMoveEnd GID = 536871985,MoveTime = 479188,MoveNode = 0
+[2014-4-16 14:27:36] MonsterMoveEnd GID = 536871984,MoveTime = 475569,MoveNode = 0
+[2014-4-16 14:27:36] MonsterMoveEnd GID = 536871984,MoveTime = 475771,MoveNode = 0
+[2014-4-16 14:27:36] MonsterMoveEnd GID = 536871983,MoveTime = 480187,MoveNode = 0
+[2014-4-16 14:27:36] MonsterMoveEnd GID = 536871985,MoveTime = 480390,MoveNode = 0
+[2014-4-16 14:27:37] MonsterMoveEnd GID = 536871984,MoveTime = 476161,MoveNode = 0
+[2014-4-16 14:27:37] MonsterMoveEnd GID = 536871985,MoveTime = 480998,MoveNode = 0
+[2014-4-16 14:27:37] MonsterMoveEnd GID = 536871983,MoveTime = 480998,MoveNode = 0
+[2014-4-16 14:27:37] MonsterMoveEnd GID = 536871984,MoveTime = 476957,MoveNode = 0
+[2014-4-16 14:27:38] MonsterMoveEnd GID = 536871985,MoveTime = 481794,MoveNode = 0
+[2014-4-16 14:27:38] MonsterMoveEnd GID = 536871983,MoveTime = 481793,MoveNode = 0
+[2014-4-16 14:27:38] MonsterMoveEnd GID = 536871984,MoveTime = 477565,MoveNode = 0
+[2014-4-16 14:27:38] MonsterMoveEnd GID = 536871984,MoveTime = 477971,MoveNode = 0
+[2014-4-16 14:27:38] MonsterMoveEnd GID = 536871985,MoveTime = 482402,MoveNode = 0
+[2014-4-16 14:27:39] MonsterMoveEnd GID = 536871984,MoveTime = 478564,MoveNode = 0
+[2014-4-16 14:27:39] MonsterMoveEnd GID = 536871985,MoveTime = 482995,MoveNode = 0
+[2014-4-16 14:27:39] MonsterMoveEnd GID = 536871983,MoveTime = 482995,MoveNode = 0
+[2014-4-16 14:27:40] MonsterMoveEnd GID = 536871983,MoveTime = 483385,MoveNode = 0
+[2014-4-16 14:27:40] MonsterMoveEnd GID = 536871985,MoveTime = 483790,MoveNode = 0
+[2014-4-16 14:27:40] MonsterMoveEnd GID = 536871983,MoveTime = 484196,MoveNode = 0
+[2014-4-16 14:27:40] MonsterMoveEnd GID = 536871984,MoveTime = 479968,MoveNode = 0
+[2014-4-16 14:27:41] MonsterMoveEnd GID = 536871985,MoveTime = 484992,MoveNode = 0
+[2014-4-16 14:27:41] MonsterMoveEnd GID = 536871983,MoveTime = 485194,MoveNode = 0
+[2014-4-16 14:27:42] MonsterMoveEnd GID = 536871984,MoveTime = 481169,MoveNode = 0
+[2014-4-16 14:27:42] MonsterMoveEnd GID = 536871985,MoveTime = 485803,MoveNode = 0
+[2014-4-16 14:27:42] MonsterMoveEnd GID = 536871983,MoveTime = 485990,MoveNode = 0
+[2014-4-16 14:27:42] MonsterMoveEnd GID = 536871984,MoveTime = 481762,MoveNode = 0
+[2014-4-16 14:27:42] MonsterMoveEnd GID = 536871985,MoveTime = 486396,MoveNode = 0
+[2014-4-16 14:27:43] MonsterMoveEnd GID = 536871984,MoveTime = 482370,MoveNode = 0
+[2014-4-16 14:27:43] MonsterMoveEnd GID = 536871985,MoveTime = 486801,MoveNode = 0
+[2014-4-16 14:27:43] MonsterMoveEnd GID = 536871983,MoveTime = 486785,MoveNode = 0
+[2014-4-16 14:27:43] MonsterMoveEnd GID = 536871984,MoveTime = 482760,MoveNode = 0
+[2014-4-16 14:27:44] MonsterMoveEnd GID = 536871983,MoveTime = 487394,MoveNode = 0
+[2014-4-16 14:27:44] MonsterMoveEnd GID = 536871984,MoveTime = 483166,MoveNode = 0
+[2014-4-16 14:27:44] MonsterMoveEnd GID = 536871985,MoveTime = 488002,MoveNode = 0
+[2014-4-16 14:27:45] MonsterMoveEnd GID = 536871983,MoveTime = 488392,MoveNode = 0
+[2014-4-16 14:27:45] MonsterMoveEnd GID = 536871984,MoveTime = 484164,MoveNode = 0
+[2014-4-16 14:27:45] MonsterMoveEnd GID = 536871985,MoveTime = 489001,MoveNode = 0
+[2014-4-16 14:27:45] MonsterMoveEnd GID = 536871983,MoveTime = 489188,MoveNode = 0
+[2014-4-16 14:27:46] MonsterMoveEnd GID = 536871984,MoveTime = 485163,MoveNode = 0
+[2014-4-16 14:27:46] MonsterMoveEnd GID = 536871985,MoveTime = 489999,MoveNode = 0
+[2014-4-16 14:27:46] MonsterMoveEnd GID = 536871983,MoveTime = 489999,MoveNode = 0
+[2014-4-16 14:27:46] MonsterMoveEnd GID = 536871984,MoveTime = 485771,MoveNode = 0
+[2014-4-16 14:27:46] MonsterMoveEnd GID = 536871984,MoveTime = 485958,MoveNode = 0
+[2014-4-16 14:27:47] MonsterMoveEnd GID = 536871984,MoveTime = 486161,MoveNode = 0
+[2014-4-16 14:27:47] MonsterMoveEnd GID = 536871985,MoveTime = 490592,MoveNode = 0
+[2014-4-16 14:27:47] MonsterMoveEnd GID = 536871983,MoveTime = 490592,MoveNode = 0
+[2014-4-16 14:27:47] MonsterMoveEnd GID = 536871983,MoveTime = 490795,MoveNode = 0
+[2014-4-16 14:27:47] MonsterMoveEnd GID = 536871984,MoveTime = 486769,MoveNode = 0
+[2014-4-16 14:27:48] MonsterMoveEnd GID = 536871985,MoveTime = 491590,MoveNode = 0
+[2014-4-16 14:27:48] MonsterMoveEnd GID = 536871983,MoveTime = 491590,MoveNode = 0
+[2014-4-16 14:27:48] MonsterMoveEnd GID = 536871983,MoveTime = 492199,MoveNode = 0
+[2014-4-16 14:27:48] MonsterMoveEnd GID = 536871984,MoveTime = 487971,MoveNode = 0
+[2014-4-16 14:27:49] MonsterMoveEnd GID = 536871985,MoveTime = 492589,MoveNode = 0
+[2014-4-16 14:27:49] MonsterMoveEnd GID = 536871985,MoveTime = 492994,MoveNode = 0
+[2014-4-16 14:27:49] MonsterMoveEnd GID = 536871983,MoveTime = 493197,MoveNode = 0
+[2014-4-16 14:27:49] MonsterMoveEnd GID = 536871984,MoveTime = 488969,MoveNode = 0
+[2014-4-16 14:27:50] MonsterMoveEnd GID = 536871983,MoveTime = 493790,MoveNode = 0
+[2014-4-16 14:27:50] MonsterMoveEnd GID = 536871985,MoveTime = 493993,MoveNode = 0
+[2014-4-16 14:27:50] MonsterMoveEnd GID = 536871984,MoveTime = 489765,MoveNode = 0
+[2014-4-16 14:27:51] MonsterMoveEnd GID = 536871983,MoveTime = 494398,MoveNode = 0
+[2014-4-16 14:27:51] MonsterMoveEnd GID = 536871984,MoveTime = 490358,MoveNode = 0
+[2014-4-16 14:27:51] MonsterMoveEnd GID = 536871985,MoveTime = 494789,MoveNode = 0
+[2014-4-16 14:27:51] MonsterMoveEnd GID = 536871983,MoveTime = 494788,MoveNode = 0
+[2014-4-16 14:27:51] MonsterMoveEnd GID = 536871984,MoveTime = 490560,MoveNode = 0
+[2014-4-16 14:27:51] MonsterMoveEnd GID = 536871983,MoveTime = 495194,MoveNode = 0
+[2014-4-16 14:27:51] MonsterMoveEnd GID = 536871985,MoveTime = 495397,MoveNode = 0
+[2014-4-16 14:27:52] MonsterMoveEnd GID = 536871984,MoveTime = 491169,MoveNode = 0
+[2014-4-16 14:27:52] MonsterMoveEnd GID = 536871983,MoveTime = 495990,MoveNode = 0
+[2014-4-16 14:27:52] MonsterMoveEnd GID = 536871984,MoveTime = 491762,MoveNode = 0
+[2014-4-16 14:27:52] MonsterMoveEnd GID = 536871985,MoveTime = 496395,MoveNode = 0
+[2014-4-16 14:27:53] MonsterMoveEnd GID = 536871984,MoveTime = 492167,MoveNode = 0
+[2014-4-16 14:27:53] MonsterMoveEnd GID = 536871983,MoveTime = 496785,MoveNode = 0
+[2014-4-16 14:27:53] MonsterMoveEnd GID = 536871985,MoveTime = 497191,MoveNode = 0
+[2014-4-16 14:27:54] MonsterMoveEnd GID = 536871984,MoveTime = 493166,MoveNode = 0
+[2014-4-16 14:27:54] MonsterMoveEnd GID = 536871983,MoveTime = 497596,MoveNode = 0
+[2014-4-16 14:27:54] MonsterMoveEnd GID = 536871985,MoveTime = 497799,MoveNode = 0
+[2014-4-16 14:27:54] MonsterMoveEnd GID = 536871984,MoveTime = 493961,MoveNode = 0
+[2014-4-16 14:27:55] MonsterMoveEnd GID = 536871985,MoveTime = 498595,MoveNode = 0
+[2014-4-16 14:27:55] MonsterMoveEnd GID = 536871983,MoveTime = 498595,MoveNode = 0
+[2014-4-16 14:27:55] MonsterMoveEnd GID = 536871984,MoveTime = 494367,MoveNode = 0
+[2014-4-16 14:27:55] MonsterMoveEnd GID = 536871984,MoveTime = 494960,MoveNode = 0
+[2014-4-16 14:27:55] MonsterMoveEnd GID = 536871985,MoveTime = 499391,MoveNode = 0
+[2014-4-16 14:27:56] MonsterMoveEnd GID = 536871983,MoveTime = 499593,MoveNode = 0
+[2014-4-16 14:37:25] 当前服务器玩家数量0,[2014-4-16,14:37:25]
+[2014-4-16 14:47:26] 当前服务器玩家数量0,[2014-4-16,14:47:26]
+[2014-4-16 14:57:26] 当前服务器玩家数量0,[2014-4-16,14:57:26]
+[2014-4-16 15:7:26] 当前服务器玩家数量0,[2014-4-16,15:7:26]
+[2014-4-16 15:17:26] 当前服务器玩家数量0,[2014-4-16,15:17:26]
+[2014-4-16 15:27:26] 当前服务器玩家数量0,[2014-4-16,15:27:26]
+[2014-4-16 15:37:26] 当前服务器玩家数量0,[2014-4-16,15:37:26]
+[2014-4-16 15:47:27] 当前服务器玩家数量0,[2014-4-16,15:47:27]
+[2014-4-16 15:57:27] 当前服务器玩家数量0,[2014-4-16,15:57:27]
+[2014-4-16 16:7:27] 当前服务器玩家数量0,[2014-4-16,16:7:27]
+[2014-4-16 16:17:27] 当前服务器玩家数量0,[2014-4-16,16:17:27]
+[2014-4-16 16:27:27] 当前服务器玩家数量0,[2014-4-16,16:27:27]
+[2014-4-16 16:37:28] 当前服务器玩家数量0,[2014-4-16,16:37:28]
+[2014-4-16 16:47:28] 当前服务器玩家数量0,[2014-4-16,16:47:28]
+[2014-4-16 16:57:28] 当前服务器玩家数量0,[2014-4-16,16:57:28]
+[2014-4-16 17:7:28] 当前服务器玩家数量0,[2014-4-16,17:7:28]
+[2014-4-16 17:17:28] 当前服务器玩家数量0,[2014-4-16,17:17:28]
+[2014-4-16 17:27:28] 当前服务器玩家数量0,[2014-4-16,17:27:28]
+[2014-4-16 17:37:29] 当前服务器玩家数量0,[2014-4-16,17:37:29]
+[2014-4-16 17:47:29] 当前服务器玩家数量0,[2014-4-16,17:47:29]
+[2014-4-16 17:57:29] 当前服务器玩家数量0,[2014-4-16,17:57:29]
+[2014-4-16 18:7:29] 当前服务器玩家数量0,[2014-4-16,18:7:29]
+[2014-4-16 18:17:29] 当前服务器玩家数量0,[2014-4-16,18:17:29]
+[2014-4-16 18:27:29] 当前服务器玩家数量0,[2014-4-16,18:27:29]
+[2014-4-16 18:37:30] 当前服务器玩家数量0,[2014-4-16,18:37:30]
+[2014-4-16 18:47:30] 当前服务器玩家数量0,[2014-4-16,18:47:30]
+[2014-4-16 18:57:30] 当前服务器玩家数量0,[2014-4-16,18:57:30]
+[2014-4-16 19:7:30] 当前服务器玩家数量0,[2014-4-16,19:7:30]
+[2014-4-16 19:17:30] 当前服务器玩家数量0,[2014-4-16,19:17:30]
+[2014-4-16 19:27:30] 当前服务器玩家数量0,[2014-4-16,19:27:30]
+[2014-4-16 19:37:31] 当前服务器玩家数量0,[2014-4-16,19:37:31]
+[2014-4-16 19:47:31] 当前服务器玩家数量0,[2014-4-16,19:47:31]
+[2014-4-16 19:57:31] 当前服务器玩家数量0,[2014-4-16,19:57:31]
+[2014-4-16 20:7:31] 当前服务器玩家数量0,[2014-4-16,20:7:31]
+[2014-4-16 20:17:31] 当前服务器玩家数量0,[2014-4-16,20:17:31]
+[2014-4-16 20:27:32] 当前服务器玩家数量0,[2014-4-16,20:27:32]
+[2014-4-16 20:37:32] 当前服务器玩家数量0,[2014-4-16,20:37:32]
+[2014-4-16 20:47:32] 当前服务器玩家数量0,[2014-4-16,20:47:32]
+[2014-4-16 20:57:32] 当前服务器玩家数量0,[2014-4-16,20:57:32]

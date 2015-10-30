@@ -1,0 +1,34 @@
+[2014-4-3 9:35:14] [115] connect to loginserver
+[2014-4-3 14:37:58] [115] connect to loginserver
+[2014-4-3 14:43:9] [115] connect to loginserver
+[2014-4-3 15:2:44] [115] connect to loginserver
+[2014-4-3 15:12:33] [115] connect to loginserver
+[2014-4-3 15:12:48] [115] connect to loginserver
+[2014-4-3 15:13:33] [115] connect to loginserver
+[2014-4-3 15:15:12] [115] connect to loginserver
+[2014-4-3 15:16:6] [115] connect to loginserver
+[2014-4-3 15:17:26] [115] connect to loginserver
+[2014-4-3 15:18:23] [115] connect to loginserver
+[2014-4-3 15:18:45] [115] connect to loginserver
+[2014-4-3 15:19:41] [115] connect to loginserver
+[2014-4-3 15:20:28] [115] connect to loginserver
+[2014-4-3 15:24:29] [115] connect to loginserver
+[2014-4-3 15:28:2] [115] connect to loginserver
+[2014-4-3 15:30:0] [115] connect to loginserver
+[2014-4-3 15:30:46] [115] connect to loginserver
+角色[200354][廉老四]连接[:0]被[200354][:0]替换！！！
+角色[200354][廉老四]连接[:0]被[200354][:0]替换！！！
+角色[200354][廉老四]连接[:0]被[200354][:0]替换！！！
+角色[200354][廉老四]连接[:0]被[200354][10.0.100.14:38179]替换！！！
+[2014-4-3 15:33:21] [115] connect to loginserver
+[2014-4-3 15:34:56] [115] connect to loginserver
+[2014-4-3 16:14:48] [115] connect to loginserver
+[2014-4-3 16:16:20] [115] connect to loginserver
+[2014-4-3 16:17:12] [115] connect to loginserver
+[2014-4-3 16:23:26] [115] connect to loginserver
+[2014-4-3 16:34:43] [115] connect to loginserver
+[2014-4-3 16:35:38] [115] connect to loginserver
+[2014-4-3 16:48:18] [115] connect to loginserver
+[2014-4-3 17:35:45] [115] connect to loginserver
+[2014-4-3 17:37:41] [115] connect to loginserver
+[2014-4-3 20:42:36] [115] connect to loginserver

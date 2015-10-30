@@ -1,0 +1,8 @@
+[2013-7-20 17:29:58]d:\newitem works\directnet\directnetserver\details\win32\server.hpp(193):lookup_slots.size() == client_slots.size()
+[2013-7-20 17:29:58]d:\newitem works\directnet\directnetserver\details\win32\server.hpp(194):useing_slots.empty()
+[2014-11-28 15:42:5]d:\newitem works\directnet\directnetserver\details\win32\server.hpp(193):lookup_slots.size() == client_slots.size()
+[2014-11-28 15:42:5]d:\newitem works\directnet\directnetserver\details\win32\server.hpp(194):useing_slots.empty()
+[2015-9-16 22:28:37]d:\newitem works\directnet\directnetserver\details\win32\server.hpp(193):lookup_slots.size() == client_slots.size()
+[2015-9-16 22:28:37]d:\newitem works\directnet\directnetserver\details\win32\server.hpp(194):useing_slots.empty()
+[2015-10-24 17:8:53]d:\newitem works\directnet\directnetserver\details\win32\server.hpp(193):lookup_slots.size() == client_slots.size()
+[2015-10-24 17:8:53]d:\newitem works\directnet\directnetserver\details\win32\server.hpp(194):useing_slots.empty()

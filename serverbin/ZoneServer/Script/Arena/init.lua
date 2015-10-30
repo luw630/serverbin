@@ -1,0 +1,5 @@
+dofile("Arena\\ArenaConfig.lua")
+dofile("Arena\\ArenaMap.lua")
+dofile("Arena\\ArenaRewardConfig.lua")
+dofile("Arena\\ArenaManage.lua")
+dofile("Arena\\Arena.lua")

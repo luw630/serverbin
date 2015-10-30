@@ -1,0 +1,630 @@
+[2015-7-24 3:35:59] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[2015-7-24 3:40:30] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\GMSys\GMUserCfg.lua"]:47: attempt to concatenate local 'result' (a nil value)
+
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+备份竞技场数据,备份耗时：0秒
+[2015-7-24 4:5:52] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\common\player.lua"]:40: attempt to call global 'act_login' (a nil value)
+
+[string "Script\SanGuoScript\GMSys\GMUserCfg.lua"]:47: attempt to concatenate local 'result' (a nil value)
+
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Vip\vip_func.lua"]:73: attempt to concatenate local 'sid' (a nil value)
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\common\player.lua"]:43: attempt to call global 'act_login' (a nil value)
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[2015-7-24 5:20:46] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\common\player.lua"]:45: attempt to call global 'act_login' (a nil value)
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:34: attempt to index local 'v' (a number value)
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:43: attempt to index field '?' (a number value)
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\common\player.lua"]:45: attempt to call global 'act_login' (a nil value)
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[2015-7-24 7:2:39] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\common\player.lua"]:45: attempt to call global 'act_login' (a nil value)
+
+[string "Script\SanGuoScript\common\dbrpc.lua"]:240: attempt to concatenate local 'sid' (a nil value)
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\common\player.lua"]:45: attempt to call global 'act_login' (a nil value)
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\common\player.lua"]:45: attempt to call global 'act_login' (a nil value)
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+[string "Script\SanGuoScript\common\player.lua"]:45: attempt to call global 'act_login' (a nil value)
+

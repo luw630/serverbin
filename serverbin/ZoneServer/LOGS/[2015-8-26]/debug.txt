@@ -1,0 +1,18 @@
+[2015-8-26 17:7:9] [115] connect to loginserver
+[string "Script\SanGuoScript\Rank\rank_func.lua"]:47: attempt to call global 'GetWorldData' (a nil value)
+
+[2015-8-26 17:20:17] [115] connect to loginserver
+[string "Script\SanGuoScript\Rank\rank_func.lua"]:47: attempt to call global 'GetWorldData' (a nil value)
+
+角色[gmht789][]连接[:0]被[gmht789][192.168.0.124:45604]替换！！！
+[string "Script\SanGuoScript\faction\factionManager...."]:515: onDisbandFaction MemberNum ~= 0
+
+获取军团ID0
+[string "Script\SanGuoScript\faction\factionManager...."]:554: attempt to perform arithmetic on global 'i' (a nil value)
+
+竞技场排行榜未初始化
+刷新数据到内存1---找共享缓存，用掉0毫秒！
+刷新数据到内存2---遍历玩家前，用掉0毫秒！
+刷新数据到内存4---遍历玩家后，用掉0毫秒！
+角色[gmht789][]连接[:0]被[gmht789][192.168.0.124:26149]替换！！！
+角色[gm12d][]连接[:0]被[gm12d][192.168.0.76:4408]替换！！！

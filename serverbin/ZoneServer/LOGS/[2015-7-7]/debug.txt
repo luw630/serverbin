@@ -1,0 +1,41 @@
+[2015-7-7 15:2:7] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\ActivityConfig.lua"]:9: '}' expected (to close '{' at line 4) near 'ActivityName'
+
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:19: attempt to index field '?' (a nil value)
+
+[2015-7-7 15:13:25] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:19: attempt to index field '?' (a nil value)
+
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:19: attempt to index field '?' (a nil value)
+
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:19: attempt to index field '?' (a nil value)
+
+[2015-7-7 18:3:56] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\Activity_Treas..."]:10: attempt to call global 'ActivityRegister' (a nil value)
+
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:19: attempt to index field '?' (a nil value)
+
+[2015-7-7 18:4:18] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\Activity_Treas..."]:10: attempt to call global 'ActivityRegister' (a nil value)
+
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:19: attempt to index field '?' (a nil value)
+
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:19: attempt to index field '?' (a nil value)
+
+[2015-7-7 18:5:26] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:94: attempt to index global 'Activitymodule' (a nil value)
+
+[string "Script\SanGuoScript\Activity\ActivityFramew..."]:77: attempt to call global 'DataServiceGetData' (a nil value)
+
+[2015-7-7 18:5:28] [115] connect to loginserver
+[2015-7-7 18:5:29] [115] connect to loginserver
+[2015-7-7 18:7:37] [115] connect to loginserver
+[2015-7-7 18:8:3] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\Activity_Treas..."]:24: attempt to index global 'v' (a nil value)
+
+竞技场排行开始更新
+竞技场更新TOP50列表
+[string "Script\SanGuoScript\Activity\Activity_Treas..."]:25: attempt to compare number with nil
+
+竞技场排行开始更新
+竞技场更新TOP50列表

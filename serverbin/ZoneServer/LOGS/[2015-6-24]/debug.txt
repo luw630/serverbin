@@ -1,0 +1,44 @@
+[2015-6-24 10:28:58] [115] connect to loginserver
+角色[uij889][]连接[:0]被[uij889][192.168.0.123:44298]替换！！！
+竞技场排行开始更新
+竞技场更新TOP50列表
+[string "Script\SanGuoScript\Friends\Friends.lua"]:130: 'then' expected near '!'
+
+[string "Script\XYD3Script\PlayerRewardfunction.lua"]:113: stack overflow
+
+[2015-6-24 13:17:55] [115] connect to loginserver
+[2015-6-24 13:18:51] [115] connect to loginserver
+[2015-6-24 13:19:47] [115] connect to loginserver
+[2015-6-24 13:44:51] [115] connect to loginserver
+角色[sf3g][]连接[:0]被[sf3g][192.168.0.123:14342]替换！！！
+[2015-6-24 14:3:59] [115] connect to loginserver
+[2015-6-24 14:4:47] [115] connect to loginserver
+[string "Script\Core\dbmgr.lua"]:53: stack overflow
+
+[2015-6-24 14:33:26] [115] connect to loginserver
+[2015-6-24 14:41:23] [115] connect to loginserver
+[2015-6-24 15:23:13] [115] connect to loginserver
+[string "Script\SanGuoScript\Friends\Friends.lua"]:135: attempt to index field '?' (a nil value)
+
+[string "Script\SanGuoScript\Friends\Friends.lua"]:135: bad argument #1 to 'insert' (table expected, got nil)
+
+[2015-6-24 15:32:57] [115] connect to loginserver
+[2015-6-24 15:33:44] [115] connect to loginserver
+[2015-6-24 15:41:17] [115] connect to loginserver
+[string "Script\Core\dbmgr.lua"]:53: stack overflow
+
+角色[sd4t5][]连接[:0]被[sd4t5][192.168.0.123:46603]替换！！！
+竞技场排行开始更新
+竞技场更新TOP50列表
+[2015-6-24 15:52:36] [115] connect to loginserver
+角色[sd4t5][]连接[:0]被[sd4t5][192.168.0.123:60171]替换！！！
+竞技场排行开始更新
+竞技场更新TOP50列表
+already_exists,start RecoverPlayer
+[2015-6-24 15:54:54] [115] connect to loginserver
+[2015-6-24 16:18:25] [115] connect to loginserver
+[string "Script\SanGuoScript\Friends\Friends.lua"]:170: attempt to index field '?' (a nil value)
+
+[2015-6-24 16:22:5] [115] connect to loginserver
+[2015-6-24 20:33:16] [115] connect to loginserver
+[2015-6-24 20:33:38] [115] connect to loginserver

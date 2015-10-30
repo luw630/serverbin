@@ -1,0 +1,1 @@
+dofile ("SanGuoScript\\ExtendedData\\ExtendedDataFunc.lua")

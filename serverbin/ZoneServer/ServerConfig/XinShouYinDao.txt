@@ -1,0 +1,7 @@
+GuideType	StartIndex	OperateIndex	TollgateID	RewardID
+Int	Int	String	Int	Int
+0	0	7|12|19|24		100001
+5	2	4|8		
+12	2	9	100003	141
+14	2	9	100010	137
+13	2	9	10114	105

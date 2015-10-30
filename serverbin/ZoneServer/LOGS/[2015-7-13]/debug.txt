@@ -1,0 +1,29 @@
+[2015-7-13 11:14:4] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\Activity_Weeks..."]:135: attempt to call global 'CI_WeekReMoney' (a nil value)
+
+[string "Script\SanGuoScript\Activity\Activity_Weeks..."]:135: attempt to call global 'CI_WeekReMoney' (a nil value)
+
+[2015-7-13 11:27:12] [115] connect to loginserver
+[2015-7-13 11:28:11] [115] connect to loginserver
+角色[gm007][]连接[:0]被[gm007][192.168.0.167:42760]替换！！！
+角色[gm008][]连接[:0]被[gm008][192.168.0.167:54792]替换！！！
+角色[gm008][]连接[:0]被[gm008][192.168.0.167:57608]替换！！！
+角色[gm008][]连接[:0]被[gm008][192.168.0.167:59144]替换！！！
+角色[gm008][]连接[:0]被[gm008][192.168.0.167:65288]替换！！！
+[2015-7-13 11:49:5] [115] connect to loginserver
+[2015-7-13 14:51:4] [115] connect to loginserver
+角色[f4w1][]连接[:0]被[f4w1][192.168.0.123:31254]替换！！！
+[2015-7-13 14:59:30] [115] connect to loginserver
+[2015-7-13 15:2:28] [115] connect to loginserver
+[2015-7-13 15:7:3] [115] connect to loginserver
+[2015-7-13 15:8:27] [115] connect to loginserver
+角色[f4w1][]连接[:0]被[f4w1][192.168.0.123:50710]替换！！！
+[2015-7-13 15:10:29] [115] connect to loginserver
+角色[f4w1][]连接[:0]被[f4w1][192.168.0.123:56086]替换！！！
+角色[f4w1][]连接[:0]被[f4w1][192.168.0.123:7959]替换！！！
+角色[f4w1][]连接[:0]被[f4w1][192.168.0.123:11287]替换！！！
+角色[f4w1][]连接[:0]被[f4w1][192.168.0.123:20503]替换！！！
+角色[f4w1][]连接[:0]被[f4w1][192.168.0.123:23575]替换！！！
+[2015-7-13 15:23:3] [115] connect to loginserver
+[2015-7-13 16:6:7] [115] connect to loginserver
+角色[e33g][]连接[:0]被[e33g][192.168.0.123:2602]替换！！！

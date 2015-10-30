@@ -1,0 +1,198 @@
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 3  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 2  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  num = 500  
+
+DecGoods_SG È¥Ïò detailType Î´ÌîĞ´,Çë×¢ÒâĞŞÕı!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+¼ì²âµ½µôÏßÍæ¼ÒÍË³ö [é•‡å—é©¬å…ƒè®©]
+¼ì²âµ½µôÏßÍæ¼ÒÍË³ö [æè¾–åˆ˜å§¬]
+µ±Ç°·şÎñÆ÷×´Ì¬£º
+µÇÂ½·şÎñÆ÷[Õı³£]
+
+µ±Ç°Á¬½ÓÊı/µ×²ãÁ¬½ÓÊı £º 1/1
+¶ÔÏóÓ³ÉäÊıÁ¿£ºÔ´[5]Dnid[7]Name[5]Account[5]
+Íæ¼Ò×ÜÊı£º5
+RID = 005, PlayerNumber = 0
+Òì³£/Õı³£/µôÏß/¹Ò»ú/×Ô¶¯/DXTC£º0/5/0/0/0/0
+ÀúÊ·Æ½¾ùpingÖµ£º0£¬µ±Ç°Æ½¾ùpingÖµ£º0
+µ±Ç°×î¸ßpingÖµ£º0£¬µ±Ç°×îµÍpingÖµ£º123456789
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 3  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 2  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  num = 500  
+
+DecGoods_SG È¥Ïò detailType Î´ÌîĞ´,Çë×¢ÒâĞŞÕı!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+¼ì²âµ½µôÏßÍæ¼ÒÍË³ö [é”¦å¸†å­™æ˜­]
+¼ì²âµ½µôÏßÍæ¼ÒÍË³ö [æ­¦ç¥å¤æ¢…]
+¼ì²âµ½µôÏßÍæ¼ÒÍË³ö [åˆºå²å¾è¶…]
+¼ì²âµ½µôÏßÍæ¼ÒÍË³ö [è™å°†çš‡ç”«æ–‡è‹¥]
+¼ì²âµ½µôÏßÍæ¼ÒÍË³ö [é¬¼æ‰åºéœœ]
+¼ì²âµ½µôÏßÍæ¼ÒÍË³ö [å¤ªå‚…å¸é©¬éŸ¦]
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 3  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 2  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  num = 500  
+
+DecGoods_SG È¥Ïò detailType Î´ÌîĞ´,Çë×¢ÒâĞŞÕı!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 3  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 2  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  num = 500  
+
+DecGoods_SG È¥Ïò detailType Î´ÌîĞ´,Çë×¢ÒâĞŞÕı!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 3  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 2  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  num = 500  
+
+DecGoods_SG È¥Ïò detailType Î´ÌîĞ´,Çë×¢ÒâĞŞÕı!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 3  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 2  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  num = 500  
+
+DecGoods_SG È¥Ïò detailType Î´ÌîĞ´,Çë×¢ÒâĞŞÕı!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+µ±Ç°·şÎñÆ÷×´Ì¬£º
+µÇÂ½·şÎñÆ÷[Õı³£]
+
+µ±Ç°Á¬½ÓÊı/µ×²ãÁ¬½ÓÊı £º 3/3
+¶ÔÏóÓ³ÉäÊıÁ¿£ºÔ´[4]Dnid[12]Name[4]Account[4]
+Íæ¼Ò×ÜÊı£º4
+RID = 005, PlayerNumber = 0
+Òì³£/Õı³£/µôÏß/¹Ò»ú/×Ô¶¯/DXTC£º0/4/0/0/0/0
+ÀúÊ·Æ½¾ùpingÖµ£º0£¬µ±Ç°Æ½¾ùpingÖµ£º0
+µ±Ç°×î¸ßpingÖµ£º0£¬µ±Ç°×îµÍpingÖµ£º123456789
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 3  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 1000100161  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  string = é•‡è¥¿è´¾ç»Ÿ  
+
+»ñÈ¡¾üÍÅID100100006
+¼ì²âµ½µôÏßÍæ¼ÒÍË³ö [é•‡è¥¿è´¾ç»Ÿ]
+µ±Ç°·şÎñÆ÷×´Ì¬£º
+µÇÂ½·şÎñÆ÷[Õı³£]
+
+µ±Ç°Á¬½ÓÊı/µ×²ãÁ¬½ÓÊı £º 0/0
+¶ÔÏóÓ³ÉäÊıÁ¿£ºÔ´[1]Dnid[2]Name[1]Account[1]
+Íæ¼Ò×ÜÊı£º1
+RID = 005, PlayerNumber = 0
+Òì³£/Õı³£/µôÏß/¹Ò»ú/×Ô¶¯/DXTC£º0/1/0/0/0/0
+ÀúÊ·Æ½¾ùpingÖµ£º0£¬µ±Ç°Æ½¾ùpingÖµ£º0
+µ±Ç°×î¸ßpingÖµ£º0£¬µ±Ç°×îµÍpingÖµ£º123456789
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 3  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 1000100161  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  string = éª éª‘ç™½è¾½  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 3  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 1000100161  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  string = å†›å¸ˆèµµå‡¤  
+
+»ñÈ¡¾üÍÅID100100006
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 3  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 1000100161  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  string = ä¸ç›¸ç‹¬å­¤è“  
+
+»ñÈ¡¾üÍÅID100100006
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 3  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 2  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  num = 500  
+
+DecGoods_SG È¥Ïò detailType Î´ÌîĞ´,Çë×¢ÒâĞŞÕı!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 3  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 2  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  num = 500  
+
+DecGoods_SG È¥Ïò detailType Î´ÌîĞ´,Çë×¢ÒâĞŞÕı!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 3  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 2  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  num = 500  
+
+DecGoods_SG È¥Ïò detailType Î´ÌîĞ´,Çë×¢ÒâĞŞÕı!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 3  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 2  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  num = 500  
+
+DecGoods_SG È¥Ïò detailType Î´ÌîĞ´,Çë×¢ÒâĞŞÕı!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+¼ì²âµ½µôÏßÍæ¼ÒÍË³ö [ä¸ç›¸ç‹¬å­¤è“]
+¼ì²âµ½µôÏßÍæ¼ÒÍË³ö [åå°†å†·æ«]
+µ±Ç°·şÎñÆ÷×´Ì¬£º
+µÇÂ½·şÎñÆ÷[Õı³£]
+
+µ±Ç°Á¬½ÓÊı/µ×²ãÁ¬½ÓÊı £º 3/3
+¶ÔÏóÓ³ÉäÊıÁ¿£ºÔ´[3]Dnid[6]Name[3]Account[3]
+Íæ¼Ò×ÜÊı£º3
+RID = 005, PlayerNumber = 0
+Òì³£/Õı³£/µôÏß/¹Ò»ú/×Ô¶¯/DXTC£º0/3/0/0/0/0
+ÀúÊ·Æ½¾ùpingÖµ£º0£¬µ±Ç°Æ½¾ùpingÖµ£º0
+µ±Ç°×î¸ßpingÖµ£º0£¬µ±Ç°×îµÍpingÖµ£º123456789
+¾º¼¼³¡ÅÅĞĞ°ñÎ´³õÊ¼»¯
+OnPlayerDecGoods_SG   get a invalid lua stack position!  topnum = 3  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 1  num = 2  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 2  num = 0  
+
+OnPlayerDecGoods_SG   get a invalid lua stack position! paramindex = 3  num = 500  
+
+DecGoods_SG È¥Ïò detailType Î´ÌîĞ´,Çë×¢ÒâĞŞÕı!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+¼ì²âµ½µôÏßÍæ¼ÒÍË³ö [é•‡ä¸œé»„æŸ]
+µ±Ç°·şÎñÆ÷×´Ì¬£º
+µÇÂ½·şÎñÆ÷[Õı³£]
+
+µ±Ç°Á¬½ÓÊı/µ×²ãÁ¬½ÓÊı £º 0/0
+¶ÔÏóÓ³ÉäÊıÁ¿£ºÔ´[1]Dnid[2]Name[1]Account[1]
+Íæ¼Ò×ÜÊı£º1
+RID = 005, PlayerNumber = 0
+Òì³£/Õı³£/µôÏß/¹Ò»ú/×Ô¶¯/DXTC£º0/1/0/0/0/0
+ÀúÊ·Æ½¾ùpingÖµ£º0£¬µ±Ç°Æ½¾ùpingÖµ£º0
+µ±Ç°×î¸ßpingÖµ£º0£¬µ±Ç°×îµÍpingÖµ£º123456789
+¼ì²âµ½µôÏßÍæ¼ÒÍË³ö [é•‡ä¸œé»„æŸ]

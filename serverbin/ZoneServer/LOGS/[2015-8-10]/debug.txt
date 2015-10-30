@@ -1,0 +1,43 @@
+[2015-8-10 14:35:6] [115] connect to loginserver
+角色[gmy666][]连接[:0]被[gmy666][192.168.0.124:62729]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:106: attempt to compare number with table
+
+角色[gm104][]连接[:0]被[gm104][192.168.0.168:61964]替换！！！
+角色[gmbrf7][]连接[:0]被[gmbrf7][192.168.0.124:30219]替换！！！
+角色[gm108][]连接[:0]被[gm108][192.168.0.168:40973]替换！！！
+角色[gm108][]连接[:0]被[gm108][192.168.0.168:48909]替换！！！
+角色[gm108][]连接[:0]被[gm108][192.168.0.168:60173]替换！！！
+[2015-8-10 17:31:12] [115] connect to loginserver
+[string "Script\SanGuoScript\DataCenter\LocalDataSer..."]:62: attempt to call global 'getFileList' (a nil value)
+
+[2015-8-10 17:53:19] [115] connect to loginserver
+[2015-8-10 17:58:23] [115] connect to loginserver
+[2015-8-10 18:8:21] [115] connect to loginserver
+[2015-8-10 18:13:37] [115] connect to loginserver
+[2015-8-10 18:21:45] [115] connect to loginserver
+[2015-8-10 18:22:55] [115] connect to loginserver
+[2015-8-10 18:27:2] [115] connect to loginserver
+[2015-8-10 18:29:22] [115] connect to loginserver
+[2015-8-10 18:30:42] [115] connect to loginserver
+[2015-8-10 18:46:54] [115] connect to loginserver
+[2015-8-10 18:47:18] [115] connect to loginserver
+[2015-8-10 18:58:34] [115] connect to loginserver
+[2015-8-10 18:59:38] [115] connect to loginserver
+[2015-8-10 19:0:5] [115] connect to loginserver
+[2015-8-10 19:2:3] [115] connect to loginserver
+[2015-8-10 19:5:3] [115] connect to loginserver
+[2015-8-10 19:56:24] [115] connect to loginserver
+[2015-8-10 19:59:2] [115] connect to loginserver
+[2015-8-10 20:3:41] [115] connect to loginserver
+[2015-8-10 20:5:9] [115] connect to loginserver
+[2015-8-10 20:7:11] [115] connect to loginserver
+[2015-8-10 20:9:26] [115] connect to loginserver
+[2015-8-10 20:10:21] [115] connect to loginserver
+[2015-8-10 20:15:29] [115] connect to loginserver
+[2015-8-10 20:19:13] [115] connect to loginserver
+[2015-8-10 20:29:13] [115] connect to loginserver
+[2015-8-10 20:44:36] [115] connect to loginserver
+[2015-8-10 20:44:52] [115] connect to loginserver
+[2015-8-10 20:45:6] [115] connect to loginserver
+角色[gmw222][]连接[:0]被[gmw222][192.168.0.124:53270]替换！！！
+[2015-8-10 21:11:50] [115] connect to loginserver

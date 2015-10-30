@@ -1,0 +1,11 @@
+[2015-7-16 11:19:43] [115] connect to loginserver
+[2015-7-16 13:51:33] [115] connect to loginserver
+[2015-7-16 13:52:6] [115] connect to loginserver
+[2015-7-16 13:56:24] [115] connect to loginserver
+[2015-7-16 14:11:48] [115] connect to loginserver
+[2015-7-16 14:35:44] [115] connect to loginserver
+[2015-7-16 14:38:26] [115] connect to loginserver
+[2015-7-16 14:50:24] [115] connect to loginserver
+[2015-7-16 14:55:53] [115] connect to loginserver
+[2015-7-16 15:23:1] [115] connect to loginserver
+角色[gmqq1][]连接[:0]被[gmqq1][192.168.0.168:50979]替换！！！

@@ -1,0 +1,19 @@
+[2014-2-21 9:41:55] [115] connect to loginserver
+角色[200103][武岱周]连接[:0]被[200103][10.0.100.14:53784]替换！！！
+角色[200103][武岱周]连接[:0]被[200103][10.0.100.14:59416]替换！！！
+target not find
+target not find
+target not find
+target not find
+角色[200103][武岱周]连接[:0]被[200103][10.0.100.14:793]替换！！！
+target not find
+target not find
+target not find
+target not find
+target not find
+target not find
+target not find
+角色[200103][武岱周]连接[:0]被[200103][10.0.100.14:11289]替换！！！
+target not find
+角色[200103][武岱周]连接[:0]被[200103][10.0.100.14:64793]替换！！！
+check : pMsg->dwResult == false!!!

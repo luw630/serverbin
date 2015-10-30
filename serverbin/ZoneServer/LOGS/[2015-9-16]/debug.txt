@@ -1,0 +1,78 @@
+[2015-9-16 22:11:12] [115] connect to loginserver
+[2015-9-16 22:28:55] [115] connect to loginserver
+[2015-9-15 22:38:48] [115] connect to loginserver
+[2015-9-15 22:54:9] [115] connect to loginserver
+角色[gmqwqwqw][]连接[:0]被[gmqwqwqw][192.168.0.200:55904]替换！！！
+[2015-9-15 23:7:30] [115] connect to loginserver
+[2015-9-16 12:58:20] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\ActivityConfig.lua"]:49: '}' expected near '20150927'
+
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:26: attempt to index field '?' (a nil value)
+
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:26: attempt to index field '?' (a nil value)
+
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:26: attempt to index field '?' (a nil value)
+
+[string "Script\SanGuoScript\Activity\Activity_Rebat..."]:7: attempt to index global 'RebateActivity' (a nil value)
+
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:26: attempt to index field '?' (a nil value)
+
+[string "Script\SanGuoScript\Activity\ActivityGiftKey.lua"]:1: '=' expected near 'GifKeyItem'
+
+[string "Script\SanGuoScript\Activity\Activity_Rebat..."]:7: attempt to index global 'RebateActivity' (a nil value)
+
+[string "Script\SanGuoScript\Activity\ActivityGiftKey.lua"]:1: '=' expected near 'GifKeyItem'
+
+[string "Script\SanGuoScript\Activity\Activity_Rebat..."]:7: attempt to index global 'RebateActivity' (a nil value)
+
+[string "Script\SanGuoScript\Activity\Activity_Rebat..."]:7: attempt to index global 'RebateActivity' (a nil value)
+
+[string "Script\SanGuoScript\Activity\Activity_Rebat..."]:7: attempt to index global 'RebateActivity' (a nil value)
+
+角色[gmf002][]连接[:0]被[gmf002][192.168.0.124:48133]替换！！！
+[string "Script\SanGuoScript\Activity\Activity_Rebat..."]:7: attempt to index global 'RebateActivity' (a nil value)
+
+角色[gmf002][]连接[:0]被[gmf002][192.168.0.124:51973]替换！！！
+[string "Script\SanGuoScript\Activity\Activity_Rebat..."]:7: attempt to index global 'RebateActivity' (a nil value)
+
+[string "Script\SanGuoScript\Activity\Activity_Rebat..."]:7: attempt to index global 'RebateActivity' (a nil value)
+
+角色[gmf002][]连接[:0]被[gmf002][192.168.0.124:1798]替换！！！
+[string "Script\SanGuoScript\Activity\Activity_Rebat..."]:7: attempt to index global 'RebateActivity' (a nil value)
+
+[string "Script\SanGuoScript\Activity\Activity_Rebat..."]:7: attempt to index global 'RebateActivity' (a nil value)
+
+[string "Script\SanGuoScript\Prayer\Prayer.lua"]:265: ')' expected (to close '(' at line 264) near 'look'
+
+[string "Script\SanGuoScript\Activity\Activity_Rebat..."]:7: attempt to index global 'RebateActivity' (a nil value)
+
+角色[gmf003][]连接[:0]被[gmf003][192.168.0.124:17926]替换！！！
+[string "Script\SanGuoScript\Activity\Activity_Rebat..."]:7: attempt to index global 'RebateActivity' (a nil value)
+
+角色[gmf003][]连接[:0]被[gmf003][192.168.0.124:24838]替换！！！
+角色[gmf003][]连接[:0]被[gmf003][192.168.0.124:27142]替换！！！
+角色[gmf003][]连接[:0]被[gmf003][192.168.0.124:29446]替换！！！
+[string "Script\SanGuoScript\Activity\Activity_Rebat..."]:7: attempt to index global 'RebateActivity' (a nil value)
+
+角色[gmf003][]连接[:0]被[gmf003][192.168.0.124:34566]替换！！！
+角色[gmf003][]连接[:0]被[gmf003][192.168.0.124:38918]替换！！！
+[string "Script\SanGuoScript\Activity\Activity_Rebat..."]:7: attempt to index global 'RebateActivity' (a nil value)
+
+角色[gmf003][]连接[:0]被[gmf003][192.168.0.124:25351]替换！！！
+角色[gmee][]连接[:0]被[gmee][192.168.0.200:14358]替换！！！
+角色[gmee][]连接[:0]被[gmee][192.168.0.200:17430]替换！！！
+角色[gmf003][]连接[:0]被[gmf003][192.168.0.124:50183]替换！！！
+角色[gmf003][]连接[:0]被[gmf003][192.168.0.124:54791]替换！！！
+角色[gmee][]连接[:0]被[gmee][192.168.0.200:53782]替换！！！
+角色[gmee][]连接[:0]被[gmee][192.168.0.200:59414]替换！！！
+角色[gmee][]连接[:0]被[gmee][192.168.0.200:279]替换！！！
+角色[gmee][]连接[:0]被[gmee][192.168.0.200:3607]替换！！！
+角色[gmee][]连接[:0]被[gmee][192.168.0.200:6935]替换！！！
+[2015-9-16 15:22:0] [115] connect to loginserver
+[2015-9-16 22:48:36] [115] connect to loginserver
+[2015-9-16 22:54:25] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.lua"]:659: unexpected symbol near 'local'
+
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:661: attempt to compare number with nil
+
+竞技场排行榜未初始化

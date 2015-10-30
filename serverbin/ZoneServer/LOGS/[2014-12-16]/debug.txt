@@ -1,0 +1,20 @@
+[2014-12-16 9:52:46] [115] connect to loginserver
+check : pMsg->dwResult == false!!!
+check : pMsg->dwResult == false!!!
+check : pMsg->dwResult == false!!!
+check : pMsg->dwResult == false!!!
+check : pMsg->dwResult == false!!!
+check : pMsg->dwResult == false!!!
+check : pMsg->dwResult == false!!!
+check : pMsg->dwResult == false!!!
+check : pMsg->dwResult == false!!!
+check : pMsg->dwResult == false!!!
+[2014-12-16 17:3:12] [115] connect to loginserver
+[2014-12-16 17:49:14] [115] connect to loginserver
+[2014-12-16 17:51:0] [115] connect to loginserver
+check : pMsg->dwResult == false!!!
+[2014-12-16 17:53:17] [115] connect to loginserver
+[2014-12-16 17:54:3] [115] connect to loginserver
+[2014-12-16 20:4:5] [115] connect to loginserver
+[2014-12-16 20:11:19] [115] connect to loginserver
+[2014-12-16 20:24:2] [115] connect to loginserver

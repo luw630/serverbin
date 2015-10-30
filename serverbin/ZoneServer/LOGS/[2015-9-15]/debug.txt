@@ -1,0 +1,92 @@
+[2015-9-15 15:38:56] [115] connect to loginserver
+角色[gmiii][]连接[:0]被[gmiii][192.168.0.200:12568]替换！！！
+角色[gmiii][]连接[:0]被[gmiii][192.168.0.200:14616]替换！！！
+角色[gmiii][]连接[:0]被[gmiii][192.168.0.200:43288]替换！！！
+角色[gmiii][]连接[:0]被[gmiii][192.168.0.200:12825]替换！！！
+角色[gmf4r4][]连接[:0]被[gmf4r4][192.168.0.124:48668]替换！！！
+角色[gmf4r4][]连接[:0]被[gmf4r4][192.168.0.124:53020]替换！！！
+角色[gmf4r4][]连接[:0]被[gmf4r4][192.168.0.124:54812]替换！！！
+角色[gmiii][]连接[:0]被[gmiii][192.168.0.200:19994]替换！！！
+角色[gmiii][]连接[:0]被[gmiii][192.168.0.200:30234]替换！！！
+角色[gmiii][]连接[:0]被[gmiii][192.168.0.200:27163]替换！！！
+[2015-9-19 16:15:41] [115] connect to loginserver
+角色[gmiii][]连接[:0]被[gmiii][192.168.0.200:62491]替换！！！
+角色[gmiii][]连接[:0]被[gmiii][192.168.0.200:19996]替换！！！
+角色[gm195][]连接[:0]被[gm195][192.168.0.166:54025]替换！！！
+角色[gmf4r4][]连接[:0]被[gmf4r4][192.168.0.124:35104]替换！！！
+角色[gmf4r4][]连接[:0]被[gmf4r4][192.168.0.124:39456]替换！！！
+[2015-9-15 19:58:48] [115] connect to loginserver
+[2015-9-15 19:59:28] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:184: attempt to index field 'KickInfo' (a nil value)
+
+[2015-9-15 20:3:22] [115] connect to loginserver
+角色[gmf001][]连接[:0]被[gmf001][192.168.0.124:5936]替换！！！
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+竞技场排行榜未初始化
+角色[gmf002][]连接[:0]被[gmf002][192.168.0.124:27952]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:496: attempt to index local 'QjoinList' (a nil value)
+
+获取军团ID100100001
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:496: attempt to index local 'QjoinList' (a nil value)
+
+获取军团ID100100001
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:496: attempt to index local 'QjoinList' (a nil value)
+
+竞技场排行榜未初始化
+角色[gmf001][]连接[:0]被[gmf001][192.168.0.124:42288]替换！！！
+角色[gmf002][]连接[:0]被[gmf002][192.168.0.124:46128]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:496: attempt to index local 'QjoinList' (a nil value)
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:496: attempt to index local 'QjoinList' (a nil value)
+
+竞技场排行榜未初始化
+角色[gmf001][]连接[:0]被[gmf001][192.168.0.124:63024]替换！！！
+[string "Script\Core\dbmgr.lua"]:76: tab already have __c or __s or __p, conversion interrupted
+
+竞技场排行榜未初始化
+[2015-9-15 20:29:18] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:496: attempt to index local 'QjoinList' (a nil value)
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:496: attempt to index local 'QjoinList' (a nil value)
+
+获取军团ID0
+获取军团ID0
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:496: attempt to index local 'QjoinList' (a nil value)
+
+获取军团ID0
+获取军团ID0
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:496: attempt to index local 'QjoinList' (a nil value)
+
+竞技场排行榜未初始化
+角色[gmf001][]连接[:0]被[gmf001][192.168.0.124:28467]替换！！！
+[string "Script\SanGuoScript\faction\factionManager...."]:321: attempt to index local 'PlayerQFactionList' (a number value)
+
+竞技场排行榜未初始化
+角色[gmf002][]连接[:0]被[gmf002][192.168.0.124:34099]替换！！！
+[string "Script\SanGuoScript\faction\factionManager...."]:321: attempt to index local 'PlayerQFactionList' (a number value)
+
+竞技场排行榜未初始化
+角色[gmf002][]连接[:0]被[gmf002][192.168.0.124:36659]替换！！！
+[string "Script\SanGuoScript\faction\factionManager...."]:321: attempt to index local 'PlayerQFactionList' (a number value)
+
+竞技场排行榜未初始化
+角色[gmf002][]连接[:0]被[gmf002][192.168.0.124:39731]替换！！！
+[string "Script\SanGuoScript\faction\factionManager...."]:321: attempt to index local 'PlayerQFactionList' (a number value)
+
+竞技场排行榜未初始化
+角色[gmf002][]连接[:0]被[gmf002][192.168.0.124:43827]替换！！！
+角色[gmf001][]连接[:0]被[gmf001][192.168.0.124:45875]替换！！！
+角色[gmf002][]连接[:0]被[gmf002][192.168.0.124:47923]替换！！！
+[string "Script\SanGuoScript\faction\playerfaction.l..."]:212: attempt to index local 'nowtimedate' (a nil value)
+
+竞技场排行榜未初始化
+角色[gmf002][]连接[:0]被[gmf002][192.168.0.124:9012]替换！！！
+角色[gmf002][]连接[:0]被[gmf002][192.168.0.124:15668]替换！！！
+角色[gmf002][]连接[:0]被[gmf002][192.168.0.124:20532]替换！！！
+角色[gmf001][]连接[:0]被[gmf001][192.168.0.124:22580]替换！！！
+角色[gmf002][]连接[:0]被[gmf002][192.168.0.124:27700]替换！！！
+角色[gmf002][]连接[:0]被[gmf002][192.168.0.124:16438]替换！！！
+角色[gmf003][]连接[:0]被[gmf003][192.168.0.124:18998]替换！！！

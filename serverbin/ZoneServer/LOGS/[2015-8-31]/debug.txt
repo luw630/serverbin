@@ -1,0 +1,66 @@
+[2015-8-31 15:24:40] [115] connect to loginserver
+[2015-8-31 15:25:7] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\ActivityGiftKe..."]:26: attempt to get length of a function value
+
+[2015-8-31 16:11:20] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\ActivityGiftKe..."]:26: attempt to get length of local 'file' (a userdata value)
+
+[string "Script\SanGuoScript\Activity\ActivityGiftKe..."]:26: attempt to call local 'file' (a userdata value)
+
+[2015-8-31 16:15:11] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\ActivityGiftKe..."]:26: attempt to call local 'file' (a userdata value)
+
+[2015-8-31 16:27:34] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\ActivityGiftKe..."]:26: attempt to call local 'file' (a userdata value)
+
+[2015-8-31 16:33:42] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\ActivityGiftKe..."]:35: bad argument #1 to 'close' (FILE* expected, got string)
+
+角色[gmdisc][]连接[:0]被[gmdisc][192.168.0.76:1814]替换！！！
+角色[gmdisc][]连接[:0]被[gmdisc][192.168.0.76:42518]替换！！！
+角色[gmdisc][]连接[:0]被[gmdisc][192.168.0.76:42774]替换！！！
+角色[gmdisc][]连接[:0]被[gmdisc][192.168.0.76:45334]替换！！！
+角色[gmdisc][]连接[:0]被[gmdisc][192.168.0.76:48406]替换！！！
+角色[gmdisc][]连接[:0]被[gmdisc][192.168.0.76:52246]替换！！！
+角色[gmdisc][]连接[:0]被[gmdisc][192.168.0.76:61974]替换！！！
+[2015-8-31 17:25:39] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\ActivityGiftKe..."]:45: attempt to index global 'GiftCodeManager' (a nil value)
+
+[string "Script\SanGuoScript\Activity\ActivityGiftKe..."]:53: attempt to index field '?' (a nil value)
+
+[2015-8-31 18:14:44] [115] connect to loginserver
+[2015-8-31 18:22:50] [115] connect to loginserver
+[2015-8-31 18:26:7] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\ActivityGiftKe..."]:34: attempt to call global 'GetGiftCodeNum' (a nil value)
+
+[2015-8-31 19:48:17] [115] connect to loginserver
+角色[gmllk][]连接[:0]被[gmllk][192.168.0.200:38999]替换！！！
+角色[gmllk][]连接[:0]被[gmllk][192.168.0.200:6488]替换！！！
+角色[gmllk][]连接[:0]被[gmllk][192.168.0.200:14936]替换！！！
+角色[gmllk][]连接[:0]被[gmllk][192.168.0.200:47192]替换！！！
+[string "Script\SanGuoScript\Activity\ActivityGiftKe..."]:124: attempt to call global 'SendActivityCodeResult' (a nil value)
+
+角色[gmllk][]连接[:0]被[gmllk][192.168.0.200:49240]替换！！！
+[string "Script\SanGuoScript\Activity\ActivityGiftKe..."]:124: attempt to call global 'SendActivityCodeResult' (a nil value)
+
+角色[gmllk][]连接[:0]被[gmllk][192.168.0.200:50008]替换！！！
+[2015-8-31 20:21:24] [115] connect to loginserver
+角色[gmllk][]连接[:0]被[gmllk][192.168.0.200:30043]替换！！！
+角色[gmtrtr][]连接[:0]被[gmtrtr][192.168.0.200:62811]替换！！！
+角色[gmtrtr][]连接[:0]被[gmtrtr][192.168.0.200:22108]替换！！！
+[2015-8-31 20:52:35] [115] connect to loginserver
+[2015-8-31 20:53:39] [115] connect to loginserver
+[2015-8-31 20:54:38] [115] connect to loginserver
+[2015-8-31 20:56:40] [115] connect to loginserver
+[2015-8-31 20:57:47] [115] connect to loginserver
+[2015-8-31 20:58:12] [115] connect to loginserver
+[2015-8-31 20:58:36] [115] connect to loginserver
+[2015-8-31 21:0:16] [115] connect to loginserver
+角色[gmtrtr][]连接[:0]被[gmtrtr][192.168.0.200:12382]替换！！！
+[2015-8-31 21:29:57] [115] connect to loginserver
+[2015-8-31 21:41:48] [115] connect to loginserver
+[2015-8-31 21:44:4] [115] connect to loginserver
+角色[gmhj][]连接[:0]被[gmhj][192.168.0.200:65287]替换！！！
+角色[gmhj][]连接[:0]被[gmhj][192.168.0.200:2312]替换！！！
+角色[gmhj][]连接[:0]被[gmhj][192.168.0.200:5640]替换！！！
+角色[gmhj][]连接[:0]被[gmhj][192.168.0.200:12296]替换！！！

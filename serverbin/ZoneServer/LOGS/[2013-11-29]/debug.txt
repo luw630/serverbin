@@ -1,0 +1,14 @@
+[2013-11-29 16:48:16] [115] connect to loginserver
+Script\π÷ŒÔµÙ¬‰.lua
+
+º”‘ÿGetBlessOpenClose ß∞‹
+[string "Script\XYD3Script\EveryDay_Login.lua"]:27: bad argument #1 to 'maxn' (table expected, got nil)
+
+[2013-11-29 16:57:42] [115] connect to loginserver
+[2013-11-29 17:18:5] [115] connect to loginserver
+[string "Script\XYD3Script\EveryDay_Login.lua"]:27: bad argument #1 to 'maxn' (table expected, got nil)
+
+[string "Script\XYD3Script\EveryDay_Login.lua"]:27: bad argument #1 to 'maxn' (table expected, got nil)
+
+[string "Script\XYD3Script\EveryDay_Login.lua"]:27: bad argument #1 to 'maxn' (table expected, got nil)
+

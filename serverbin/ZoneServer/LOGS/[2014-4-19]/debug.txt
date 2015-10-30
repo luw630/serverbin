@@ -1,0 +1,5 @@
+[2014-4-19 13:38:19] [115] connect to loginserver
+[string "Script\XYD3Script\Task\TaskUtility.lua"]:953: attempt to call global 'GetTableValueIsRepeat' (a nil value)
+
+[string "Script\XYD3Script\Task\TaskUtility.lua"]:953: attempt to call global 'GetTableValueIsRepeat' (a nil value)
+

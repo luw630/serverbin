@@ -1,0 +1,40 @@
+[2014-1-20 11:11:39] [115] connect to loginserver
+角色[20070][郁越彬]连接[:0]被[20070][10.0.100.14:4626]替换！！！
+角色[20070][郁越彬]连接[:0]被[20070][10.0.100.14:60192]替换！！！
+角色[20070][郁越彬]连接[:0]被[20070][:0]替换！！！
+角色[20070][郁越彬]连接[:0]被[20070][10.0.100.14:18981]替换！！！
+check : pMsg->dwResult == false!!!
+角色[20070][郁越彬]连接[:0]被[20070][10.0.100.14:57381]替换！！！
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+cache target not find
+角色[20070][郁越彬]连接[:0]被[20070][10.0.100.14:36155]替换！！！

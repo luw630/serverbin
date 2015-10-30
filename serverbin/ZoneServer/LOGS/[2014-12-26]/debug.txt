@@ -1,0 +1,4 @@
+[2014-12-26 15:25:34] [115] connect to loginserver
+check : pMsg->dwResult == false!!!
+check : pMsg->dwResult == false!!!
+[2014-12-26 21:6:38] [115] connect to loginserver

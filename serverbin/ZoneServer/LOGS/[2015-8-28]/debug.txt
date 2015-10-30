@@ -1,0 +1,39 @@
+[2015-8-28 14:1:29] [115] connect to loginserver
+[2015-8-28 14:26:26] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\factionscene.lua"]:378: 'end' expected (to close 'if' at line 376) near 'break'
+
+[2015-8-28 16:51:49] [115] connect to loginserver
+[2015-8-28 17:49:31] [115] connect to loginserver
+[2015-8-28 17:59:22] [115] connect to loginserver
+[2015-8-28 18:3:38] [115] connect to loginserver
+[2015-8-28 18:15:10] [115] connect to loginserver
+[2015-8-28 18:23:13] [115] connect to loginserver
+[2015-8-28 19:14:20] [115] connect to loginserver
+[2015-8-28 19:21:27] [115] connect to loginserver
+[2015-8-28 19:21:42] [115] connect to loginserver
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:47394]替换！！！
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:50722]替换！！！
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:53026]替换！！！
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:61474]替换！！！
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:64802]替换！！！
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:38692]替换！！！
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:45348]替换！！！
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:55588]替换！！！
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:61732]替换！！！
+角色[gmdzcg][]连接[:0]被[gmdzcg][192.168.0.76:6693]替换！！！
+角色[gmdzcg][]连接[:0]被[gmdzcg][192.168.0.76:6949]替换！！！
+角色[gmdzcg][]连接[:0]被[gmdzcg][192.168.0.76:8741]替换！！！
+角色[gmdzcg][]连接[:0]被[gmdzcg][192.168.0.76:9253]替换！！！
+角色[gmdzcg][]连接[:0]被[gmdzcg][192.168.0.76:9765]替换！！！
+角色[gmdzcg][]连接[:0]被[gmdzcg][192.168.0.76:10277]替换！！！
+角色[gmdzcg][]连接[:0]被[gmdzcg][192.168.0.76:11557]替换！！！
+[string "Script\SanGuoScript\faction\factionscene.lu..."]:161: attempt to concatenate field 'ChallengeCount' (a nil value)
+
+角色[gmdzcg][]连接[:0]被[gmdzcg][192.168.0.76:12837]替换！！！
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:16677]替换！！！
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:21030]替换！！！
+角色[gmwang][]连接[:0]被[gmwang][192.168.0.76:23846]替换！！！
+角色[gmwang][]连接[:0]被[gmwang][192.168.0.76:27942]替换！！！
+角色[gmwang][]连接[:0]被[gmwang][192.168.0.76:28454]替换！！！
+角色[gmdda][]连接[:0]被[gmdda][192.168.0.76:32550]替换！！！
+角色[gmdog][]连接[:0]被[gmdog][192.168.0.76:35110]替换！！！

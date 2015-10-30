@@ -1,0 +1,44 @@
+[2015-7-22 9:52:57] [115] connect to loginserver
+角色[gmcccc][]连接[:0]被[gmcccc][192.168.0.200:8979]替换！！！
+角色[gmcccc][]连接[:0]被[gmcccc][192.168.0.200:19220]替换！！！
+角色[gmbbbb][]连接[:0]被[gmbbbb][192.168.0.200:41492]替换！！！
+角色[gmbbbb][]连接[:0]被[gmbbbb][192.168.0.200:47892]替换！！！
+角色[gmbbbb][]连接[:0]被[gmbbbb][192.168.0.200:54804]替换！！！
+角色[gmbbbb][]连接[:0]被[gmbbbb][192.168.0.200:57108]替换！！！
+角色[gmbbbb][]连接[:0]被[gmbbbb][192.168.0.200:60948]替换！！！
+角色[gmbbbb][]连接[:0]被[gmbbbb][192.168.0.200:16405]替换！！！
+[gmbbbb][2015-7-22 10:33:43] [密] gmbbbb 对 hao 说 lalllal
+角色[hao][]连接[:0]被[hao][192.168.0.200:19477]替换！！！
+角色[hao][]连接[:0]被[hao][192.168.0.200:21781]替换！！！
+[hao][2015-7-22 10:35:39] [密] hao 对 hao 说 asda
+竞技场排行榜未初始化
+[hao][2015-7-22 10:35:55] [密] hao 对 hao 说 bbb
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+[hao][2015-7-22 10:42:1] [密] hao 对 hao 说 awe
+竞技场排行榜未初始化
+[hao][2015-7-22 10:43:54] [密] hao 对 hao 说 121
+角色[hao][]连接[:0]被[hao][192.168.0.200:29973]替换！！！
+[hao][2015-7-22 10:45:34] [密] hao 对 hao 说 ```
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+角色[hao][]连接[:0]被[hao][192.168.0.200:39445]替换！！！
+[hao][2015-7-22 10:48:12] [密] hao 对 hao 说 321
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+[2015-7-22 13:50:19] [115] connect to loginserver
+[2015-7-22 15:29:7] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:218: attempt to compare nil with number
+
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+
+角色[gmhao][]连接[:0]被[gmhao][192.168.0.200:6955]替换！！！
+[string "Script\SanGuoScript\Activity\Act_func.lua"]:1: '=' expected near '-'
+

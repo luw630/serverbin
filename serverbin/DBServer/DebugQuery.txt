@@ -1,0 +1,233 @@
+2015-10-8 16:42:47 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-8 16:42:54 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-9 15:54:3 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-9 16:56:45 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-9 16:58:45 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-9 16:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-9 17:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 13:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 14:12:49 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 14:12:55 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 14:17:29 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 14:22:52 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 14:23:48 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 14:25:23 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 14:27:30 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 14:29:2 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 14:29:50 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 14:37:51 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 14:38:20 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 14:40:45 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 14:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 15:13:56 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 15:14:2 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 15:20:51 ## ExecuteStmt ## Duplicate entry '100100002' for key 'PRIMARY'
+2015-10-13 15:47:2 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 15:49:53 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 15:49:58 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 15:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 17:20:51 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 17:21:12 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 17:22:3 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 17:31:49 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 17:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 17:59:24 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 17:59:52 ## ExecuteStmt ## Duplicate entry '100100005' for key 'PRIMARY'
+2015-10-13 19:30:56 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-13 19:31:1 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-15 13:42:9 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-15 13:42:26 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-15 14:9:40 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-15 15:22:4 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-15 15:22:42 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-15 15:23:13 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-15 15:25:5 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-15 15:25:33 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-15 15:38:21 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-15 15:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-15 16:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-15 17:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-16 13:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-16 14:12:40 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-16 14:29:58 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-16 14:34:56 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-16 15:30:44 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-16 15:36:25 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-16 15:37:58 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-16 15:51:59 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-16 15:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-16 15:59:41 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-16 16:0:16 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-16 16:40:48 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-16 16:40:53 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-16 16:49:57 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-16 16:54:7 ## ExecuteStmt ## Duplicate entry '100100003' for key 'PRIMARY'
+2015-10-16 16:54:9 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-16 17:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-19 18:19:48 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-20 15:58:56 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-20 15:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-20 16:0:50 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-20 16:10:26 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-20 16:10:51 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-20 16:23:12 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-20 16:54:24 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-20 16:59:1 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-20 17:21:50 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-20 17:23:58 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-20 17:25:40 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-20 17:38:42 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-20 17:41:22 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-20 17:59:1 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-21 16:0:10 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-21 16:40:26 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-21 16:41:54 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-21 16:42:1 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-21 17:29:32 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-21 17:42:43 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-21 17:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-21 19:58:28 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-21 20:16:17 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-21 20:26:17 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-21 20:42:21 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-21 20:47:22 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-21 20:57:22 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-21 21:2:22 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-22 13:33:47 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 13:43:45 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 13:44:51 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 13:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 14:31:16 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 14:45:51 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 14:46:29 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 14:47:40 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 15:15:1 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 15:27:54 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-22 15:33:2 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 15:37:54 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-22 15:42:54 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-22 15:47:55 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-22 15:52:55 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-22 15:57:52 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 15:57:55 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-22 15:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 16:2:55 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-22 16:7:55 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-22 16:39:42 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-22 16:44:42 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-22 16:53:23 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 16:57:45 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 16:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 17:12:51 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 17:26:35 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 17:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-22 18:9:43 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-23 13:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-23 14:21:55 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-23 14:32:15 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-23 14:37:15 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-23 14:42:15 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-23 14:43:37 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-23 14:46:4 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-23 14:47:15 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-23 14:54:52 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-23 14:59:1 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-23 14:59:52 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-23 15:4:53 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-23 15:12:4 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-23 15:13:56 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-24 15:18:35 ## Query::KeepAlive ## Ado[1] [MSG]连接断开, 重连接成功!
+2015-10-24 15:18:48 ## Query::KeepAlive ## Ado[1] [持久层]连接断开, 重连接成功!
+2015-10-24 15:18:54 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-24 15:27:29 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-24 15:40:6 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 15:50:7 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 15:55:7 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 15:57:40 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-24 15:58:59 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-24 16:10:8 ## ExecuteStmt ## Duplicate entry '103100218' for key 'PRIMARY'
+2015-10-24 16:25:9 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 16:25:9 ## ExecuteStmt ## Duplicate entry '103100218' for key 'PRIMARY'
+2015-10-24 16:45:10 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 16:50:11 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 16:55:11 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 16:58:59 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-24 17:0:11 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 17:5:11 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 17:8:32 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 17:11:27 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-24 17:15:10 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 17:20:10 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 17:25:10 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 17:27:22 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-24 17:34:16 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-24 17:43:49 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-24 17:45:11 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 17:50:11 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 17:51:46 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-24 17:54:48 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-24 17:54:54 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-24 17:55:12 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 17:55:21 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-24 18:0:12 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 18:5:12 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 18:10:13 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 19:13:54 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-24 19:37:28 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 14:48:52 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 14:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-26 15:43:3 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-26 15:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-26 16:29:36 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-26 16:46:42 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-26 16:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-26 17:58:59 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 12:12:57 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 13:40:24 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 13:43:47 ## ExecuteStmt ## Duplicate entry '103100222' for key 'PRIMARY'
+2015-10-27 13:44:40 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 13:52:21 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 13:57:47 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-27 13:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 14:30:4 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 14:31:10 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-27 14:36:10 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-27 14:36:10 ## ExecuteStmt ## Duplicate entry '103100222' for key 'PRIMARY'
+2015-10-27 14:41:10 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-27 14:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 14:59:0 ## RPCERR.txt ## Proc[N_OnlineNum_Set] opNo.[7] LiteError[执行存储过程失败]
+2015-10-27 15:39:20 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 15:46:1 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 15:50:56 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 15:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 16:23:7 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 16:26:33 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-27 16:31:34 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 16:36:34 ## ExecuteStmt ## Duplicate entry '103100224' for key 'PRIMARY'
+2015-10-27 16:36:34 ## ExecuteStmt ## Duplicate entry '103100222' for key 'PRIMARY'
+2015-10-27 16:43:40 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 16:44:23 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 16:45:7 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 16:45:56 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 16:51:58 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 16:53:36 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-27 16:56:44 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 16:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 17:23:37 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-27 17:23:38 ## ExecuteStmt ## Duplicate entry '103100222' for key 'PRIMARY'
+2015-10-27 17:33:37 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-27 17:38:38 ## ExecuteStmt ## Duplicate entry '103100219' for key 'PRIMARY'
+2015-10-27 17:41:47 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-27 17:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-28 13:27:7 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-28 13:33:39 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-28 13:34:55 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-28 13:53:56 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-28 13:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-28 14:2:4 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-28 14:12:42 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-28 14:21:22 ## ExecuteStmt ## Duplicate entry '103100226' for key 'PRIMARY'
+2015-10-28 14:36:21 ## ExecuteStmt ## Duplicate entry '103100226' for key 'PRIMARY'
+2015-10-28 15:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-30 13:43:38 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-10-30 13:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!

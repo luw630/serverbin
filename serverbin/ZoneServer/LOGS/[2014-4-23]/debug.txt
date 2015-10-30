@@ -1,0 +1,6 @@
+[2014-4-23 11:3:46] [115] connect to loginserver
+[2014-4-23 11:6:54] [115] connect to loginserver
+[2014-4-23 11:9:2] [115] connect to loginserver
+角色[200366][白鸿]连接[:0]被[200366][10.0.100.14:41279]替换！！！
+[2014-4-23 17:36:5] [115] connect to loginserver
+[2014-4-23 19:59:34] [115] connect to loginserver

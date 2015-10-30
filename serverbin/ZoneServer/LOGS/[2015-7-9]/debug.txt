@@ -1,0 +1,51 @@
+[2015-7-9 11:5:18] [115] connect to loginserver
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:12: attempt to concatenate global 'g_ActivityStartTime' (a nil value)
+
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:12: attempt to concatenate global 'g_ActivityStartTime' (a nil value)
+
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:12: attempt to concatenate global 'g_ActivityStartTime' (a nil value)
+
+[string "Script\SanGuoScript\Activity\ActivityManage..."]:12: attempt to concatenate global 'g_ActivityStartTime' (a nil value)
+
+[2015-7-9 14:30:8] [115] connect to loginserver
+[2015-7-9 17:24:50] [115] connect to loginserver
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+竞技场分发奖励用时 1
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\DBDataServic..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[2015-7-9 17:25:43] [115] connect to loginserver
+[2015-7-9 17:25:45] [115] connect to loginserver
+[2015-7-9 17:25:46] [115] connect to loginserver

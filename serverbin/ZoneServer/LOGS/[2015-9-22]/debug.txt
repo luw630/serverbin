@@ -1,0 +1,36 @@
+[2015-9-22 15:49:46] [115] connect to loginserver
+[string "Script\SanGuoScript\DataCenter\OfflinePlaye..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\OfflinePlaye..."]:30: bad argument #1 to 'pairs' (table expected, got nil)
+
+获取军团ID0
+[2015-9-22 16:33:59] [115] connect to loginserver
+[2015-9-22 16:34:12] [115] connect to loginserver
+[2015-9-22 20:38:18] [115] connect to loginserver
+[string "Script\SanGuoScript\faction\playerfaction.lua"]:591: '=' expected near ']'
+
+[string "Script\SanGuoScript\DataCenter\OfflinePlaye..."]:28: attempt to index field 'data' (a nil value)
+
+[2015-9-22 20:40:58] [115] connect to loginserver
+[2015-9-22 20:41:9] [115] connect to loginserver
+[2015-9-22 20:44:25] [115] connect to loginserver
+[string "Script\SanGuoScript\DataCenter\OfflinePlaye..."]:33: bad argument #1 to 'pairs' (table expected, got nil)
+
+获取军团ID100100006
+[2015-9-22 20:59:39] [115] connect to loginserver
+[string "Script\SanGuoScript\DataCenter\OfflinePlaye..."]:33: bad argument #1 to 'pairs' (table expected, got nil)
+
+[string "Script\SanGuoScript\DataCenter\OfflinePlaye..."]:33: bad argument #1 to 'pairs' (table expected, got nil)
+
+获取军团ID100100007
+[2015-9-22 21:9:28] [115] connect to loginserver
+[string "Script\SanGuoScript\DataCenter\OfflinePlaye..."]:33: bad argument #1 to 'pairs' (table expected, got nil)
+
+[2015-9-22 21:11:37] [115] connect to loginserver
+[string "Script\SanGuoScript\DataCenter\OfflinePlaye..."]:33: bad argument #1 to 'pairs' (table expected, got nil)
+
+[2015-9-22 21:18:54] [115] connect to loginserver
+角色[gmfgh551000][]连接[:0]被[gmfgh551000][192.168.0.124:44577]替换！！！
+[string "Script\SanGuoScript\DataCenter\OfflinePlaye..."]:33: bad argument #1 to 'pairs' (table expected, got nil)
+
+[2015-9-22 21:25:21] [115] connect to loginserver

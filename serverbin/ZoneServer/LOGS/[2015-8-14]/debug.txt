@@ -1,0 +1,45 @@
+[2015-8-14 14:4:24] [115] connect to loginserver
+角色[gmfff][]连接[:0]被[gmfff][192.168.0.200:45353]替换！！！
+[2015-8-14 14:23:29] [115] connect to loginserver
+角色[gmrrr][]连接[:0]被[gmrrr][192.168.0.200:38698]替换！！！
+[2015-8-14 14:25:48] [115] connect to loginserver
+[2015-8-14 14:28:18] [115] connect to loginserver
+角色[gmrrr][]连接[:0]被[gmrrr][192.168.0.200:56874]替换！！！
+[2015-8-14 14:30:34] [115] connect to loginserver
+[2015-8-14 14:43:56] [115] connect to loginserver
+[2015-8-14 15:29:58] [115] connect to loginserver
+角色[gmrrr][]连接[:0]被[gmrrr][192.168.0.200:7982]替换！！！
+角色[gmooo][]连接[:0]被[gmooo][192.168.0.200:15406]替换！！！
+角色[gmooo][]连接[:0]被[gmooo][192.168.0.200:26670]替换！！！
+角色[gmooo][]连接[:0]被[gmooo][192.168.0.200:48174]替换！！！
+角色[gmooo][]连接[:0]被[gmooo][192.168.0.200:53038]替换！！！
+角色[gmooo][]连接[:0]被[gmooo][192.168.0.200:55342]替换！！！
+角色[gmooo][]连接[:0]被[gmooo][192.168.0.200:62510]替换！！！
+角色[gmooo][]连接[:0]被[gmooo][192.168.0.200:2607]替换！！！
+角色[gmooo][]连接[:0]被[gmooo][192.168.0.200:3887]替换！！！
+角色[gmooo][]连接[:0]被[gmooo][192.168.0.200:26159]替换！！！
+[2015-8-14 16:12:56] [115] connect to loginserver
+角色[gmooo][]连接[:0]被[gmooo][192.168.0.200:54319]替换！！！
+角色[gmooo][]连接[:0]被[gmooo][192.168.0.200:58159]替换！！！
+角色[gmooo][]连接[:0]被[gmooo][192.168.0.200:63791]替换！！！
+角色[gmooo][]连接[:0]被[gmooo][192.168.0.200:59952]替换！！！
+角色[gmeee][]连接[:0]被[gmeee][192.168.0.200:41016]替换！！！
+角色[gmdddssd][]连接[:0]被[gmdddssd][192.168.0.200:23099]替换！！！
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:53: attempt to compare number with table
+
+角色[gmh][]连接[:0]被[gmh][192.168.0.200:34878]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:53057]替换！！！
+角色[gmbb][]连接[:0]被[gmbb][192.168.0.200:60481]替换！！！
+[2015-8-14 20:13:49] [115] connect to loginserver
+角色[gmrt3][]连接[:0]被[gmrt3][192.168.0.124:28230]替换！！！
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:29: attempt to index upvalue 'PrayerShopData' (a nil value)
+
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:33: attempt to index upvalue 'PrayerShopData' (a nil value)
+
+竞技场排行榜未初始化
+竞技场排行榜未初始化
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:19: unexpected symbol near ')'
+
+[string "Script\SanGuoScript\Prayer\Prayer_Shop.lua"]:108: attempt to concatenate local 'v' (a table value)
+
