@@ -231,3 +231,9 @@
 2015-10-28 15:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
 2015-10-30 13:43:38 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
 2015-10-30 13:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-11-2 15:54:34 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-11-2 15:55:37 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-11-2 15:59:0 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-11-2 16:1:36 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-11-2 16:6:51 ## Query::KeepAlive ## Ado[1] [RPC]连接断开, 重连接成功!
+2015-11-2 16:23:8 ## ExecuteStmt ## Duplicate entry '103100225' for key 'PRIMARY'

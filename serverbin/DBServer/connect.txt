@@ -574,3 +574,22 @@ PlayeConnectCenterServer: 3
 PlayeConnectCenterServer: 4  
 PlayeConnectCenterServer: 5  
 PlayeConnectCenterServer: 6  
+PlayeConnectCenterServer: 7  
+PlayeConnectCenterServer: 1    PlayeConnectZoneServer :1 
+PlayeConnectCenterServer: 2    PlayeConnectZoneServer :2 
+PlayeConnectCenterServer: 3  
+PlayeConnectCenterServer: 4    PlayeConnectZoneServer :3 
+PlayeConnectCenterServer: 5  
+PlayeConnectCenterServer: 6    PlayeConnectZoneServer :4 
+PlayeConnectCenterServer: 7  
+PlayeConnectCenterServer: 8    PlayeConnectZoneServer :5 
+PlayeConnectCenterServer: 9  
+PlayeConnectCenterServer: 10  
+PlayeConnectCenterServer: 11  
+PlayeConnectCenterServer: 12  
+PlayeConnectCenterServer: 13    PlayeConnectZoneServer :6 
+PlayeConnectCenterServer: 14  
+PlayeConnectCenterServer: 15  
+PlayeConnectCenterServer: 16  
+PlayeConnectCenterServer: 17  
+PlayeConnectCenterServer: 18  

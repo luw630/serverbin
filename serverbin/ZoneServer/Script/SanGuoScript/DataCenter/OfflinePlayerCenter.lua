@@ -81,7 +81,7 @@ function CheckClearup(  )
 	local ntime = os.time()
 	local nowday =  tonumber(os.date("%Y%m%d",ntime))	
 	local Startday = tonumber(os.date("%Y%m%d",m_CleanUpStartTime))
-	local StartTime = tonumber(os.date("*t",ntime))
+	local StartTime = os.date("*t",ntime)
 	if nowday - Startday >= OFFINECLEANDAY then
 		if StartTime.hour >= FactionSceneResetTime then
 			ClearupOfflinePlayerData()

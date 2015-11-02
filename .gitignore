@@ -201,6 +201,9 @@ var/
 sdist/
 develop-eggs/
 .installed.cfg
+serverbin/ZoneServer/LOGS/
+serverbin/ZoneServer/Script/SanGuoScript/lua/
+
 
 # Installer logs
 pip-log.txt

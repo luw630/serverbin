@@ -795,11 +795,14 @@ function RequestSceneEquipment(sid,elevle,EIndex) --玩家申请副本掉落的�
 
 	local RequestEquipment =  Faction_QuestEquipt[elevle][EIndex]
 	local questEquipmentnum = GetQuestEquipmentPepleNum(FactionID,RequestEquipment)
+	look("RequestSceneEquipment  num "..questEquipmentnum.."   FactionInfo "..FactionInfo.FactionID)
 	if questEquipmentnum < 0 then
 		SendRqEquiptResult(sid,4)
+		look("SendRqEquiptResult 4")
 		return 4
 	elseif questEquipmentnum >= FACTIONMAXQUESTNUM then
-		SendRqEquiptResult(sid,5)
+		SendRqEquiptResult(sid,3)
+		look("SendRqEquiptResult 5")
 		return 3
 	end
 
