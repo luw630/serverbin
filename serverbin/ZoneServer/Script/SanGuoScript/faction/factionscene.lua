@@ -334,7 +334,7 @@ function OnChallengeFinish( sid,HurtValue ) --关卡挑战完成，发送伤害�
 					v.stauts = 1 			--状态为已经通关
 					v.BossHP = 0
 					FactionInfo.SceneStatus[sceneID].scenemapCount = FactionInfo.SceneStatus[sceneID].scenemapCount + 1
-					DropEquipment(FactionInfo,sceneID,scenemapIndex)
+					DropEquipment(FactionInfo,sceneID,scenemapIndex,PlayerName)
 					break
 				end
 			end
@@ -769,8 +769,10 @@ function ShowSceneEquipment( sid ) --玩家查看副本中可以掉落的准备
 			sendEquiptlist[i] = {}
 			for j,k in ipairs(v) do
 				local equiptnum = GetFactionEquipmentNum(FactionInfo,k)
+				local questEquipnum = GetQuestEquipmentPepleNum(FactionInfo.FactionID,k)
 				table.insert(sendEquiptlist[i],k)
 				table.insert(sendEquiptlist[i],equiptnum)
+				table.insert(sendEquiptlist[i],questEquipnum)
 			end
 		end
 		--look(sendEquiptlist)
@@ -795,14 +797,12 @@ function RequestSceneEquipment(sid,elevle,EIndex) --玩家申请副本掉落的�
 
 	local RequestEquipment =  Faction_QuestEquipt[elevle][EIndex]
 	local questEquipmentnum = GetQuestEquipmentPepleNum(FactionID,RequestEquipment)
-	look("RequestSceneEquipment  num "..questEquipmentnum.."   FactionInfo "..FactionInfo.FactionID)
 	if questEquipmentnum < 0 then
 		SendRqEquiptResult(sid,4)
-		look("SendRqEquiptResult 4")
 		return 4
 	elseif questEquipmentnum >= FACTIONMAXQUESTNUM then
 		SendRqEquiptResult(sid,3)
-		look("SendRqEquiptResult 5")
+		--look("SendRqEquiptResult 5")
 		return 3
 	end
 
@@ -888,7 +888,7 @@ function AddEquipToFaction( FactionInfo,EquipmentIndex,num )
 	end
 end
 
-function DropEquipment( FactionInfo,sceneID, scenemapIndex) --BOSS死亡掉落装备
+function DropEquipment( FactionInfo,sceneID, scenemapIndex,dropPlayerName) --BOSS死亡掉落装备
 	look("DropEquipment "..sceneID.."  Index "..scenemapIndex)
 	if FactionInfo ~= nil then
 		if FactionSceneMap[sceneID] ~= nil and FactionSceneMap[sceneID][scenemapIndex] ~= nil then
@@ -909,12 +909,19 @@ function DropEquipment( FactionInfo,sceneID, scenemapIndex) --BOSS死亡掉落�
 					end
 				end
 				assert(randomcount <= #scenemap.Random,"DropEquipment randomcount ERROR")
+				local DropEquip = {}
 				local  equipnum = #scenemap.Equipment
 				for i=1,randomcount do
 					local randomindex = LuaRandRange(1,equipnum) 
 					AddEquipToFaction(FactionInfo,scenemap.Equipment[randomindex],1)
+					table.insert(DropEquip,scenemap.Equipment[randomindex])
 				end
 
+				for k,v in pairs(DropEquip) do
+					OnAddFactionLog(FactionInfo.FactionID,FACTIONOPERATE.DROPEQUIP,dropPlayerName,v) --副本装备掉落日志
+				end
+
+	
 				if FactionInfo.QuestEquipmentList ~= nil then
 					for k,v in pairs(FactionInfo.QuestEquipmentList) do
 						if GetFactionEquipmentNum(FactionInfo,k) > 0 then
@@ -997,7 +1004,7 @@ function PlayerCanceledQuest( sid ) --玩家取消申请
 
 end
 
-local FuestEquipt = FACTIONEXPUPDATE
+
 function testRemove()
 	local random = FactionSceneMap[920000][1].Random
 	local Randommap = {}
@@ -1016,9 +1023,30 @@ function testRemove()
 		end
 
 	end
-	for i,v in ipairs(Randommap) do
+
+	local  DropEquip = {}
+	local DropEquipStr = ""
+	local  equipnum = #FactionSceneMap[920000][1].Equipment
+	for i=1,randomcount do
+		local randomindex = LuaRandRange(1,equipnum) 
+		local equipid = FactionSceneMap[920000][1].Equipment[randomindex]
+		DropEquipStr = DropEquipStr..tostring(equipid)..","
+		table.insert(DropEquip,equipid)
+	end
+
+	local len = string.len(DropEquipStr)
+	 DropEquipStr = string.sub(DropEquipStr,1,len-1)
+
+	
+	look(DropEquipStr)
+	for k,v in pairs(DropEquip) do
+		--DropEquipStr = DropEquipStr..tostring(v)..","
 		look(v)
 	end
+
+	-- for i,v in ipairs(Randommap) do
+	-- 	look(v)
+	-- end
 	
 	-- for i,v in ipairs(FuestEquipt) do
 	-- 	look(i.."   =   "..v)

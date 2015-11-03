@@ -22,7 +22,7 @@ FACTIONOPERATE =  --军团操作日志类型
 	GOTSALARY = 7,  --领取到俸禄
 	GOTEQUIPMENT = 8,  --领取到申请的装备
 	SENDEMAILALL = 9,  --发送了群发邮件
-
+	DROPEQUIP = 10,  --在军团副本掉落的装备
 }
 QUESTFACTIONMAX = 3	--最多申请军团数量
 QUESTLISTMAX = 20      --军团最多接受的申请数量

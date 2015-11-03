@@ -593,3 +593,12 @@ PlayeConnectCenterServer: 15
 PlayeConnectCenterServer: 16  
 PlayeConnectCenterServer: 17  
 PlayeConnectCenterServer: 18  
+PlayeConnectCenterServer: 19    PlayeConnectZoneServer :7 
+PlayeConnectCenterServer: 20    PlayeConnectZoneServer :8 
+PlayeConnectCenterServer: 21  
+PlayeConnectCenterServer: 22    PlayeConnectZoneServer :9 
+PlayeConnectCenterServer: 23    PlayeConnectZoneServer :10 
+PlayeConnectCenterServer: 24  
+PlayeConnectCenterServer: 1    PlayeConnectZoneServer :1 
+PlayeConnectCenterServer: 1    PlayeConnectZoneServer :1 
+PlayeConnectCenterServer: 2    PlayeConnectZoneServer :2 
