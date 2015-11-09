@@ -292,7 +292,7 @@ function OnInitPrayer( sid ) --玩家祈福初始化
 	--Prayer.bShopOpened = GetGoldPrayerEnable(sid)
 	--look("OnInitPrayer   "..sid)
 	SendInitPrayer(sid,GetPrayerPointRank(),Prayer)
-	--look(Prayer)
+	look(GetPrayerPointRank())
 end
 
 

@@ -1,0 +1,13 @@
+dofile("SanGuoScript\\Activity\\ActivityConfig\\PassingLevelActConfig.lua")
+dofile ("SanGuoScript\\Activity\\ActivityConfig\\HeroNumsActConfig.lua")
+dofile ("SanGuoScript\\Activity\\ActivityConfig\\HeroLevelsActConfig.lua")
+dofile ("SanGuoScript\\Activity\\ActivityConfig\\expenseConfig.lua")
+dofile ("SanGuoScript\\Activity\\ActivityConfig\\BlessActivityConfig.lua")
+dofile("SanGuoScript\\Activity\\ActivityConfig\\ChargeSumConfig.lua")
+dofile("SanGuoScript\\Activity\\ActivityConfig\\ActivityConfig.lua")
+
+dofile("SanGuoScript\\Activity\\ActivityConfig\\Act_conf.lua")
+dofile("SanGuoScript\\Activity\\ActivityConfig\\FirstRecharge.lua")
+dofile("SanGuoScript\\Activity\\ActivityConfig\\GiftKey.lua")
+dofile("SanGuoScript\\Activity\\ActivityConfig\\TreasureConfig.lua")
+dofile("SanGuoScript\\Activity\\ActivityConfig\\WeekReturnMoneyConfig.lua")

@@ -62,6 +62,9 @@ dofile("Global.lua");
 dofile("Core\\init.lua");
 dofile("XYD3Script\\ScriptDefine.lua")
 dofile("XYD3Script\\PlayerRewardfunction.lua")
+dofile("RankList\\RankInit.lua")
+dofile("SanGuoScript\\init.lua")
+
 
 --dofile("副本系统\\配置数据\\副本配置.lua");
 --dofile("新任务\\init.lua");
@@ -80,13 +83,13 @@ dofile("XYD3Script\\PlayerRewardfunction.lua")
 -- dofile("Shop\\ShopInit.lua")
 -- dofile("PetSys\\PetInit.lua")
  -- dofile("Recharge\\Init.lua")
-dofile("RankList\\RankInit.lua")
+
 -- dofile("ActivenessDegree\\ActivenessInit.lua")
  -- dofile("OperateActivite\\Init.lua")
 --20150121 wk 注释掉 end
 
 ---20150121 wk 新加三国相关
-dofile("SanGuoScript\\init.lua")
+
 -------------------------------------------------------------------------
 function dofile_p(path, filename)
      local newstring = path.. filename;

@@ -4,11 +4,6 @@ author:	wk
 update:	2015-07-09
 desc:首冲
 ]]--
-local f_recharge_conf={
-	{GoodsType.hero, 101, 1 },--{类型，itemID, 数量} （如果类型不等于item，则填0）
-	{GoodsType.money, 0, 188888 },
-	{GoodsType.item,  20001,30 },
-}
 
 function f_recharge_award(sid)
 	local state=get_Exdata(sid, 3) 

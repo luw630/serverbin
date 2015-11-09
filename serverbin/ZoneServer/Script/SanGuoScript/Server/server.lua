@@ -55,6 +55,7 @@ function SI_EveryDay_24()
 	db_saveStayData()	--保存今日在线玩家,留存数据使用
 	db_lvlog()	--保存玩家等级数据个数
 	ResetChargeSumData() --重置累计充值数据 
+	ResetExpenseData() --重置每日消费数据 
 end
 
 

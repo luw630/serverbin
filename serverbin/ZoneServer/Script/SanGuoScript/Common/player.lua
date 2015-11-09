@@ -1,4 +1,4 @@
---[[
+	--[[
 file:	player.lua
 author:	wk
 update:	2015-01-26
@@ -53,11 +53,19 @@ function OnPlayerOnline(sid)
 	SynMissionActivenessDataToClient(sid)--同步任务活跃度数据到客户端
 	SynHeroExDataToClient(sid)--同步玩家武将的相关数据到客户端
 	SendRewardState(sid)
+	SynPassingLevelActData(sid)--同步通关次数奖励活动的数据
+	SynHeroNumsActData(sid)--同步英雄收集活动的数据到客户端
+	SynHeroLevelActData(sid)--同步英雄等级改变活动的数据到客户端
 	SynMembershipDate(sid) --上线同步月卡会员数据
 	--Callback_WeekReMoney(sid)--通知客户端玩家的基金信息
 	RemoneyActivity:OnTrigger(sid)
 	UpdatePlayerLogin(sid)
 	OnUpdataPrayerPointLogin(sid)
+	
+	expenseACT_online(sid)  --消费领奖活动登陆数据同步
+	expense_backACT_online(sid) --消费返还活动登陆数据同步
+	SendBlessActData(sid) --祈福活动领取状态的数据同步
+	sendTotalDiamond(sid)--玩家累计获得元宝数据同步
 
 end
 
@@ -163,9 +171,13 @@ function IsOnline(sid)
 	return true
 end
 
-function OnPlayerDecGoods_SG( sid,itype,id,inum ) --玩家扣钱，道具，体力
+--玩家物品扣除回调
+function OnPlayerDecGoods_SG( sid,itype,id,num ) --玩家扣钱，道具，体力
  	if itype == GoodsType.endurance then   --体力扣除
- 		OnFactionDecGoods(sid,itype,id,inum)
+ 		OnFactionDecGoods(sid,itype,id,num)
+	elseif  itype == GoodsType.diamond then   --消费元宝
+		expenseACT_add(sid,num)
+		expense_backACT_add(sid,num)
  	end
 end
 

@@ -1,4 +1,7 @@
+
+local activeMsg=msgh_s2c_def[s2c_msg.act][5] 
 SAVEDATADIFFTIME = 30 * 60    --保存的间隔时间
+
 function ActInit()
 	if g_ActivityManager == nil then
 		g_ActivityManager = {}
@@ -159,7 +162,73 @@ function ActivityOnCharge(sid, chargeNum) --当玩家充值以后
 	end
 end
 
+function OnGetActivityStatus(sid,index )
+	local activitydata = {}
+	for k,v in pairs(g_ActivityManager) do
+		for i,j in pairs(v) do
+			local temp = {}
+			temp.ActivityID = j.ActivityID
+			temp.Astarttime = j.ActivityTime.starttime
+			temp.Aendtime = j.ActivityTime.endtime
+			temp.AEnable = j.ActivityEnable
+			table.insert(activitydata,temp)
+		end
+	end
+	-- look("OnGetActivityStatus ")
+	-- look(activeMsg)
+	-- look(activitydata)
+	SendLuaMsg(0,{ids=activeMsg,pdata=activitydata})
+	
+	--look(activitydata)
+end
 
+--当玩家通关某一个普通关卡的时候才会触发的活动
+function ActOnPassingLevel(sid, amount)
+	if g_ActivityManager[ActivityType.PASSINGLEVEL_TRIGGER] == nil then
+		return
+	end
+	--look("ActOnPassingLevel"..sid)
+	for k,v in pairs(g_ActivityManager[ActivityType.PASSINGLEVEL_TRIGGER]) do  --多个参数传递table
+		if v:GetActivityEnable() == true then
+		--look("ActOnPassingLevel call ==  true")
+			local paramtable = {}
+			paramtable[sid] = amount
+			v:OnTrigger(paramtable)
+		end
+	end
+end
+
+--当玩家的武将等级提升后的才会触发的活动
+function ActOnHeroLevelUp(sid, level)
+	if g_ActivityManager[ActivityType.HEROLEVEL_INC_TRIGGER] == nil then
+		return
+	end
+	--look("ActOnHeroLevelUp"..sid)
+	for k,v in pairs(g_ActivityManager[ActivityType.HEROLEVEL_INC_TRIGGER]) do  --多个参数传递table
+		if v:GetActivityEnable() == true then
+		--look("ActOnHeroLevelUp call ==  true")
+			local paramtable = {}
+			paramtable[sid] = level
+			v:OnTrigger(paramtable)
+		end
+	end
+end
+
+--当玩家的武将数量发生变化的时候才会触发的活动
+function ActOnHeroNumInc(sid, amount)
+	if g_ActivityManager[ActivityType.HERONUM_INC_TRIGGER] == nil then
+		return
+	end
+	--look("ActOnHeroNumInc"..sid)
+	for k,v in pairs(g_ActivityManager[ActivityType.HERONUM_INC_TRIGGER]) do  --多个参数传递table
+		if v:GetActivityEnable() == true then
+		--look("ActOnHeroNumInc call ==  true")
+			local paramtable = {}
+			paramtable[sid] = amount
+			v:OnTrigger(paramtable)
+		end
+	end
+end
 
 ActInit()
 

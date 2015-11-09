@@ -26,3 +26,9 @@ function OnLoginRefresh(sid, refreshType) --登录时的刷新，refreshType = 5
 		ResetFriendData(sid) --重置好友数据
 	end
 end
+
+--玩家的某个武将升级后触发的回调
+function OnHeroLevelUp(sid, heroID, level)
+	--武将升级的相关的活动
+	ActOnHeroLevelUp(sid, level)
+end

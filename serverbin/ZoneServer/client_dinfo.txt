@@ -2280,3 +2280,10 @@
 [2015-10-27 12:12:17]receiving package failure !!!
 [2015-10-28 13:33:9]receiving package failure !!!
 [2015-10-28 13:33:9]receiving package failure !!!
+[2015-11-5 16:10:45]receiving package failure !!!
+[2015-11-5 16:10:45]receiving package failure !!!
+[2015-11-5 19:44:25]与服务器连接失败!
+[2015-11-5 19:46:10]receiving package failure !!!
+[2015-11-5 19:46:10]receiving package failure !!!
+[2015-11-6 16:13:51]receiving package failure !!!
+[2015-11-6 16:13:51]receiving package failure !!!

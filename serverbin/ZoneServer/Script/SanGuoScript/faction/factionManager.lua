@@ -633,7 +633,7 @@ end
 
 function TestSave( )
 	
-	local testcount = 1
+	local testcount = 100
 	local lentn = GetTableNLenth(m_factionManager)
 	if lentn < testcount then
 		for i=1,testcount do
@@ -653,11 +653,17 @@ function TestSave( )
 	SaveFactionData()
 end
 
-function showfaction(  )
+function ForceSave( )
 	for k,v in pairs(m_factionManager) do
-		look(v.Notice)
-		look(v.MemberNum)
+		v.ProperyChange = 1
 	end
+	SaveFactionData()
+end
+
+function showfaction(  )
+	local tt = CI_GetStartTime()
+	local tdata = os.date("*t",tt)
+	look(tdata)
 end
 
 

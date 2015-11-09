@@ -2,15 +2,15 @@ Variable_X = 2.75
 Variable_Y = 0.05
 PRAYERCOST_TEN = 0.9     --10连抽优惠比例
 PRAYERSHOPCOLSETIME = 24 * 60 * 60  --祈福商城的结束延时
-PRAYERSHOPOPENED = 1    --商城是否开启
+PRAYERSHOPOPENED = 0    --商城是否开启
 
 Prayer_Type = 
 {
 	Prayer_Type_Item = 1 ,  --祈福得到道具
 	Prayer_Type_Knight = 2 ,  --祈福得到武将
 }
---Prayer_FreeTime = 60 * 60 * 24 * 2   -- 48小时
-Prayer_FreeTime = 10
+Prayer_FreeTime = 60 * 60 * 24 * 2   -- 48小时
+
 PrayerConfig =
 {
 	Prayer_Cost = 280,

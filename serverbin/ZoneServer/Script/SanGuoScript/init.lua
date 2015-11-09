@@ -20,4 +20,4 @@ dofile("SanGuoScript\\War\\init.lua") --国战
 dofile("SanGuoScript\\Rank\\init.lua") --排行榜
 
 dofile("SanGuoScript\\Server\\init.lua") --服务器相关,如开服回调,关服回调等,放到最后加载
-dofile("SanGuoScript\\NetMessage\\init.lua") --服务器相关,如开服回调,关服回调等,放到最后加载
+dofile("SanGuoScript\\GameSysSwitch.lua") -- 游戏系统功能开关

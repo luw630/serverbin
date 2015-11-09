@@ -20,9 +20,10 @@ function PrayerActivity:OnActivityClosed( actParam )--当活动关闭时
 end
 
 function PrayerActivity:OnActivityOpened( actParam )----当活动开启时
-	--look("PrayerActivity:OnActivityOpened  "..actParam)
-	PlayerPrayerList = {}
-	self:SaveData(PlayerPrayerList)
+	look("PrayerActivity:OnActivityOpened  "..actParam)
+	--self:OnActivityOpened(actParam)
+	--PlayerPrayerList = {}
+	--self:SaveData(PlayerPrayerList)
 end
 
 function GetPrayerActivityName(  ) --活动名称

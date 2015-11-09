@@ -94,8 +94,7 @@ end
 
 function SynMembershipDate(sid) --登录同步
 	local monthlyData = Recharge_getdata(sid)
-	look("同步月卡时间")
-	look(monthlyData[2])
+	--look("同步月卡时间")
 	if monthlyData[2] > GetServerTime() then
 		CI_SynMembershipToClient(sid,monthlyData[2]) --
 	end

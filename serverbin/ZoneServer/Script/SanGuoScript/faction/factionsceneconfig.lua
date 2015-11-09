@@ -30,15 +30,15 @@ FactionSceneMap[920000] =
 {
 itemlist = --通关后的奖励道具列表
 {
- {range = {1,1},reward = {0,800},},
- {range = {2,2},reward = {0,500},},
- {range = {3,3},reward = {0,300},},
- {range = {4,4},reward = {0,270},},
- {range = {5,5},reward = {0,240},},
- {range = {6,6},reward = {0,210},},
- {range = {7,7},reward = {0,180},},
- {range = {8,8},reward = {0,150},},
- {range = {9,9},reward = {0,120},},
+ {range = {1,1},reward = {GoodsType.token,800},},
+ {range = {2,2},reward = {GoodsType.token,500},},
+ {range = {3,3},reward = {GoodsType.token,300},},
+ {range = {4,4},reward = {GoodsType.token,270},},
+ {range = {5,5},reward = {GoodsType.token,240},},
+ {range = {6,6},reward = {GoodsType.token,210},},
+ {range = {7,7},reward = {GoodsType.token,180},},
+ {range = {8,8},reward = {GoodsType.token,150},},
+ {range = {9,9},reward = {GoodsType.token,120},},
  {range = {10,50},reward = {0,100},},
 }, 
    -- itemlist = {11101,11102,11103,11105}, --通关后的奖励道具列表
@@ -48,61 +48,61 @@ LimitContorl = {},        --条件限制，副本ID
 ActiveValue = 3000,--活跃度
 [1] =    --每个关卡信息 1
 {
-BossInfo = {1999000,1141921.5}, --Boss 信息 ID 和血量
+BossInfo = {1999000,1.5}, --Boss 信息 ID 和血量
 Equipment = {11106,11206,11306}, --通关后的装备道具列表
 Random = {20,60,20},    --通关以后的装备抽取次数，分别递增1，2，3
 },
 [2] =    --每个关卡信息 2
 {
-BossInfo = {1999001,1390099.46}, --Boss 信息 ID 和血量
+BossInfo = {1999001,1.46}, --Boss 信息 ID 和血量
 Equipment = {11405,11505,11605}, --通关后的装备道具列表
 Random = {20,60,20},    --通关以后的装备抽取次数，分别递增1，2，3
 },
 [3] =    --每个关卡信息 3
 {
-BossInfo = {1999002,1451118.56}, --Boss 信息 ID 和血量
+BossInfo = {1999002,1.56}, --Boss 信息 ID 和血量
 Equipment = {12106,12206,12306}, --通关后的装备道具列表
 Random = {20,60,20},    --通关以后的装备抽取次数，分别递增1，2，3
 },
 [4] =    --每个关卡信息 4
 {
-BossInfo = {1999003,1600620.82}, --Boss 信息 ID 和血量
+BossInfo = {1999003,1.82}, --Boss 信息 ID 和血量
 Equipment = {12405,12505,12605}, --通关后的装备道具列表
 Random = {20,60,20},    --通关以后的装备抽取次数，分别递增1，2，3
 },
 [5] =    --每个关卡信息 5
 {
-BossInfo = {1999004,1444074.29}, --Boss 信息 ID 和血量
+BossInfo = {1999004,1.29}, --Boss 信息 ID 和血量
 Equipment = {13106,13206,13306}, --通关后的装备道具列表
 Random = {20,60,20},    --通关以后的装备抽取次数，分别递增1，2，3
 },
 [6] =    --每个关卡信息 6
 {
-BossInfo = {1999005,1249598.46}, --Boss 信息 ID 和血量
+BossInfo = {1999005,1.46}, --Boss 信息 ID 和血量
 Equipment = {13405,13505,13605}, --通关后的装备道具列表
 Random = {20,60,20},    --通关以后的装备抽取次数，分别递增1，2，3
 },
 [7] =    --每个关卡信息 7
 {
-BossInfo = {1999006,1480432.71}, --Boss 信息 ID 和血量
+BossInfo = {1999006,1.71}, --Boss 信息 ID 和血量
 Equipment = {11106,11206,11306}, --通关后的装备道具列表
 Random = {20,60,20},    --通关以后的装备抽取次数，分别递增1，2，3
 },
 [8] =    --每个关卡信息 8
 {
-BossInfo = {1999007,1247160.36}, --Boss 信息 ID 和血量
+BossInfo = {1999007,1.36}, --Boss 信息 ID 和血量
 Equipment = {11405,11505,11605}, --通关后的装备道具列表
 Random = {20,60,20},    --通关以后的装备抽取次数，分别递增1，2，3
 },
 [9] =    --每个关卡信息 9
 {
-BossInfo = {1999008,1262444.27}, --Boss 信息 ID 和血量
+BossInfo = {1999008,1.27}, --Boss 信息 ID 和血量
 Equipment = {12106,12206,12306}, --通关后的装备道具列表
 Random = {20,60,20},    --通关以后的装备抽取次数，分别递增1，2，3
 },
 [10] =    --每个关卡信息 10
 {
-BossInfo = {1999009,1277790.63}, --Boss 信息 ID 和血量
+BossInfo = {1999009,1.63}, --Boss 信息 ID 和血量
 Equipment = {12405,12505,12605}, --通关后的装备道具列表
 Random = {20,60,20},    --通关以后的装备抽取次数，分别递增1，2，3
 },

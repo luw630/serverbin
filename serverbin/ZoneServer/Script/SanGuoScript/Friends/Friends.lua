@@ -256,7 +256,7 @@ local function DeleteOneApply( sid ) --删除任意申请
 end
 
 local function SetRelation( sid, friendsid, relationType ) --设置关系，并通知客户端
-	local RelationData = FindRelation(mysid,friendsid)
+	local RelationData = FindRelation(sid,friendsid)
 	if RelationData == nil then
 		RelationData= CreateRelationData(sid, friendsid, relationType)
 	else
@@ -415,11 +415,11 @@ end
  
  function LoadFriendData(sid) -- 玩家上限，加载好友数据
 	local friendList = GetFriendList(sid)
-	local sendcount = get_Exdata(sid,SG_ExDataType.SendStaminaCount)
+	--local sendcount = get_Exdata(sid,SG_ExDataType.SendStaminaCount)
 	local getcount = get_Exdata(sid,SG_ExDataType.GetStaminaCount)
 	if friendList ~= nil then
 		SendFriendList(sid, 
-			sendcount,getcount,FriendConfig.SendStaminaChance,FriendConfig.ReceiveStaminaChance, FriendConfig.StaminaGift , friendList)
+			0,getcount,FriendConfig.SendStaminaChance,FriendConfig.ReceiveStaminaChance, FriendConfig.StaminaGift , friendList)
 	end
  end
  
@@ -446,14 +446,13 @@ end
 	if CheckPlayerOnline(friendsid) == false then
 		return
 	end
-	local count = get_Exdata(mysid,SG_ExDataType.SendStaminaCount)
+	--local count = get_Exdata(mysid,SG_ExDataType.SendStaminaCount)
 	look("SendStamina")
-	look(count)
 		--判断赠送体力次数是否为0
-	if count == nil or count  <= 0 then	
-		look("Send Stamina Count is 0")
-		return;
-	end
+	-- if count == nil or count  <= 0 then	
+	-- 	look("Send Stamina Count is 0")
+	-- 	return;
+	-- end
 	
 	local tRelationData = FindRelation(mysid,friendsid)
 	if tRelationData == nil then
@@ -473,7 +472,7 @@ end
 		return
 	end
 	tRelationData[DataKey.bySendFlag] = 1 --改为不可赠送
-	set_Exdata(mysid, SG_ExDataType.SendStaminaCount, count - 1)--自己赠送次数递减
+	--set_Exdata(mysid, SG_ExDataType.SendStaminaCount, count - 1)--自己赠送次数递减
 	SendAddFriendToList(mysid, tRelationData)	--通知客户端更新
 	--look(get_Exdata(mysid,SG_ExDataType.SendStaminaCount))
 	--通知好友已经赠送给他体力
@@ -491,7 +490,6 @@ end
  
  local function ReceiveStamina(mysid, friendsid)
 	--look("ReceiveStamina")
-		byRecieveFlag = 8
 	local count = get_Exdata(mysid,SG_ExDataType.GetStaminaCount)
 	if count == nil or count  <= 0 then	
 		look("Get Stamina Count is 0")
@@ -523,8 +521,10 @@ end
  
  function UpdateFriendData(sid) --刷新好友数据
  	local friendList = GetFriendList(sid)
+ 	local friendsid 
 	for k,v in pairs(friendList) do
 		if type(k) == type(0) and CheckPlayerOnline(k) == true then
+			friendsid = k 
 			if v[DataKey.bRelation] == FriendType.Friend then --如果是好友关系 则更新
 				v[DataKey.sFriendName] = CI_GetPlayerDataSG(friendsid,4)
 				v[DataKey.wHeadIcon] = CI_GetPlayerDataSG(friendsid,9)
@@ -533,7 +533,8 @@ end
 			end
 		end
 	end
-	SendFriendList(sid,0,0,0,0,0, friendList)
+	local getcount = get_Exdata(sid,SG_ExDataType.GetStaminaCount)
+	SendFriendList(sid,0,getcount,0,0,0, friendList)
  end
 
  function ProcessFriend(mysid,friendsid, sFriendName, bRelation) --处理好友功能请求
@@ -600,19 +601,20 @@ end
 
  
  function FriendLogout(sid)
-	look("FriendLogout")
+--	look("FriendLogout")
 	local friendList = GetFriendList(sid)
 	if friendList == nil then
+		look("if friendList == nil then")
 		return
 	end
-	
+	-- look("FriendLogout")
+	-- look(friendList)
 	for k,v in pairs(friendList) do
-		if type(k) ~= type(0) then
-			return
-		end
-		
-		if CheckPlayerOnline(k) == true then	
-			UpdateMyOnlineState(sid,k,0) 			--同时向在线的好友更新自己的在线状态,退出游戏更新为离线
+		if type(k) == type(0) then
+			if CheckPlayerOnline(k) == true then
+			look("UpdateMyOnlineState(sid,k,0)")	
+				UpdateMyOnlineState(sid,k,0) 			--同时向在线的好友更新自己的在线状态,退出游戏更新为离线
+			end
 		end
 	end
  end
@@ -637,7 +639,7 @@ end
 	dbMgr[sid].data['friend'] = newList
 	
 	set_Exdata(sid,SG_ExDataType.GetStaminaCount,FriendConfig.ReceiveStaminaChance)
-	set_Exdata(sid, SG_ExDataType.SendStaminaCount,FriendConfig.SendStaminaChance)
+	--set_Exdata(sid, SG_ExDataType.SendStaminaCount,FriendConfig.SendStaminaChance)
 
  end
  
@@ -658,7 +660,7 @@ function MockCreateRelation( sid ,friendsid, reType)
 	friendlist[friendsid] = RelationData
 	return RelationData
 end
-
+--look(Friend_getdata(1000100020))
  function fff()
 	--ProcessFriend(1000100001, 1000100002, "2222", 4)
 	-- MockCreateRelation(1000100001, 1, 0)

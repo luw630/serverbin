@@ -20,20 +20,26 @@ function DataServiceSaveData(activityName,datatable) --保存全局活动数据
 	--look("DataServiceSaveData  Save"..activityName)
 end
 
+--20151103 wk 改为引用，活动数据就不用  Activitymodule:SaveData了，会自动定时存数据
 function DataServiceGetData(activityName)
-	local datatable = {}
-	for k,v in pairs(g_DataService) do
-		if type(k) == "string" and type(v) == "table" then
-			if k == activityName then
-				datatable = deepcopy(v)
-				return datatable
-			end
-		end
+	-- local datatable = {}
+	-- for k,v in pairs(g_DataService) do
+		-- if type(k) == "string" and type(v) == "table" then
+			-- if k == activityName then
+				-- datatable = deepcopy(v)
+				-- return datatable
+			-- end
+		-- end
+	-- end
+	-- return nil
+	if g_DataService[activityName] == nil then
+		g_DataService[activityName] = {}
 	end
-	return nil
+	return  g_DataService[activityName]
 end
 
  function ResetData( activityName ) --清除保存的数据
+ 	BackUpLuaData()
  	for k,v in pairs(g_DataService) do
 		if type(k) == "string" and type(v) == "table" then
 			if k == activityName then
@@ -63,7 +69,7 @@ function SaveLocalData(  ) --保存并清空数据
 		if type(k) == "string" and type(v) == "table" then
 			local savepath = LocalDataPath.."\\"..k..".ldb"
 			SaveTable(savepath,v)
-			look("SaveLocalData  "..k)
+			--look("SaveLocalData  "..k)
 			--g_DataService[k] = {}
 		end
 	end

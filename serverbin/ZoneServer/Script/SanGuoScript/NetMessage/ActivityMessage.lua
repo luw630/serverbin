@@ -2,7 +2,6 @@
 local IMessage = require("Script.SanGuoScript.NetMessage.MessageDefine")
 
 
-
 local ACTIVITYMESSAGE = {}
 ACTIVITYMESSAGE.imessagetype = IMessage.SANGUO_ACTIVITYMESSAGE
 ACTIVITYMESSAGE.Head = 

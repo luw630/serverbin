@@ -1,34 +1,37 @@
 dofile("SanGuoScript\\common\\globalType.lua")
 dofile("SanGuoScript\\common\\player.lua")--
-dofile("SanGuoScript\\common\\checkIn.lua")--ç­¾åˆ°
-dofile("SanGuoScript\\common\\dbrpc.lua")--dbæ“ä½œ
+dofile("SanGuoScript\\common\\checkIn.lua")--Ç©µ½
+dofile("SanGuoScript\\common\\dbrpc.lua")--db²Ù×÷
 
 
 dofile("SanGuoScript\\common\\message.lua")
 
---æç¤ºå­—ç¬¦ä¸² ç»Ÿä¸€è„šæœ¬
+--ÌáÊ¾×Ö·û´® Í³Ò»½Å±¾
 
 dofile("SanGuoScript\\common\\TipConfig.lua")
 dofile("SanGuoScript\\common\\TipFunction.lua")
 
---å°å‹å¥–åŠ±çš„æ•°æ®é…ç½®å’Œé€»è¾‘å¤„ç†æ¨¡å—çš„åŠ è½½
+--Ğ¡ĞÍ½±ÀøµÄÊı¾İÅäÖÃºÍÂß¼­´¦ÀíÄ£¿éµÄ¼ÓÔØ
 dofile("SanGuoScript\\common\\DessertConfig.lua")
 dofile("SanGuoScript\\common\\DessertLogic.lua")
 
---å®¢æˆ·ç«¯çš„ç³»ç»Ÿæ¨é€é€šçŸ¥çš„å¤„ç†æ¨¡å—
+--¿Í»§¶ËµÄÏµÍ³ÍÆËÍÍ¨ÖªµÄ´¦ÀíÄ£¿é
 dofile("SanGuoScript\\common\\NotificationConfig.lua")
 dofile("SanGuoScript\\common\\NotificationProcess.lua")
 
---ç©å®¶æ”¹åé€»è¾‘
+--Íæ¼Ò¸ÄÃûÂß¼­
 dofile("SanGuoScript\\common\\ChangGameName.lua")
 
---ä»»åŠ¡ç›¸å…³é€»è¾‘
+--ÈÎÎñÏà¹ØÂß¼­
 dofile("SanGuoScript\\common\\MissionData.lua")
---ä»»åŠ¡æ´»è·ƒåº¦ç›¸å…³
+--ÈÎÎñ»îÔ¾¶ÈÏà¹Ø
 dofile("SanGuoScript\\common\\MissionActivenessRewards.lua")
 
---ç©å®¶æ•°æ®ä¿®æ”¹ç›¸å›è°ƒ
+--Íæ¼ÒÊı¾İĞŞ¸ÄÏà»Øµ÷
 dofile("SanGuoScript\\common\\playerModifyCallBack.lua")
 
---æœˆå¡å……å€¼ç›¸å…³
+--ÔÂ¿¨³äÖµÏà¹Ø
 dofile("SanGuoScript\\common\\MonthlyMembership.lua")
+
+--Íæ¼ÒÀÛ¼Æ»ñµÃÔª±¦
+dofile("SanGuoScript\\common\\playerTotalDiamond.lua")

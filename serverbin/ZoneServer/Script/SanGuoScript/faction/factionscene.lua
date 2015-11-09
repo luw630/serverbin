@@ -334,7 +334,7 @@ function OnChallengeFinish( sid,HurtValue ) --关卡挑战完成，发送伤害�
 					v.stauts = 1 			--状态为已经通关
 					v.BossHP = 0
 					FactionInfo.SceneStatus[sceneID].scenemapCount = FactionInfo.SceneStatus[sceneID].scenemapCount + 1
-					DropEquipment(FactionInfo,sceneID,scenemapIndex,PlayerName)
+					--DropEquipment(FactionInfo,sceneID,scenemapIndex,PlayerName)   --屏蔽在单个关卡通关以后掉落
 					break
 				end
 			end
@@ -814,7 +814,7 @@ function RequestSceneEquipment(sid,elevle,EIndex) --玩家申请副本掉落的�
 				FactionInfo.ProperyChange = 1
 			else
 				look("can't GotEquipment In this Time")
-				SendRqEquiptResult(sid,5)
+				SendRqEquiptResult(sid,5,FACTIONEQUIPMENTCD - difftime )
 				return 5
 			end
 		end
@@ -827,8 +827,12 @@ function RequestSceneEquipment(sid,elevle,EIndex) --玩家申请副本掉落的�
 
 		memberinfo.RequestEquipment = RequestEquipment
 		AddRequestEquipment(FactionID,sid,RequestEquipment)
-		OnGotEquipment(FactionInfo,PlayerName,RequestEquipment)
 		FactionInfo.ProperyChange = 1
+		if OnGotEquipment(FactionInfo,PlayerName,RequestEquipment) == 1 then
+			SendRqEquiptResult(sid,7)
+			look("Player had Got RequestEquipment "..RequestEquipment)
+			return
+		end
 		SendRqEquiptResult(sid,1)
 		look("Player RequestEquipment "..RequestEquipment.."  sucessed ")
 	end
@@ -839,7 +843,7 @@ end
 function OnGotEquipment( FactionInfo,PlayerName,EquipmentIndex)
 	if FactionInfo == nil then
 		look("OnGotEquipment FactionInfo == nil ")
-		return
+		return 0
 	end
 	local memberinfo = GetMemberInfoFromFaction(FactionInfo.FactionID,PlayerName,1)
 	if FactionInfo.EquipmentDepot ~= nil then
@@ -856,12 +860,13 @@ function OnGotEquipment( FactionInfo,PlayerName,EquipmentIndex)
 						MystringFormat("MAIL_FACTIONEQUIPT_CONTENT"),EquipmentIndex,1)
 						OnAddFactionLog(FactionInfo.FactionID,FACTIONOPERATE.GOTEQUIPMENT,PlayerName,EquipmentIndex) --俸禄领取日志
 						look("Player Got QuestEquipment "..EquipmentIndex)
+						return 1
 					end
 				end
 			end
 		end
-
 	end
+	return 2
 end
 
 function GetFactionEquipmentNum( FactionInfo,EquipmentIndex ) --获取仓库中的装备数量
@@ -916,9 +921,9 @@ function DropEquipment( FactionInfo,sceneID, scenemapIndex,dropPlayerName) --BOS
 					AddEquipToFaction(FactionInfo,scenemap.Equipment[randomindex],1)
 					table.insert(DropEquip,scenemap.Equipment[randomindex])
 				end
-
+				local SceneMapIDString = tostring(sceneID + scenemapIndex)
 				for k,v in pairs(DropEquip) do
-					OnAddFactionLog(FactionInfo.FactionID,FACTIONOPERATE.DROPEQUIP,dropPlayerName,v) --副本装备掉落日志
+					OnAddFactionLog(FactionInfo.FactionID,FACTIONOPERATE.DROPEQUIP,SceneMapIDString,v) --副本装备掉落日志
 				end
 
 	

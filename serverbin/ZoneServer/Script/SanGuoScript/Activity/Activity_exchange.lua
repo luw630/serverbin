@@ -85,7 +85,7 @@ look(num)
 	
 	res=1
 	CI_exchangeActRes(res,Index,pActData[Index])
-	actmodule:SaveData(exchangeActData)
+--	actmodule:SaveData(exchangeActData)
 end
 
 
